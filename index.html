@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Interpretation Map</title>
+    <title>MapTerps</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
-        #mapid { height: 400px; width: 100%; }
+        #mapid { height: 800px; width: 100%; }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to my Map Website!</h1>
+    <h1>Exploring Soil Interpretation Possibilities</h1>
 
     <div id="mapid"></div>
 
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-        var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+        var mymap = L.map('mapid').setView([31.613, -94.637], 10);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(mymap);
 
-        L.marker([51.5, -0.09]).addTo(mymap)
-            .bindPopup('A pretty CSS popup.<br> Easily customizable.')
+        L.marker([31.613, -94.637]).addTo(mymap)
+            .bindPopup('Default Location:<br> Soil Survey Office')
             .openPopup();
     </script>
 
