@@ -1,73 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Interactive Map Page</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIINfQPDWS6rzY4E1nyFGNadPF6qiPBwzlY="
-        crossorigin=""/>
-
+    <title>My Interactive Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
-        /* This CSS is important to give the map a defined height and width */
-        #mapid {
-            height: 500px; /* Give the map a height */
-            width: 100%; /* Make it fill the width of its container */
-            border: 1px solid #ccc; /* Just for visual separation */
-            margin-top: 20px; /* Some space above the map */
-        }
+        #mapid { height: 400px; width: 100%; }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to My Interactive Map!</h1>
-    <p>Below is a map powered by Leaflet. You can pan, zoom, and explore.</p>
+    <h1>Welcome to my Map Website!</h1>
 
     <div id="mapid"></div>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nSL00pL9f4bTzJ3hC9vJ5Wl4D0m3uKk8pG3b0C0Qc="
-        crossorigin=""></script>
-
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-        // Initialize the map
-        // L.map('mapid') creates a map object linked to the div with id 'mapid'
-        // setView([latitude, longitude], zoom_level) sets the initial view
-        var mymap = L.map('mapid').setView([51.505, -0.09], 13); // Centered on London, zoom level 13
+        var mymap = L.map('mapid').setView([51.505, -0.09], 13);
 
-        // Add a tile layer (the actual map images)
-        // OpenStreetMap is a common and free tile provider
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
         }).addTo(mymap);
 
-        // Optional: Add a marker
-        var marker = L.marker([51.5, -0.09]).addTo(mymap)
-            .bindPopup('<b>Hello world!</b><br />I am a popup.').openPopup();
-
-        // Optional: Add a circle
-        var circle = L.circle([51.508, -0.11], {
-            color: 'red',
-            fillColor: '#f03',
-            fillOpacity: 0.5,
-            radius: 500
-        }).addTo(mymap).bindPopup("I am a circle.");
-
-        // Optional: Add a polygon
-        var polygon = L.polygon([
-            [51.509, -0.08],
-            [51.503, -0.06],
-            [51.51, -0.047]
-        ]).addTo(mymap).bindPopup("I am a polygon.");
-
-        // Optional: Example of handling a click event
-        function onMapClick(e) {
-            alert("You clicked the map at " + e.latlng);
-        }
-        mymap.on('click', onMapClick);
-
+        L.marker([51.5, -0.09]).addTo(mymap)
+            .bindPopup('A pretty CSS popup.<br> Easily customizable.')
+            .openPopup();
     </script>
 
 </body>
