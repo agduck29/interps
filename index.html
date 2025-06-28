@@ -2,11 +2,13 @@
 <html>
 <head>
     <title>MapTerps</title>
+    <!-- Include the Open Sans font from Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
         #mapid { height: 800px; width: 100%; }
         h1 {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Open Sans', sans-serif;
         }
     </style>
 </head>
@@ -17,16 +19,40 @@
     <div id="mapid"></div>
 
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <!-- Include the esri-leaflet plugin -->
+    <script src="https://unpkg.com/esri-leaflet@3.0.10/dist/esri-leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet-vector@4.2.4/dist/esri-leaflet-vector.js"></script>
     <script>
         var mymap = L.map('mapid').setView([31.613, -94.637], 10);
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors'
-        }).addTo(mymap);
+        // Define the Esri basemaps using their string identifiers (enums)
+	// Leaflet basemaps: https://leaflet-extras.github.io/leaflet-providers/preview/
+        var esriWorldPhysical = L.esri.basemapLayer('Physical');
+        var esriWorldImagery = L.esri.basemapLayer('Imagery');
+        var esriWorldTerrain = L.esri.basemapLayer('Terrain');
+        var esriOceanBasemap = L.esri.basemapLayer('Oceans');
 
-        L.marker([31.613, -94.637]).addTo(mymap)
+        // Add the default basemap to the map
+        esriWorldPhysical.addTo(mymap); // Esri WorldPhysical is the default
+
+        // Add a marker as an overlay
+        var defaultMarker = L.marker([31.613, -94.637]).addTo(mymap)
             .bindPopup('Default Location:<br> Soil Survey Office')
             .openPopup();
+
+        // Layer control to switch between base maps and overlays
+        var baseMaps = {
+            "Esri World Physical": esriWorldPhysical,
+            "Esri World Imagery": esriWorldImagery,
+            "Esri World Terrain": esriWorldTerrain,
+            "Esri Ocean Basemap": esriOceanBasemap
+        };
+
+        var overlays = {
+            "Default Marker": defaultMarker
+        };
+
+        L.control.layers(baseMaps, overlays).addTo(mymap);
     </script>
 
 </body>
