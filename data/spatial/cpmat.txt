@@ -1,0 +1,439 @@
+"pmorder"|"pmmodifier"|"pmgenmod"|"pmkind"|"pmorigin"|"copmgrpkey"|"copmkey"
+|"Loamy"|""|"Alluvium"|""|18044939|25650271
+|"Loamy"|""|"Alluvium"|""|18044940|25650272
+|"Sandy"|""|"Alluvium"|""|18044941|25650273
+|"Loamy"|""|"Alluvium"|""|18044942|25650274
+|"Loamy"|""|"Alluvium"|""|18044943|25650275
+|"Sandy"|""|"Marine deposits"|""|18044944|25650276
+|"Loamy"|""|"Marine deposits"|""|18044945|25650277
+|"Sandy"|""|"Marine deposits"|""|18044946|25650278
+|"Sandy and loamy"|""|"Fluviomarine deposits"|""|18044947|25650279
+|"Loamy"|""|"Alluvium"|""|18044499|25649758
+|"Sandy"|""|"Alluvium"|""|18044500|25649759
+|"Loamy"|""|"Marine deposits"|""|18044689|25649983
+|"Loamy"|""|"Marine deposits"|""|18044690|25649984
+|"Clayey"|""|"Fluviomarine deposits"|""|18044691|25649985
+|"Sandy"|""|"Marine deposits"|""|18044888|25650211
+|"Loamy"|""|"Marine deposits"|""|18044889|25650212
+|"Sandy"|""|"Marine deposits"|""|18044890|25650213
+|"Clayey"|""|"Marine deposits"|""|18044891|25650214
+|"Loamy"|""|"Marine deposits"|""|18044958|25650294
+2|"Loamy"|""|"Alluvium"|""|18044959|25650296
+1|"Loamy"|""|"Colluvium"|""|18044959|25650295
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18045016|25650361
+|"Sandy"|""|"Marine deposits"|""|18045017|25650362
+|"Clayey"|""|"Marine deposits"|""|18045018|25650363
+|"Clayey"|""|"Fluviomarine deposits"|""|18045019|25650364
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044853|25650175
+|"Clayey"|""|"Marine deposits"|""|18044854|25650176
+|"Clayey"|""|"Fluviomarine deposits"|""|18044855|25650177
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044856|25650178
+|"Clayey"|""|"Marine deposits"|""|18044857|25650179
+|"Clayey"|""|"Fluviomarine deposits"|""|18044858|25650180
+1|""|"sandy and loamy"|"Marine deposits"|""|18044975|25650316
+|"Sandy"|""|"Marine deposits"|""|18044976|25650317
+1|""|"sandy and loamy"|"Marine deposits"|""|18044977|25650318
+|"Clayey"|""|"Marine deposits"|""|18044978|25650319
+|"Loamy"|""|"Residuum"|"Glauconitic sandstone"|18044719|25650020
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044720|25650021
+|"Clayey"|""|"Alluvium"|""|18044721|25650022
+1|""|"sandy and loamy"|"Marine deposits"|""|18044799|25650112
+|"Sandy"|""|"Marine deposits"|""|18044800|25650113
+1|""|"sandy and loamy"|"Marine deposits"|""|18044801|25650114
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044859|25650181
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044860|25650182
+|"Sandy"|""|"Fluviomarine deposits"|""|18044861|25650184
+|"Loamy"|""|"Fluviomarine deposits"|""|18044861|25650183
+1|""|"sandy and loamy"|"Marine deposits"|""|18044862|25650185
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044863|25650186
+|"Sandy"|""|"Marine deposits"|""|18044864|25650187
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044865|25650188
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044850|25650172
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044851|25650173
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044852|25650174
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18045020|25650365
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18045021|25650366
+|"Loamy"|""|"Alluvium"|""|18044866|25650189
+|"Loamy"|""|"Alluvium"|""|18044867|25650190
+|"Clayey"|""|"Alluvium"|""|18044868|25650191
+|"Loamy"|""|"Alluvium"|""|18044869|25650192
+|"Loamy"|""|"Alluvium"|""|18044831|25650152
+|"Loamy"|""|"Alluvium"|""|18044832|25650153
+|"Clayey"|""|"Alluvium"|""|18044833|25650154
+|"Clayey"|""|"Fluviomarine deposits"|""|18044692|25649986
+|"Loamy"|""|"Marine deposits"|""|18044693|25649987
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18045022|25650367
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18045023|25650368
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044586|25649858
+|"Loamy"|"glauconitic"|"Marine deposits"|""|18044587|25649859
+|"Clayey"|""|"Alluvium"|""|18044588|25649860
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044731|25650033
+|"Clayey"|""|"Marine deposits"|""|18044732|25650034
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044733|25650035
+|"Loamy"|""|"Marine deposits"|""|18044734|25650036
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044729|25650031
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044730|25650032
+|"Clayey"|""|"Marine deposits"|""|18044716|25650016
+|"Loamy"|""|"Marine deposits"|""|18044717|25650017
+1|"Loamy"|""|"Marine deposits"|""|18044718|25650018
+2|"Clayey"|""|"Marine deposits"|""|18044718|25650019
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044904|25650228
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044905|25650229
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044906|25650230
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044735|25650037
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044736|25650038
+|"Sandy"|""|"Marine deposits"|""|18044589|25649861
+|"Loamy"|""|"Marine deposits"|""|18044589|25649862
+|"Sandy"|""|"Marine deposits"|""|18044590|25649863
+|"Loamy"|""|"Marine deposits"|""|18044590|25649864
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044591|25649865
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18045024|25650369
+|"Loamy"|""|"Marine deposits"|""|18045025|25650371
+|"Sandy"|""|"Marine deposits"|""|18045025|25650370
+|"Loamy"|""|"Marine deposits"|""|18045026|25650372
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18045027|25650373
+|"Loamy"|""|"Alluvium"|""|18044834|25650155
+|"Loamy"|""|"Alluvium"|""|18044835|25650156
+|"Loamy"|""|"Alluvium"|""|18044449|25649694
+|"Loamy"|""|"Alluvium"|""|18044450|25649695
+|"Loamy"|""|"Alluvium"|""|18045028|25650374
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18045029|25650375
+|"Loamy"|"glauconitic"|"Marine deposits"|""|18044962|25650299
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044963|25650300
+|"Clayey"|""|"Alluvium"|""|18044964|25650301
+|"Sandy"|""|"Alluvium"|""|18044577|25649848
+|"Loamy"|""|"Alluvium"|""|18044578|25649849
+|"Loamy"|""|"Alluvium"|""|18044579|25649850
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044836|25650157
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044837|25650158
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044879|25650202
+|"Loamy"|""|"Marine deposits"|""|18044880|25650203
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044881|25650204
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044885|25650208
+|"Loamy"|""|"Marine deposits"|""|18044886|25650209
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044887|25650210
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044847|25650169
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044848|25650170
+|"Loamy"|""|"Marine deposits"|""|18044849|25650171
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18045035|25650382
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18045036|25650383
+|"Loamy"|""|"Marine deposits"|""|18045037|25650384
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044882|25650205
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044883|25650206
+|"Loamy"|""|"Marine deposits"|""|18044884|25650207
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044870|25650193
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044871|25650194
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044872|25650195
+|"Loamy"|""|"Marine deposits"|""|18044873|25650196
+|"Sandy"|""|"Alluvium"|""|18044874|25650197
+1|""|"sandy and loamy"|"Marine deposits"|""|18044875|25650198
+|"Sandy"|""|"Alluvium"|""|18044876|25650199
+|"Sandy"|""|"Alluvium"|""|18044877|25650200
+1|""|"sandy and loamy"|"Marine deposits"|""|18044878|25650201
+|"Loamy"|""|"Alluvium"|""|18044749|25650051
+|"Loamy"|""|"Alluvium"|""|18044750|25650052
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044960|25650297
+|"Loamy"|""|"Marine deposits"|""|18044961|25650298
+|"Sandy"|""|"Residuum"|"Sandstone and shale"|18044572|25649843
+|"Sandy"|""|"Marine deposits"|""|18044595|25649870
+|"Loamy"|""|"Marine deposits"|""|18044595|25649869
+|"Loamy"|""|"Alluvium"|""|18044596|25649871
+|"Loamy"|""|"Alluvium"|""|18044597|25649872
+|"Sandy"|""|"Alluvium"|""|18044597|25649873
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044838|25650159
+1|""|"sandy and loamy"|"Marine deposits"|""|18044839|25650160
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044840|25650161
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18045030|25650376
+|"Loamy"|""|"Marine deposits"|""|18045031|25650377
+|"Loamy"|""|"Fluviomarine deposits"|""|18045032|25650378
+|"Sandy"|""|"Fluviomarine deposits"|""|18045032|25650379
+|"Loamy"|""|"Marine deposits"|""|18045014|25650359
+|"Clayey"|""|"Fluviomarine deposits"|""|18045015|25650360
+|"Clayey"|""|"Fluviomarine deposits"|""|18045050|25650401
+|"Clayey"|""|"Fluviomarine deposits"|""|18045051|25650402
+|"Loamy"|""|"Marine deposits"|""|18045052|25650403
+|"Clayey"|""|"Marine deposits"|""|18044979|25650320
+|"Loamy"|""|"Marine deposits"|""|18044980|25650321
+1|""|"sandy and loamy"|"Marine deposits"|""|18044981|25650322
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044841|25650162
+|"Sandy"|""|"Marine deposits"|""|18044842|25650163
+|"Loamy"|""|"Marine deposits"|""|18044842|25650164
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044843|25650165
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044492|25649751
+|"Sandy"|""|"Marine deposits"|""|18044493|25649752
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18044494|25649753
+|"Loamy"|""|"Alluvium"|""|18044805|25650118
+|"Loamy"|""|"Alluvium"|""|18044806|25650119
+|"Sandy"|""|"Alluvium"|""|18044658|25649948
+|"Sandy"|""|"Residuum"|"Sandstone and shale"|18044659|25649949
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044953|25650288
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044954|25650289
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044737|25650039
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044738|25650040
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18045033|25650380
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18045034|25650381
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044619|25649904
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044620|25649905
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044621|25649906
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044739|25650041
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18044740|25650042
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044741|25650043
+|"Clayey"|"glauconitic"|"Marine deposits"|""|18044742|25650044
+|"Loamy"|""|"Alluvium"|""|18045038|25650385
+|"Loamy"|""|"Alluvium"|""|18045039|25650386
+1|"Clayey"|""|"Alluvium"|""|18045040|25650387
+2|"Loamy"|""|"Alluvium"|""|18045041|25650388
+1|"Loamy"|""|"Colluvium"|""|18045041|25650389
+|"Loamy"|""|"Alluvium"|""|18044743|25650045
+|"Loamy"|""|"Alluvium"|""|18044744|25650046
+|"Loamy"|""|"Alluvium"|""|18044745|25650047
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044510|25649775
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044511|25649776
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044746|25650048
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18044747|25650049
+|"Clayey"|""|"Marine deposits"|""|18044748|25650050
+|"Loamy"|""|"Alluvium"|""|18044892|25650215
+|"Clayey"|""|"Marine deposits"|""|18044893|25650216
+|"Clayey"|""|"Fluviomarine deposits"|""|18044894|25650217
+|"Loamy"|""|"Alluvium"|""|18044844|25650166
+|"Loamy"|""|"Alluvium"|""|18044845|25650167
+|"Loamy"|""|"Alluvium"|""|18044846|25650168
+|"Loamy"|""|"Alluvium"|""|18044965|25650302
+|"Loamy"|""|"Alluvium"|""|18044966|25650303
+|"Sandy and loamy"|""|"Alluvium"|""|18044967|25650304
+1|"Loamy"|""|"Alluvium"|""|18044751|25650053
+2|"Clayey"|""|"Fluviomarine deposits"|""|18044751|25650054
+|"Clayey"|""|"Marine deposits"|""|18044752|25650055
+|"Clayey"|""|"Marine deposits"|""|18044991|25650332
+1|"Loamy"|""|"Alluvium"|""|18044992|25650333
+2|"Clayey"|""|"Fluviomarine deposits"|""|18044992|25650334
+1|"Loamy"|""|"Fluviomarine deposits"|""|18044925|25650255
+2|"Clayey"|""|"Fluviomarine deposits"|""|18044925|25650254
+1|"Loamy"|""|"Alluvium"|""|18044926|25650256
+2|"Clayey"|""|"Fluviomarine deposits"|""|18044926|25650257
+|"Clayey"|""|"Marine deposits"|""|18044927|25650258
+1|"Loamy"|""|"Alluvium"|""|18044928|25650259
+2|"Clayey"|""|"Fluviomarine deposits"|""|18044928|25650260
+|"Loamy"|""|"Alluvium"|""|18044714|25650014
+|"Loamy"|""|"Alluvium"|""|18044715|25650015
+|"Loamy"|""|"Alluvium"|""|18053482|25660975
+|"Loamy"|""|"Alluvium"|""|18053483|25660976
+|"Loamy"|""|"Alluvium"|""|18053580|25661085
+|"Clayey"|""|"Marine deposits"|""|18053581|25661086
+|"Clayey"|""|"Fluviomarine deposits"|""|18053582|25661087
+|"Loamy"|""|"Marine deposits"|""|18053494|25660987
+|"Loamy"|""|"Alluvium"|""|18053495|25660988
+|"Loamy"|""|"Alluvium"|""|18053496|25660989
+|"Clayey"|""|"Fluviomarine deposits"|""|18053606|25661113
+|"Clayey"|""|"Marine deposits"|""|18053607|25661114
+|"Loamy"|""|"Alluvium"|""|18053608|25661115
+1|""|"sandy and loamy"|"Marine deposits"|""|18053510|25661003
+|"Sandy"|""|"Marine deposits"|""|18053511|25661004
+|"Sandy"|""|"Marine deposits"|""|18053512|25661005
+|"Loamy"|""|"Alluvium"|""|18053497|25660990
+|"Sandy"|""|"Alluvium"|""|18053498|25660991
+|"Clayey"|""|"Fluviomarine deposits"|""|18053587|25661092
+|"Loamy"|""|"Marine deposits"|""|18053588|25661093
+|"Clayey"|""|"Marine deposits"|""|18053589|25661094
+|"Loamy"|""|"Marine deposits"|""|18053590|25661095
+|"Loamy"|""|"Marine deposits"|""|18053591|25661096
+|"Clayey"|""|"Marine deposits"|""|18053586|25661091
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18053548|25661046
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053549|25661047
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053550|25661048
+|"Sandy"|""|"Marine deposits"|""|18053525|25661019
+|"Clayey"|""|"Residuum"|""|18053526|25661020
+|"Loamy"|""|"Alluvium"|""|18053527|25661021
+|"Loamy"|""|"Fluviomarine deposits"|""|18053484|25660977
+|"Loamy"|""|"Fluviomarine deposits"|""|18053485|25660978
+|"Loamy"|""|"Fluviomarine deposits"|""|18053486|25660979
+1|"Clayey"|""|"Marine deposits"|""|18053487|25660980
+1|""|"sandy and loamy"|"Marine deposits"|""|18053634|25661146
+|"Clayey"|""|"Marine deposits"|""|18053635|25661147
+1|""|"sandy and loamy"|"Marine deposits"|""|18053636|25661148
+|"Sandy"|""|"Marine deposits"|""|18053637|25661149
+1|""|"sandy and loamy"|"Marine deposits"|""|18053652|25661165
+|"Clayey"|""|"Marine deposits"|""|18053653|25661166
+|"Sandy"|""|"Marine deposits"|""|18053654|25661167
+|"Clayey"|""|"Alluvium"|""|18053528|25661022
+|"Loamy"|""|"Alluvium"|""|18053529|25661023
+|"Loamy"|""|"Marine deposits"|""|18053530|25661024
+|"Loamy"|""|"Marine deposits"|""|18053531|25661025
+2|"Clayey"|""|"Alluvium"|""|18053600|25661107
+1|"Loamy"|""|"Alluvium"|""|18053600|25661105
+2|"Loamy"|""|"Alluvium"|""|18053600|25661106
+|"Loamy"|""|"Alluvium"|""|18053601|25661108
+|"Loamy"|""|"Alluvium"|""|18053602|25661109
+|"Loamy"|""|"Alluvium"|""|18053593|25661098
+|"Loamy"|""|"Alluvium"|""|18053594|25661099
+|"Clayey"|""|"Alluvium"|""|18053595|25661100
+|"Loamy"|""|"Alluvium"|""|18053532|25661026
+|"Clayey"|""|"Alluvium"|""|18053533|25661027
+|"Loamy"|""|"Alluvium"|""|18053534|25661028
+|"Loamy"|""|"Alluvium"|""|18053647|25661160
+|"Loamy"|""|"Alluvium"|""|18053648|25661161
+|"Loamy"|""|"Alluvium"|""|18053649|25661162
+|"Sandy"|""|"Alluvium"|""|18053576|25661081
+|"Sandy"|""|"Alluvium"|""|18053577|25661082
+|"Loamy"|""|"Alluvium"|""|18053578|25661083
+|"Sandy"|""|"Alluvium"|""|18053579|25661084
+|"Loamy"|""|"Alluvium"|""|18053609|25661116
+|"Loamy"|""|"Alluvium"|""|18053610|25661117
+2|"Clayey"|""|"Alluvium"|""|18053611|25661119
+1|"Loamy"|""|"Alluvium"|""|18053611|25661118
+2|"Loamy"|""|"Alluvium"|""|18053611|25661120
+|"Loamy"|""|"Alluvium"|""|18053612|25661121
+|"Loamy"|""|"Fluviomarine deposits"|""|18053596|25661101
+|"Clayey"|""|"Fluviomarine deposits"|""|18053597|25661102
+|"Loamy"|""|"Fluviomarine deposits"|""|18053598|25661103
+|"Loamy"|""|"Fluviomarine deposits"|""|18053599|25661104
+|"Sandy"|""|"Marine deposits"|""|18053499|25660992
+|"Loamy"|""|"Alluvium"|""|18053500|25660993
+|"Clayey"|""|"Residuum"|""|18053501|25660994
+|"Loamy"|""|"Fluviomarine deposits"|""|18053502|25660995
+|"Clayey"|""|"Residuum"|""|18053613|25661122
+|"Sandy"|""|"Marine deposits"|""|18053614|25661123
+1|""|"sandy and loamy"|"Marine deposits"|""|18053615|25661124
+|"Loamy"|""|"Fluviomarine deposits"|""|18053616|25661125
+1|""|"sandy and loamy"|"Marine deposits"|""|18053503|25660996
+|"Clayey"|""|"Marine deposits"|""|18053504|25660997
+|"Sandy"|""|"Marine deposits"|""|18053505|25660998
+|"Clayey"|""|"Residuum"|""|18053506|25660999
+|"Loamy"|""|"Alluvium"|""|18053516|25661009
+|"Loamy"|""|"Alluvium"|""|18053603|25661110
+|"Loamy"|""|"Alluvium"|""|18053604|25661111
+|"Loamy"|""|"Alluvium"|""|18053605|25661112
+|"Loamy"|""|"Marine deposits"|""|18053617|25661126
+1|"Loamy"|""|"Alluvium"|""|18053618|25661128
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053618|25661127
+|"Clayey"|""|"Marine deposits"|""|18053619|25661129
+1|"Loamy"|""|"Fluviomarine deposits"|""|18053620|25661130
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053620|25661131
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053513|25661006
+|"Sandy and loamy"|""|"Fluviomarine deposits"|""|18053514|25661007
+|"Sandy and loamy"|""|"Fluviomarine deposits"|""|18053515|25661008
+|"Loamy"|""|"Marine deposits"|""|18053667|25661189
+|"Clayey"|""|"Marine deposits"|""|18053668|25661190
+|"Loamy"|""|"Alluvium"|""|18053517|25661010
+|"Loamy"|""|"Alluvium"|""|18053518|25661011
+|"Loamy"|""|"Alluvium"|""|18053519|25661012
+|"Loamy"|""|"Alluvium"|""|18053560|25661061
+|"Loamy"|""|"Alluvium"|""|18053561|25661062
+|"Loamy"|""|"Alluvium"|""|18053562|25661064
+|"Sandy"|""|"Alluvium"|""|18053562|25661063
+1|"Loamy"|""|"Alluvium"|""|18053520|25661013
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053520|25661014
+|"Clayey"|""|"Fluviomarine deposits"|""|18053521|25661015
+|"Loamy"|""|"Fluviomarine deposits"|""|18053522|25661016
+|"Sandy"|""|"Alluvium"|""|18053554|25661053
+|"Loamy"|""|"Alluvium"|""|18053555|25661054
+|"Loamy"|""|"Alluvium"|""|18053556|25661055
+|"Loamy"|""|"Alluvium"|""|18053566|25661069
+|"Sandy"|""|"Residuum"|""|18053567|25661070
+|"Sandy"|""|"Alluvium"|""|18053568|25661071
+|"Loamy"|""|"Alluvium"|""|18053491|25660984
+|"Loamy"|""|"Alluvium"|""|18053492|25660985
+|"Loamy"|""|"Alluvium"|""|18053493|25660986
+|"Loamy"|""|"Coal extraction mine spoil"|""|18053569|25661072
+|"Clayey"|""|"Marine deposits"|""|18053570|25661073
+|"Clayey"|""|"Marine deposits"|""|18053571|25661074
+|"Loamy"|""|"Coal extraction mine spoil"|""|18053621|25661132
+|"Clayey"|""|"Marine deposits"|""|18053622|25661133
+|"Clayey"|""|"Marine deposits"|""|18053623|25661134
+|"Clayey"|""|"Residuum"|""|18053592|25661097
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053477|25660970
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18053478|25660971
+|"Loamy"|""|"Alluvium"|""|18053624|25661135
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18053625|25661136
+|"Sandy"|""|"Marine deposits"|""|18053626|25661137
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18053507|25661000
+|"Loamy"|""|"Alluvium"|""|18053508|25661001
+|"Sandy"|""|"Marine deposits"|""|18053509|25661002
+|"Clayey"|""|"Residuum"|"Glauconitic sandstone"|18053638|25661150
+1|""|"sandy and loamy"|"Marine deposits"|""|18053639|25661151
+|"Sandy"|""|"Marine deposits"|""|18053640|25661152
+|"Sandy"|""|"Marine deposits"|""|18053557|25661057
+|"Loamy"|""|"Marine deposits"|""|18053557|25661056
+|"Loamy"|""|"Alluvium"|""|18053558|25661058
+|"Loamy"|""|"Alluvium"|""|18053559|25661059
+|"Sandy"|""|"Alluvium"|""|18053559|25661060
+|"Clayey"|""|"Fluviomarine deposits"|""|18053488|25660981
+|"Loamy"|""|"Marine deposits"|""|18053489|25660982
+|"Loamy"|""|"Marine deposits"|""|18053490|25660983
+|"Loamy"|""|"Marine deposits"|""|18053537|25661032
+|"Loamy"|""|"Marine deposits"|""|18053538|25661033
+1|"Loamy"|""|"Alluvium"|""|18053539|25661034
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053539|25661035
+1|"Loamy"|""|"Alluvium"|""|18053540|25661036
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053540|25661037
+|"Loamy"|""|"Marine deposits"|""|18053541|25661038
+|"Loamy"|""|"Marine deposits"|""|18053542|25661039
+|"Loamy"|""|"Residuum"|""|18053543|25661040
+|"Clayey"|""|"Marine deposits"|""|18053544|25661041
+|"Loamy"|""|"Alluvium"|""|18053545|25661042
+|"Loamy"|""|"Alluvium"|""|18053546|25661044
+|"Sandy"|""|"Alluvium"|""|18053546|25661043
+|"Clayey"|""|"Marine deposits"|""|18053547|25661045
+|"Sandy"|""|"Marine deposits"|""|18053479|25660972
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053480|25660973
+|"Loamy"|""|"Residuum"|"Sandstone and shale"|18053481|25660974
+|"Sandy"|""|"Residuum"|""|18053641|25661153
+|"Loamy"|""|"Alluvium"|""|18053642|25661155
+|"Sandy"|""|"Alluvium"|""|18053642|25661154
+|"Loamy"|""|"Marine deposits"|""|18053643|25661156
+|"Sandy"|""|"Residuum"|""|18053551|25661049
+|"Loamy"|""|"Alluvium"|""|18053552|25661051
+|"Sandy"|""|"Alluvium"|""|18053552|25661050
+|"Loamy"|""|"Marine deposits"|""|18053553|25661052
+|"Clayey"|""|""|"Glauconitic sandstone"|18053627|25661138
+|"Loamy"|""|"Marine deposits"|"Glauconitic sandstone"|18053628|25661139
+|"Clayey"|""|"Alluvium"|""|18053629|25661140
+|"Clayey"|""|"Residuum"|""|18053630|25661141
+|"Loamy"|""|"Alluvium"|""|18053644|25661157
+|"Loamy"|""|"Alluvium"|""|18053645|25661158
+|"Loamy"|""|"Marine deposits"|""|18053646|25661159
+|"Loamy"|""|"Marine deposits"|""|18053631|25661142
+|"Clayey"|""|"Residuum"|""|18053632|25661143
+1|"Loamy"|""|"Alluvium"|""|18053633|25661145
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053633|25661144
+|"Clayey"|""|"Residuum"|""|18053583|25661088
+|"Loamy"|""|"Marine deposits"|""|18053584|25661089
+|"Loamy"|""|"Alluvium"|""|18053585|25661090
+1|"Loamy"|""|"Alluvium"|""|18053563|25661066
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053563|25661065
+|"Loamy"|""|"Fluviomarine deposits"|""|18053564|25661067
+|"Clayey"|""|"Residuum"|""|18053565|25661068
+|"Clayey"|""|"Marine deposits"|""|18053662|25661180
+1|"Loamy"|""|"Alluvium"|""|18053663|25661181
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053663|25661182
+1|"Loamy"|""|"Alluvium"|""|18053535|25661029
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053535|25661030
+|"Clayey"|""|"Marine deposits"|""|18053536|25661031
+|"Clayey"|""|"Residuum"|"Sandstone and shale"|18053572|25661075
+|"Clayey"|""|"Marine deposits"|""|18053573|25661076
+1|"Loamy"|""|"Alluvium"|""|18053574|25661077
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053574|25661078
+1|"Loamy"|""|"Alluvium"|""|18053575|25661079
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053575|25661080
+1|"Loamy"|""|"Fluviomarine deposits"|""|18053664|25661184
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053664|25661183
+1|"Loamy"|""|"Alluvium"|""|18053665|25661185
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053665|25661186
+1|"Loamy"|""|"Fluviomarine deposits"|""|18053666|25661188
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053666|25661187
+1|"Loamy"|""|"Fluviomarine deposits"|""|18053655|25661169
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053655|25661168
+|"Clayey"|""|"Marine deposits"|""|18053656|25661170
+1|"Loamy"|""|"Alluvium"|""|18053657|25661171
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053657|25661172
+1|"Loamy"|""|"Alluvium"|""|18053658|25661173
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053658|25661174
+1|"Loamy"|""|"Fluviomarine deposits"|""|18053659|25661176
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053659|25661175
+|"Clayey"|""|"Marine deposits"|""|18053660|25661177
+1|"Loamy"|""|"Alluvium"|""|18053661|25661178
+2|"Clayey"|""|"Fluviomarine deposits"|""|18053661|25661179
+|"Clayey"|""|"Fluviomarine deposits"|""|18053650|25661163
+|"Loamy"|""|"Fluviomarine deposits"|""|18053651|25661164
+|"Loamy"|""|"Alluvium"|""|18053523|25661017
+|"Loamy"|""|"Alluvium"|""|18053524|25661018

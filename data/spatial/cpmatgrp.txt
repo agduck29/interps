@@ -1,0 +1,394 @@
+"pmgroupname"|"rvindicator"|"cokey"|"copmgrpkey"
+"loamy alluvium"|"Yes"|24232334|18044939
+"loamy alluvium"|"Yes"|24232335|18044940
+"sandy alluvium"|"Yes"|24232336|18044941
+"loamy alluvium"|"Yes"|24232337|18044942
+"loamy alluvium"|"Yes"|24232338|18044943
+"sandy marine deposits"|"Yes"|24232339|18044944
+"loamy marine deposits"|"Yes"|24232340|18044945
+"sandy marine deposits"|"No "|24232341|18044946
+"sandy and loamy fluviomarine deposits"|"Yes"|24232341|18044947
+"loamy alluvium"|"Yes"|24231846|18044499
+"sandy alluvium"|"Yes"|24231847|18044500
+"loamy marine deposits"|"Yes"|24232062|18044689
+"loamy marine deposits"|"Yes"|24232063|18044690
+"clayey fluviomarine deposits"|"Yes"|24232064|18044691
+"sandy marine deposits"|"Yes"|24232282|18044888
+"loamy marine deposits"|"Yes"|24232283|18044889
+"sandy marine deposits"|"Yes"|24232284|18044890
+"clayey marine deposits"|"Yes"|24232285|18044891
+"loamy marine deposits"|"Yes"|24232352|18044958
+"loamy alluvium and/or loamy colluvium"|"Yes"|24232353|18044959
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232410|18045016
+"sandy marine deposits"|"Yes"|24232411|18045017
+"clayey marine deposits"|"Yes"|24232412|18045018
+"clayey fluviomarine deposits"|"Yes"|24232413|18045019
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232247|18044853
+"clayey marine deposits"|"Yes"|24232248|18044854
+"clayey fluviomarine deposits"|"Yes"|24232249|18044855
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232250|18044856
+"clayey marine deposits"|"Yes"|24232251|18044857
+"clayey fluviomarine deposits"|"Yes"|24232252|18044858
+"sandy and loamy marine deposits"|"Yes"|24232369|18044975
+"sandy marine deposits"|"Yes"|24232370|18044976
+"sandy and loamy marine deposits"|"Yes"|24232371|18044977
+"clayey marine deposits"|"Yes"|24232372|18044978
+"loamy residuum weathered from glauconitic sandstone"|"Yes"|24232092|18044719
+"glauconitic clayey marine deposits"|"Yes"|24232093|18044720
+"clayey alluvium"|"Yes"|24232094|18044721
+"sandy and loamy marine deposits"|"Yes"|24232193|18044799
+"sandy marine deposits"|"Yes"|24232194|18044800
+"sandy and loamy marine deposits"|"Yes"|24232195|18044801
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232253|18044859
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232254|18044860
+"loamy fluviomarine deposits and/or sandy fluviomarine deposits"|"Yes"|24232255|18044861
+"sandy and loamy marine deposits"|"Yes"|24232256|18044862
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232257|18044863
+"sandy marine deposits"|"Yes"|24232258|18044864
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232259|18044865
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232244|18044850
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232245|18044851
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232246|18044852
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232414|18045020
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232415|18045021
+"loamy alluvium"|"Yes"|24232260|18044866
+"loamy alluvium"|"Yes"|24232261|18044867
+"clayey alluvium"|"Yes"|24232262|18044868
+"loamy alluvium"|"Yes"|24232263|18044869
+"loamy alluvium"|"Yes"|24232225|18044831
+"loamy alluvium"|"Yes"|24232226|18044832
+"clayey alluvium"|"Yes"|24232227|18044833
+"clayey fluviomarine deposits"|"Yes"|24232065|18044692
+"loamy marine deposits"|"Yes"|24232066|18044693
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232416|18045022
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232417|18045023
+"glauconitic clayey marine deposits"|"Yes"|24231952|18044586
+"glauconitic loamy marine deposits"|"Yes"|24231953|18044587
+"clayey alluvium"|"Yes"|24231954|18044588
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232104|18044731
+"clayey marine deposits"|"Yes"|24232105|18044732
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232106|18044733
+"loamy marine deposits"|"Yes"|24232107|18044734
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232102|18044729
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232103|18044730
+"clayey marine deposits"|"Yes"|24232089|18044716
+"loamy marine deposits"|"Yes"|24232090|18044717
+"loamy marine deposits over clayey marine deposits"|"Yes"|24232091|18044718
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232298|18044904
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232299|18044905
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232300|18044906
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232108|18044735
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232109|18044736
+"loamy marine deposits and/or sandy marine deposits"|"Yes"|24231955|18044589
+"loamy marine deposits and/or sandy marine deposits"|"Yes"|24231956|18044590
+"loamy residuum weathered from sandstone and shale"|"Yes"|24231957|18044591
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232418|18045024
+"loamy marine deposits and/or sandy marine deposits"|"Yes"|24232419|18045025
+"loamy marine deposits"|"Yes"|24232420|18045026
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232421|18045027
+"loamy alluvium"|"Yes"|24232228|18044834
+"loamy alluvium"|"Yes"|24232229|18044835
+"loamy alluvium"|"Yes"|24231791|18044449
+"loamy alluvium"|"Yes"|24231792|18044450
+"loamy alluvium"|"Yes"|24232422|18045028
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232423|18045029
+"glauconitic loamy marine deposits"|"Yes"|24232356|18044962
+"glauconitic clayey marine deposits"|"Yes"|24232357|18044963
+"clayey alluvium"|"Yes"|24232358|18044964
+"sandy alluvium"|"Yes"|24231936|18044577
+"loamy alluvium"|"Yes"|24231937|18044578
+"loamy alluvium"|"Yes"|24231938|18044579
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232230|18044836
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232231|18044837
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232273|18044879
+"loamy marine deposits"|"Yes"|24232274|18044880
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232275|18044881
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232279|18044885
+"loamy marine deposits"|"Yes"|24232280|18044886
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232281|18044887
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232241|18044847
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232242|18044848
+"loamy marine deposits"|"Yes"|24232243|18044849
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232429|18045035
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232430|18045036
+"loamy marine deposits"|"Yes"|24232431|18045037
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232276|18044882
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232277|18044883
+"loamy marine deposits"|"Yes"|24232278|18044884
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232264|18044870
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232265|18044871
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232266|18044872
+"loamy marine deposits"|"Yes"|24232267|18044873
+"sandy alluvium"|"Yes"|24232268|18044874
+"sandy and loamy marine deposits"|"Yes"|24232269|18044875
+"sandy alluvium"|"Yes"|24232270|18044876
+"sandy alluvium"|"Yes"|24232271|18044877
+"sandy and loamy marine deposits"|"Yes"|24232272|18044878
+"loamy alluvium"|"Yes"|24232122|18044749
+"loamy alluvium"|"Yes"|24232123|18044750
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232354|18044960
+"loamy marine deposits"|"Yes"|24232355|18044961
+"sandy residuum weathered from sandstone and shale"|"Yes"|24231930|18044572
+"sandy marine deposits and/or loamy marine deposits"|"Yes"|24231963|18044595
+"loamy alluvium"|"Yes"|24231964|18044596
+"sandy alluvium and/or loamy alluvium"|"Yes"|24231965|18044597
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232232|18044838
+"sandy and loamy marine deposits"|"Yes"|24232233|18044839
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232234|18044840
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232424|18045030
+"loamy marine deposits"|"Yes"|24232425|18045031
+"loamy fluviomarine deposits and/or sandy fluviomarine deposits"|"Yes"|24232426|18045032
+"loamy marine deposits"|"Yes"|24232408|18045014
+"clayey fluviomarine deposits"|"Yes"|24232409|18045015
+"clayey fluviomarine deposits"|"Yes"|24232444|18045050
+"clayey fluviomarine deposits"|"Yes"|24232445|18045051
+"loamy marine deposits"|"Yes"|24232446|18045052
+"clayey marine deposits"|"Yes"|24232373|18044979
+"loamy marine deposits"|"Yes"|24232374|18044980
+"sandy and loamy marine deposits"|"Yes"|24232375|18044981
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232235|18044841
+"loamy marine deposits and/or sandy marine deposits"|"Yes"|24232236|18044842
+"loamy residuum weathered from sandstone and shale"|"Yes"|24232237|18044843
+"loamy residuum weathered from sandstone and shale"|"Yes"|24231836|18044492
+"sandy marine deposits"|"Yes"|24231837|18044493
+"loamy residuum weathered from sandstone and shale"|"Yes"|24231838|18044494
+"loamy alluvium"|"Yes"|24232199|18044805
+"loamy alluvium"|"Yes"|24232200|18044806
+"sandy alluvium"|"Yes"|24232030|18044658
+"sandy residuum weathered from sandstone and shale"|"Yes"|24232031|18044659
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232347|18044953
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232348|18044954
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232110|18044737
+"glauconitic clayey marine deposits"|"Yes"|24232111|18044738
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232427|18045033
+"glauconitic clayey marine deposits"|"Yes"|24232428|18045034
+"glauconitic clayey marine deposits"|"Yes"|24231987|18044619
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24231988|18044620
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24231989|18044621
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232112|18044739
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24232113|18044740
+"glauconitic clayey marine deposits"|"Yes"|24232114|18044741
+"glauconitic clayey marine deposits"|"Yes"|24232115|18044742
+"loamy alluvium"|"Yes"|24232432|18045038
+"loamy alluvium"|"Yes"|24232433|18045039
+"clayey alluvium"|"Yes"|24232434|18045040
+"loamy alluvium and/or loamy colluvium"|"Yes"|24232435|18045041
+"loamy alluvium"|"Yes"|24232116|18044743
+"loamy alluvium"|"Yes"|24232117|18044744
+"loamy alluvium"|"Yes"|24232118|18044745
+"clayey residuum weathered from sandstone and shale"|"Yes"|24231857|18044510
+"clayey residuum weathered from sandstone and shale"|"Yes"|24231858|18044511
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232119|18044746
+"clayey residuum weathered from sandstone and shale"|"Yes"|24232120|18044747
+"clayey marine deposits"|"Yes"|24232121|18044748
+"loamy alluvium"|"Yes"|24232286|18044892
+"clayey marine deposits"|"Yes"|24232287|18044893
+"clayey fluviomarine deposits"|"Yes"|24232288|18044894
+"loamy alluvium"|"Yes"|24232238|18044844
+"loamy alluvium"|"Yes"|24232239|18044845
+"loamy alluvium"|"Yes"|24232240|18044846
+"loamy alluvium"|"Yes"|24232359|18044965
+"loamy alluvium"|"Yes"|24232360|18044966
+"sandy and loamy alluvium"|"Yes"|24232361|18044967
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24232124|18044751
+"clayey marine deposits"|"Yes"|24232125|18044752
+"clayey marine deposits"|"Yes"|24232385|18044991
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24232386|18044992
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24232319|18044925
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24232320|18044926
+"clayey marine deposits"|"Yes"|24232321|18044927
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24232322|18044928
+"loamy alluvium"|"Yes"|24232087|18044714
+"loamy alluvium"|"Yes"|24232088|18044715
+"loamy alluvium"|"Yes"|24242590|18053482
+"loamy alluvium"|"Yes"|24242591|18053483
+"loamy alluvium"|"Yes"|24242905|18053580
+"clayey marine deposits"|"Yes"|24242906|18053581
+"clayey fluviomarine deposits"|"Yes"|24242907|18053582
+"loamy marine deposits"|"Yes"|24242646|18053494
+"loamy alluvium"|"Yes"|24242647|18053495
+"loamy alluvium"|"Yes"|24242648|18053496
+"clayey fluviomarine deposits"|"Yes"|24243041|18053606
+"clayey marine deposits"|"Yes"|24243042|18053607
+"loamy alluvium"|"Yes"|24243043|18053608
+"sandy and loamy marine deposits"|"Yes"|24242662|18053510
+"sandy marine deposits"|"Yes"|24242663|18053511
+"sandy marine deposits"|"Yes"|24242664|18053512
+"loamy alluvium"|"Yes"|24242649|18053497
+"sandy alluvium of Late Pleistocene age"|"Yes"|24242650|18053498
+"clayey fluviomarine deposits"|"Yes"|24242931|18053587
+"loamy marine deposits"|"Yes"|24242932|18053588
+"clayey marine deposits"|"Yes"|24242933|18053589
+"loamy marine deposits"|"Yes"|24242934|18053590
+"loamy marine deposits"|"Yes"|24242935|18053591
+"clayey marine deposits"|"Yes"|24242924|18053586
+"clayey residuum weathered from sandstone and shale"|"Yes"|24242800|18053548
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242801|18053549
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242802|18053550
+"sandy marine deposits"|"Yes"|24242777|18053525
+"clayey residuum"|"Yes"|24242778|18053526
+"loamy alluvium"|"Yes"|24242779|18053527
+"loamy fluviomarine deposits"|"Yes"|24242601|18053484
+"loamy fluviomarine deposits"|"Yes"|24242602|18053485
+"loamy fluviomarine deposits"|"Yes"|24242603|18053486
+"clayey marine deposits"|"Yes"|24242604|18053487
+"sandy and loamy marine deposits"|"Yes"|24243073|18053634
+"clayey marine deposits"|"Yes"|24243074|18053635
+"sandy and loamy marine deposits"|"Yes"|24243075|18053636
+"sandy marine deposits"|"Yes"|24243076|18053637
+"sandy and loamy marine deposits"|"Yes"|24243147|18053652
+"clayey marine deposits"|"Yes"|24243148|18053653
+"sandy marine deposits"|"Yes"|24243149|18053654
+"clayey alluvium"|"Yes"|24242780|18053528
+"loamy alluvium"|"Yes"|24242781|18053529
+"loamy marine deposits"|"Yes"|24242782|18053530
+"loamy marine deposits"|"Yes"|24242783|18053531
+"loamy alluvium over clayey alluvium and/or loamy alluvium"|"Yes"|24243002|18053600
+"loamy alluvium"|"Yes"|24243003|18053601
+"loamy alluvium"|"Yes"|24243004|18053602
+"loamy alluvium"|"Yes"|24242991|18053593
+"loamy alluvium"|"Yes"|24242992|18053594
+"clayey alluvium"|"Yes"|24242993|18053595
+"loamy alluvium"|"Yes"|24242784|18053532
+"clayey alluvium"|"Yes"|24242785|18053533
+"loamy alluvium"|"Yes"|24242786|18053534
+"loamy alluvium"|"Yes"|24243108|18053647
+"loamy alluvium"|"Yes"|24243109|18053648
+"loamy alluvium"|"Yes"|24243110|18053649
+"sandy alluvium"|"Yes"|24242902|18053576
+"sandy alluvium"|"Yes"|24242903|18053577
+"loamy alluvium"|"No "|24242903|18053578
+"sandy alluvium"|"Yes"|24242904|18053579
+"loamy alluvium"|"Yes"|24243044|18053609
+"loamy alluvium"|"Yes"|24243045|18053610
+"loamy alluvium over clayey alluvium and/or loamy alluvium"|"Yes"|24243046|18053611
+"loamy alluvium"|"Yes"|24243047|18053612
+"loamy fluviomarine deposits"|"Yes"|24242998|18053596
+"clayey fluviomarine deposits"|"Yes"|24242999|18053597
+"loamy fluviomarine deposits"|"Yes"|24243000|18053598
+"loamy fluviomarine deposits"|"Yes"|24243001|18053599
+"sandy marine deposits"|"Yes"|24242651|18053499
+"loamy alluvium"|"Yes"|24242652|18053500
+"clayey residuum"|"Yes"|24242653|18053501
+"loamy fluviomarine deposits"|"Yes"|24242654|18053502
+"clayey residuum"|"Yes"|24243048|18053613
+"sandy marine deposits"|"Yes"|24243049|18053614
+"sandy and loamy marine deposits"|"Yes"|24243050|18053615
+"loamy fluviomarine deposits"|"Yes"|24243051|18053616
+"sandy and loamy marine deposits"|"Yes"|24242655|18053503
+"clayey marine deposits"|"Yes"|24242656|18053504
+"sandy marine deposits"|"Yes"|24242657|18053505
+"clayey residuum"|"Yes"|24242658|18053506
+"loamy alluvium"|"Yes"|24242688|18053516
+"loamy alluvium"|"Yes"|24243035|18053603
+"loamy alluvium"|"Yes"|24243036|18053604
+"loamy alluvium"|"Yes"|24243037|18053605
+"loamy marine deposits"|"Yes"|24243052|18053617
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243053|18053618
+"clayey marine deposits"|"Yes"|24243054|18053619
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24243055|18053620
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242665|18053513
+"sandy and loamy fluviomarine deposits"|"Yes"|24242666|18053514
+"sandy and loamy fluviomarine deposits"|"Yes"|24242667|18053515
+"loamy marine deposits"|"Yes"|24243229|18053667
+"clayey marine deposits"|"Yes"|24243230|18053668
+"loamy alluvium"|"Yes"|24242730|18053517
+"loamy alluvium"|"Yes"|24242731|18053518
+"loamy alluvium"|"Yes"|24242732|18053519
+"loamy alluvium"|"Yes"|24242886|18053560
+"loamy alluvium"|"Yes"|24242887|18053561
+"sandy alluvium and/or loamy alluvium"|"Yes"|24242888|18053562
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242735|18053520
+"clayey fluviomarine deposits"|"Yes"|24242736|18053521
+"loamy fluviomarine deposits"|"Yes"|24242737|18053522
+"sandy alluvium"|"Yes"|24242832|18053554
+"loamy alluvium"|"Yes"|24242833|18053555
+"loamy alluvium"|"Yes"|24242834|18053556
+"loamy alluvium"|"Yes"|24242892|18053566
+"sandy residuum"|"Yes"|24242893|18053567
+"sandy alluvium"|"Yes"|24242894|18053568
+"loamy alluvium"|"Yes"|24242638|18053491
+"loamy alluvium"|"Yes"|24242639|18053492
+"loamy alluvium"|"Yes"|24242640|18053493
+"loamy coal extraction mine spoil"|"Yes"|24242895|18053569
+"clayey marine deposits"|"Yes"|24242896|18053570
+"clayey marine deposits"|"Yes"|24242897|18053571
+"loamy coal extraction mine spoil"|"Yes"|24243056|18053621
+"clayey marine deposits"|"Yes"|24243057|18053622
+"clayey marine deposits"|"Yes"|24243058|18053623
+"clayey residuum"|"Yes"|24242970|18053592
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242545|18053477
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24242546|18053478
+"loamy alluvium"|"Yes"|24243059|18053624
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24243060|18053625
+"sandy marine deposits"|"Yes"|24243061|18053626
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24242659|18053507
+"loamy alluvium"|"Yes"|24242660|18053508
+"sandy marine deposits"|"Yes"|24242661|18053509
+"clayey residuum weathered from glauconitic sandstone"|"Yes"|24243099|18053638
+"sandy and loamy marine deposits"|"Yes"|24243100|18053639
+"sandy marine deposits"|"Yes"|24243101|18053640
+"sandy marine deposits and/or loamy marine deposits"|"Yes"|24242835|18053557
+"loamy alluvium"|"Yes"|24242836|18053558
+"sandy alluvium and/or loamy alluvium"|"Yes"|24242837|18053559
+"clayey fluviomarine deposits"|"Yes"|24242635|18053488
+"loamy marine deposits"|"Yes"|24242636|18053489
+"sandy marine deposits and/or loamy marine deposits"|"Yes"|24242637|18053490
+"loamy marine deposits"|"Yes"|24242789|18053537
+"loamy marine deposits"|"Yes"|24242790|18053538
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242791|18053539
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242792|18053540
+"loamy marine deposits"|"Yes"|24242793|18053541
+"loamy marine deposits"|"Yes"|24242794|18053542
+"loamy residuum"|"Yes"|24242795|18053543
+"clayey marine deposits"|"Yes"|24242796|18053544
+"loamy alluvium"|"Yes"|24242797|18053545
+"sandy alluvium and/or loamy alluvium"|"Yes"|24242798|18053546
+"clayey marine deposits"|"Yes"|24242799|18053547
+"sandy marine deposits"|"Yes"|24242581|18053479
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242582|18053480
+"loamy residuum weathered from sandstone and shale"|"Yes"|24242583|18053481
+"sandy residuum"|"Yes"|24243102|18053641
+"sandy alluvium and/or loamy alluvium"|"Yes"|24243103|18053642
+"loamy marine deposits"|"Yes"|24243104|18053643
+"sandy residuum"|"Yes"|24242803|18053551
+"sandy alluvium and/or loamy alluvium"|"Yes"|24242804|18053552
+"loamy marine deposits"|"Yes"|24242805|18053553
+"clayey glauconitic sandstone"|"Yes"|24243066|18053627
+"loamy marine deposits derived from glauconitic sandstone"|"Yes"|24243067|18053628
+"clayey alluvium"|"Yes"|24243068|18053629
+"clayey residuum"|"Yes"|24243069|18053630
+"loamy alluvium"|"Yes"|24243105|18053644
+"loamy alluvium"|"Yes"|24243106|18053645
+"loamy marine deposits"|"Yes"|24243107|18053646
+"loamy marine deposits"|"Yes"|24243070|18053631
+"clayey residuum"|"Yes"|24243071|18053632
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243072|18053633
+"clayey residuum"|"Yes"|24242921|18053583
+"loamy marine deposits"|"Yes"|24242922|18053584
+"loamy alluvium"|"Yes"|24242923|18053585
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242889|18053563
+"loamy fluviomarine deposits"|"Yes"|24242890|18053564
+"clayey residuum"|"Yes"|24242891|18053565
+"clayey marine deposits"|"Yes"|24243185|18053662
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243186|18053663
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242787|18053535
+"clayey marine deposits"|"Yes"|24242788|18053536
+"clayey residuum weathered from sandstone and shale"|"Yes"|24242898|18053572
+"clayey marine deposits"|"Yes"|24242899|18053573
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242900|18053574
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24242901|18053575
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24243187|18053664
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243188|18053665
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24243189|18053666
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24243162|18053655
+"clayey marine deposits"|"Yes"|24243163|18053656
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243164|18053657
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243165|18053658
+"loamy fluviomarine deposits over clayey fluviomarine deposits"|"Yes"|24243182|18053659
+"clayey marine deposits"|"Yes"|24243183|18053660
+"loamy alluvium over clayey fluviomarine deposits"|"Yes"|24243184|18053661
+"clayey fluviomarine deposits"|"Yes"|24243145|18053650
+"loamy fluviomarine deposits"|"Yes"|24243146|18053651
+"loamy alluvium"|"Yes"|24242757|18053523
+"loamy alluvium"|"Yes"|24242758|18053524

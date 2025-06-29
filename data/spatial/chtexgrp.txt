@@ -1,0 +1,1278 @@
+"texture"|"stratextsflag"|"rvindicator"|"texdesc"|"chkey"|"chtgkey"
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025080|145640672
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025080|145640673
+"L"|"No "|"No "|"Loam"|72025080|145640674
+"FSL"|"No "|"No "|"Fine sandy loam"|72025082|145640676
+"L"|"No "|"No "|"Loam"|72025082|145640677
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025082|145640678
+"L"|"No "|"No "|"Loam"|72025083|145640679
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025083|145640680
+"CL"|"No "|"No "|"Clay loam"|72025083|145640681
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025081|145640675
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025084|145640682
+"SCL"|"No "|"No "|"Sandy clay loam"|72025087|145640688
+"L"|"No "|"Yes"|"Loam"|72025087|145640689
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025085|145640683
+"L"|"No "|"No "|"Loam"|72025085|145640684
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025085|145640685
+"FSL"|"No "|"No "|"Fine sandy loam"|72025086|145640686
+"L"|"No "|"Yes"|"Loam"|72025086|145640687
+"FS"|"No "|"No "|"Fine sand"|72025089|145640692
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025089|145640693
+"FSL"|"No "|"No "|"Fine sandy loam"|72025089|145640694
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025090|145640695
+"FS"|"No "|"No "|"Fine sand"|72025090|145640696
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025088|145640690
+"FS"|"No "|"No "|"Fine sand"|72025088|145640691
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024341|145639158
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024343|145639162
+"FS"|"No "|"No "|"Fine sand"|72024343|145639163
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024342|145639159
+"FSL"|"No "|"No "|"Fine sandy loam"|72024342|145639160
+"FS"|"No "|"No "|"Fine sand"|72024342|145639161
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024344|145639164
+"FS"|"No "|"No "|"Fine sand"|72024344|145639165
+"FSL"|"No "|"No "|"Fine sandy loam"|72024344|145639166
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024691|145639860
+"CL"|"No "|"No "|"Clay loam"|72024691|145639861
+"FSL"|"No "|"No "|"Fine sandy loam"|72024691|145639862
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024694|145639869
+"CL"|"No "|"No "|"Clay loam"|72024694|145639870
+"FSL"|"No "|"No "|"Fine sandy loam"|72024694|145639871
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024692|145639863
+"CL"|"No "|"No "|"Clay loam"|72024692|145639864
+"FSL"|"No "|"No "|"Fine sandy loam"|72024692|145639865
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024693|145639866
+"CL"|"No "|"No "|"Clay loam"|72024693|145639867
+"FSL"|"No "|"No "|"Fine sandy loam"|72024693|145639868
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024689|145639858
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024690|145639859
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025008|145640502
+"FSL"|"No "|"No "|"Fine sandy loam"|72025008|145640503
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025006|145640498
+"FSL"|"No "|"No "|"Fine sandy loam"|72025006|145640499
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025007|145640500
+"FSL"|"No "|"No "|"Fine sandy loam"|72025007|145640501
+"CL"|"No "|"Yes"|"Clay loam"|72025102|145640725
+"CL"|"No "|"No "|"Clay loam"|72025103|145640726
+"SCL"|"No "|"No "|"Sandy clay loam"|72025103|145640727
+"C"|"No "|"Yes"|"Clay"|72025103|145640728
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025178|145640894
+"SC"|"No "|"No "|"Sandy clay"|72025180|145640898
+"SCL"|"No "|"No "|"Sandy clay loam"|72025180|145640899
+"C"|"No "|"Yes"|"Clay"|72025180|145640900
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025181|145640901
+"CL"|"No "|"No "|"Clay loam"|72025179|145640895
+"SCL"|"No "|"No "|"Sandy clay loam"|72025179|145640896
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025179|145640897
+"C"|"No "|"Yes"|"Clay"|72024967|145640436
+"SCL"|"No "|"No "|"Sandy clay loam"|72024967|145640437
+"SC"|"No "|"No "|"Sandy clay"|72024967|145640438
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024965|145640432
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72024968|145640439
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024966|145640433
+"CL"|"No "|"No "|"Clay loam"|72024966|145640434
+"SCL"|"No "|"No "|"Sandy clay loam"|72024966|145640435
+"ST-FSL"|"No "|"Yes"|"Stony fine sandy loam"|72024972|145640446
+"SCL"|"No "|"No "|"Sandy clay loam"|72024970|145640441
+"FSL"|"No "|"No "|"Fine sandy loam"|72024970|145640442
+"CL"|"No "|"Yes"|"Clay loam"|72024970|145640443
+"C"|"No "|"Yes"|"Clay"|72024971|145640444
+"SCL"|"No "|"No "|"Sandy clay loam"|72024971|145640445
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024969|145640440
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025124|145640786
+"FS"|"No "|"No "|"Fine sand"|72025124|145640787
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025126|145640790
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025125|145640788
+"FSL"|"No "|"No "|"Fine sandy loam"|72025125|145640789
+"SC"|"No "|"No "|"Sandy clay"|72024731|145639958
+"CL"|"No "|"No "|"Clay loam"|72024731|145639959
+"C"|"No "|"Yes"|"Clay"|72024731|145639960
+"SCL"|"No "|"No "|"Sandy clay loam"|72024727|145639950
+"L"|"No "|"No "|"Loam"|72024727|145639951
+"CL"|"No "|"Yes"|"Clay loam"|72024727|145639952
+"CL"|"No "|"Yes"|"Clay loam"|72024728|145639953
+"SR- C"|"Yes"|"Yes"|"Stratified clay"|72024729|145639954
+"SCL"|"No "|"No "|"Sandy clay loam"|72024730|145639955
+"L"|"No "|"No "|"Loam"|72024730|145639956
+"CL"|"No "|"Yes"|"Clay loam"|72024730|145639957
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024904|145640311
+"FSL"|"No "|"No "|"Fine sandy loam"|72024904|145640312
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024905|145640313
+"FSL"|"No "|"No "|"Fine sandy loam"|72024905|145640314
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024902|145640308
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024903|145640309
+"FS"|"No "|"No "|"Fine sand"|72024903|145640310
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024973|145640447
+"FS"|"No "|"No "|"Fine sand"|72024973|145640448
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024974|145640449
+"FSL"|"No "|"No "|"Fine sandy loam"|72024975|145640450
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024975|145640451
+"FSL"|"No "|"No "|"Fine sandy loam"|72024976|145640452
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024976|145640453
+"VAR"|"No "|"Yes"|"Variable"|72024977|145640454
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024978|145640455
+"FS"|"No "|"No "|"Fine sand"|72024978|145640456
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024979|145640457
+"FSL"|"No "|"No "|"Fine sandy loam"|72024980|145640458
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024980|145640459
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024981|145640460
+"FSL"|"No "|"No "|"Fine sandy loam"|72024981|145640461
+"VAR"|"No "|"Yes"|"Variable"|72024982|145640462
+"CL"|"No "|"No "|"Clay loam"|72024964|145640430
+"C"|"No "|"Yes"|"Clay"|72024964|145640431
+"C"|"No "|"Yes"|"Clay"|72024962|145640428
+"C"|"No "|"Yes"|"Clay"|72024963|145640429
+"L"|"No "|"Yes"|"Loam"|72024960|145640426
+"L"|"No "|"Yes"|"Loam"|72024961|145640427
+"C"|"No "|"Yes"|"Clay"|72025182|145640902
+"CL"|"No "|"No "|"Clay loam"|72025182|145640903
+"C"|"No "|"Yes"|"Clay"|72025183|145640904
+"C"|"No "|"Yes"|"Clay"|72025184|145640905
+"L"|"No "|"Yes"|"Loam"|72025185|145640906
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024984|145640466
+"L"|"No "|"No "|"Loam"|72024984|145640467
+"FSL"|"No "|"No "|"Fine sandy loam"|72024984|145640468
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024983|145640463
+"CL"|"No "|"No "|"Clay loam"|72024983|145640464
+"L"|"No "|"No "|"Loam"|72024983|145640465
+"L"|"No "|"Yes"|"Loam"|72024985|145640469
+"VAR"|"No "|"Yes"|"Variable"|72024936|145640389
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024937|145640390
+"L"|"No "|"No "|"Loam"|72024937|145640391
+"CL"|"No "|"No "|"Clay loam"|72024937|145640392
+"FSL"|"No "|"No "|"Fine sandy loam"|72024938|145640393
+"L"|"No "|"No "|"Loam"|72024938|145640394
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024938|145640395
+"L"|"No "|"Yes"|"Loam"|72024939|145640396
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024698|145639879
+"CL"|"No "|"Yes"|"Clay loam"|72024696|145639875
+"SCL"|"No "|"No "|"Sandy clay loam"|72024696|145639876
+"C"|"No "|"No "|"Clay"|72024696|145639877
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024699|145639880
+"C"|"No "|"Yes"|"Clay"|72024695|145639872
+"CL"|"No "|"No "|"Clay loam"|72024695|145639873
+"SC"|"No "|"No "|"Sandy clay"|72024695|145639874
+"CL"|"No "|"Yes"|"Clay loam"|72024697|145639878
+"SC"|"No "|"No "|"Sandy clay"|72025188|145640911
+"CL"|"No "|"No "|"Clay loam"|72025188|145640912
+"C"|"No "|"Yes"|"Clay"|72025188|145640913
+"CL"|"No "|"Yes"|"Clay loam"|72025186|145640907
+"SCL"|"No "|"No "|"Sandy clay loam"|72025187|145640908
+"CL"|"No "|"Yes"|"Clay loam"|72025187|145640909
+"C"|"No "|"No "|"Clay"|72025187|145640910
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72025189|145640914
+"CL"|"No "|"Yes"|"Clay loam"|72024516|145639528
+"L"|"No "|"No "|"Loam"|72024516|145639529
+"SCL"|"No "|"No "|"Sandy clay loam"|72024516|145639530
+"C"|"No "|"Yes"|"Clay"|72024519|145639537
+"CL"|"No "|"Yes"|"Clay loam"|72024515|145639527
+"CL"|"No "|"Yes"|"Clay loam"|72024517|145639531
+"SC"|"No "|"No "|"Sandy clay"|72024517|145639532
+"C"|"No "|"No "|"Clay"|72024517|145639533
+"CL"|"No "|"Yes"|"Clay loam"|72024518|145639534
+"L"|"No "|"No "|"Loam"|72024518|145639535
+"SCL"|"No "|"No "|"Sandy clay loam"|72024518|145639536
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024747|145639994
+"CL"|"No "|"Yes"|"Clay loam"|72024745|145639988
+"SCL"|"No "|"No "|"Sandy clay loam"|72024745|145639989
+"C"|"No "|"No "|"Clay"|72024745|145639990
+"C"|"No "|"Yes"|"Clay"|72024746|145639991
+"SC"|"No "|"No "|"Sandy clay"|72024746|145639992
+"CL"|"No "|"No "|"Clay loam"|72024746|145639993
+"CL"|"No "|"Yes"|"Clay loam"|72024744|145639987
+"VAR"|"No "|"Yes"|"Variable"|72024748|145639995
+"C"|"No "|"Yes"|"Clay"|72024742|145639983
+"SC"|"No "|"No "|"Sandy clay"|72024742|145639984
+"CL"|"No "|"No "|"Clay loam"|72024742|145639985
+"CL"|"No "|"Yes"|"Clay loam"|72024740|145639981
+"CL"|"No "|"Yes"|"Clay loam"|72024741|145639982
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72024743|145639986
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024723|145639942
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024724|145639943
+"L"|"No "|"No "|"Loam"|72024724|145639944
+"CL"|"No "|"No "|"Clay loam"|72024724|145639945
+"C"|"No "|"Yes"|"Clay"|72024725|145639946
+"SC"|"No "|"No "|"Sandy clay"|72024725|145639947
+"C"|"No "|"Yes"|"Clay"|72024726|145639948
+"SC"|"No "|"No "|"Sandy clay"|72024726|145639949
+"CL"|"No "|"Yes"|"Clay loam"|72025019|145640536
+"C"|"No "|"Yes"|"Clay"|72025021|145640538
+"SIC"|"No "|"No "|"Silty clay"|72025021|145640539
+"C"|"No "|"Yes"|"Clay"|72025020|145640537
+"CL"|"No "|"Yes"|"Clay loam"|72024751|145639999
+"C"|"No "|"Yes"|"Clay"|72024749|145639996
+"C"|"No "|"Yes"|"Clay"|72024750|145639997
+"SIC"|"No "|"No "|"Silty clay"|72024750|145639998
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024520|145639538
+"FSL"|"No "|"No "|"Fine sandy loam"|72024520|145639539
+"CL"|"No "|"No "|"Clay loam"|72024520|145639540
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024521|145639541
+"FSL"|"No "|"No "|"Fine sandy loam"|72024521|145639542
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024522|145639543
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024523|145639544
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025191|145640916
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025192|145640917
+"FSL"|"No "|"No "|"Fine sandy loam"|72025192|145640918
+"CL"|"No "|"No "|"Clay loam"|72025192|145640919
+"FSL"|"No "|"No "|"Fine sandy loam"|72025193|145640920
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025193|145640921
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025190|145640915
+"VAR"|"No "|"Yes"|"Variable"|72025194|145640922
+"SCL"|"No "|"No "|"Sandy clay loam"|72024940|145640397
+"CL"|"No "|"Yes"|"Clay loam"|72024940|145640398
+"L"|"No "|"No "|"Loam"|72024940|145640399
+"CL"|"No "|"Yes"|"Clay loam"|72024941|145640400
+"SICL"|"No "|"No "|"Silty clay loam"|72024273|145638992
+"SC"|"No "|"Yes"|"Sandy clay"|72024273|145638993
+"L"|"No "|"No "|"Loam"|72024273|145638994
+"SICL"|"No "|"No "|"Silty clay loam"|72024274|145638995
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024274|145638996
+"L"|"No "|"No "|"Loam"|72024274|145638997
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024275|145638998
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025195|145640923
+"LFS"|"No "|"No "|"Loamy fine sand"|72025195|145640924
+"L"|"No "|"Yes"|"Loam"|72025197|145640928
+"L"|"No "|"No "|"Loam"|72025196|145640925
+"SCL"|"No "|"No "|"Sandy clay loam"|72025196|145640926
+"CL"|"No "|"Yes"|"Clay loam"|72025196|145640927
+"L"|"No "|"No "|"Loam"|72025108|145640734
+"SCL"|"No "|"No "|"Sandy clay loam"|72025108|145640735
+"CL"|"No "|"Yes"|"Clay loam"|72025108|145640736
+"C"|"No "|"Yes"|"Clay"|72025111|145640743
+"CL"|"No "|"Yes"|"Clay loam"|72025109|145640737
+"SC"|"No "|"No "|"Sandy clay"|72025109|145640738
+"C"|"No "|"No "|"Clay"|72025109|145640739
+"L"|"No "|"No "|"Loam"|72025110|145640740
+"SCL"|"No "|"No "|"Sandy clay loam"|72025110|145640741
+"CL"|"No "|"Yes"|"Clay loam"|72025110|145640742
+"CL"|"No "|"Yes"|"Clay loam"|72025107|145640733
+"L"|"No "|"Yes"|"Loam"|72024492|145639475
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024495|145639482
+"LFS"|"No "|"No "|"Loamy fine sand"|72024495|145639483
+"L"|"No "|"Yes"|"Loam"|72024496|145639484
+"CL"|"No "|"Yes"|"Clay loam"|72024493|145639476
+"SCL"|"No "|"No "|"Sandy clay loam"|72024493|145639477
+"L"|"No "|"No "|"Loam"|72024493|145639478
+"L"|"No "|"Yes"|"Loam"|72024494|145639479
+"CL"|"No "|"No "|"Clay loam"|72024494|145639480
+"SCL"|"No "|"No "|"Sandy clay loam"|72024494|145639481
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024497|145639485
+"L"|"No "|"Yes"|"Loam"|72024500|145639491
+"SCL"|"No "|"No "|"Sandy clay loam"|72024500|145639492
+"L"|"No "|"Yes"|"Loam"|72024498|145639486
+"FSL"|"No "|"No "|"Fine sandy loam"|72024498|145639487
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024499|145639488
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72024499|145639489
+"L"|"No "|"No "|"Loam"|72024499|145639490
+"C"|"No "|"Yes"|"Clay"|72024944|145640404
+"C"|"No "|"Yes"|"Clay"|72024942|145640401
+"SIC"|"No "|"No "|"Silty clay"|72024943|145640402
+"C"|"No "|"Yes"|"Clay"|72024943|145640403
+"C"|"No "|"Yes"|"Clay"|72024998|145640488
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024999|145640489
+"CL"|"No "|"No "|"Clay loam"|72024997|145640486
+"C"|"No "|"Yes"|"Clay"|72024997|145640487
+"C"|"No "|"Yes"|"Clay"|72025003|145640494
+"CL"|"No "|"No "|"Clay loam"|72025003|145640495
+"C"|"No "|"Yes"|"Clay"|72025004|145640496
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72025005|145640497
+"C"|"No "|"Yes"|"Clay"|72024958|145640424
+"CL"|"No "|"Yes"|"Clay loam"|72024959|145640425
+"C"|"No "|"Yes"|"Clay"|72024957|145640422
+"CL"|"No "|"No "|"Clay loam"|72024957|145640423
+"C"|"No "|"Yes"|"Clay"|72025204|145640940
+"CL"|"No "|"No "|"Clay loam"|72025204|145640941
+"C"|"No "|"Yes"|"Clay"|72025205|145640942
+"CL"|"No "|"Yes"|"Clay loam"|72025206|145640943
+"GR-CL"|"No "|"Yes"|"Gravelly clay loam"|72025002|145640493
+"C"|"No "|"Yes"|"Clay"|72025000|145640490
+"CL"|"No "|"No "|"Clay loam"|72025000|145640491
+"C"|"No "|"Yes"|"Clay"|72025001|145640492
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024988|145640473
+"C"|"No "|"Yes"|"Clay"|72024987|145640472
+"CL"|"No "|"No "|"Clay loam"|72024986|145640470
+"C"|"No "|"Yes"|"Clay"|72024986|145640471
+"VAR"|"No "|"Yes"|"Variable"|72024989|145640474
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024991|145640478
+"MK-FSL"|"No "|"No "|"Mucky fine sandy loam"|72024990|145640475
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024990|145640476
+"S"|"No "|"No "|"Sand"|72024990|145640477
+"SR- S"|"Yes"|"Yes"|"Stratified sand"|72024992|145640479
+"MK-FSL"|"No "|"No "|"Mucky fine sandy loam"|72024993|145640480
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024993|145640481
+"S"|"No "|"No "|"Sand"|72024993|145640482
+"SR- S"|"Yes"|"Yes"|"Stratified sand"|72024995|145640484
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024994|145640483
+"VAR"|"No "|"Yes"|"Variable"|72024996|145640485
+"L"|"No "|"No "|"Loam"|72024764|145640016
+"CL"|"No "|"No "|"Clay loam"|72024764|145640017
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024764|145640018
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024765|145640019
+"C"|"No "|"Yes"|"Clay"|72025104|145640729
+"CL"|"No "|"No "|"Clay loam"|72025104|145640730
+"CL"|"No "|"Yes"|"Clay loam"|72025105|145640731
+"SR- CL"|"Yes"|"Yes"|"Stratified clay loam"|72025106|145640732
+"VAR"|"No "|"Yes"|"Variable"|72024487|145639468
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024535|145639569
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024536|145639570
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024533|145639565
+"FSL"|"No "|"No "|"Fine sandy loam"|72024533|145639566
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024534|145639567
+"FSL"|"No "|"No "|"Fine sandy loam"|72024534|145639568
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024532|145639564
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024946|145640406
+"FSL"|"No "|"No "|"Fine sandy loam"|72024947|145640407
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024947|145640408
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024945|145640405
+"VAR"|"No "|"Yes"|"Variable"|72024948|145640409
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025198|145640929
+"CL"|"No "|"No "|"Clay loam"|72025198|145640930
+"L"|"No "|"No "|"Loam"|72025198|145640931
+"CL"|"No "|"No "|"Clay loam"|72025199|145640932
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025199|145640933
+"L"|"No "|"No "|"Loam"|72025199|145640934
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025200|145640935
+"SC"|"No "|"No "|"Sandy clay"|72025175|145640888
+"C"|"No "|"No "|"Clay"|72025175|145640889
+"CL"|"No "|"Yes"|"Clay loam"|72025175|145640890
+"CL"|"No "|"Yes"|"Clay loam"|72025174|145640885
+"L"|"No "|"No "|"Loam"|72025174|145640886
+"SICL"|"No "|"No "|"Silty clay loam"|72025174|145640887
+"C"|"No "|"Yes"|"Clay"|72025176|145640891
+"C"|"No "|"No "|"Clay"|72025177|145640892
+"SC"|"No "|"Yes"|"Sandy clay"|72025177|145640893
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025172|145640881
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025173|145640882
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025173|145640883
+"LFS"|"No "|"No "|"Loamy fine sand"|72025173|145640884
+"C"|"No "|"Yes"|"Clay"|72025224|145640982
+"SIC"|"No "|"No "|"Silty clay"|72025224|145640983
+"C"|"No "|"Yes"|"Clay"|72025225|145640984
+"SIC"|"No "|"No "|"Silty clay"|72025225|145640985
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025221|145640977
+"CL"|"No "|"Yes"|"Clay loam"|72025223|145640980
+"SICL"|"No "|"No "|"Silty clay loam"|72025223|145640981
+"CL"|"No "|"Yes"|"Clay loam"|72025222|145640978
+"SICL"|"No "|"No "|"Silty clay loam"|72025222|145640979
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025220|145640975
+"LS"|"No "|"No "|"Loamy sand"|72025220|145640976
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025128|145640792
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72025127|145640791
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025130|145640794
+"CL"|"No "|"No "|"Clay loam"|72025130|145640795
+"FSL"|"No "|"No "|"Fine sandy loam"|72025130|145640796
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025129|145640793
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024949|145640410
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72024950|145640411
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024951|145640412
+"CL"|"No "|"No "|"Clay loam"|72024952|145640413
+"FSL"|"No "|"No "|"Fine sandy loam"|72024952|145640414
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024952|145640415
+"VAR"|"No "|"Yes"|"Variable"|72024953|145640416
+"FS"|"No "|"Yes"|"Fine sand"|72024330|145639136
+"FS"|"No "|"Yes"|"Fine sand"|72024331|145639137
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024910|145640321
+"FSL"|"No "|"No "|"Fine sandy loam"|72024911|145640322
+"L"|"No "|"No "|"Loam"|72024911|145640323
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024911|145640324
+"FS"|"No "|"Yes"|"Fine sand"|72024637|145639762
+"FS"|"No "|"Yes"|"Fine sand"|72024638|145639763
+"S"|"No "|"No "|"Sand"|72024638|145639764
+"C"|"No "|"Yes"|"Clay"|72025097|145640716
+"CL"|"No "|"No "|"Clay loam"|72025097|145640717
+"C"|"No "|"Yes"|"Clay"|72025096|145640714
+"CL"|"No "|"No "|"Clay loam"|72025096|145640715
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025098|145640718
+"BR"|"No "|"Yes"|"Bedrock"|72025095|145640713
+"BR"|"No "|"Yes"|"Bedrock"|72024754|145640003
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72024753|145640002
+"CL"|"No "|"No "|"Clay loam"|72024752|145640000
+"C"|"No "|"Yes"|"Clay"|72024752|145640001
+"CL"|"No "|"Yes"|"Clay loam"|72025202|145640938
+"BR"|"No "|"Yes"|"Bedrock"|72025203|145640939
+"C"|"No "|"Yes"|"Clay"|72025201|145640936
+"CL"|"No "|"No "|"Clay loam"|72025201|145640937
+"PGR-CL"|"No "|"Yes"|"Paragravelly clay loam"|72024561|145639624
+"GR-C"|"No "|"Yes"|"Gravelly clay"|72024562|145639625
+"C"|"No "|"No "|"Clay"|72024562|145639626
+"BR"|"No "|"Yes"|"Bedrock"|72024560|145639623
+"BR"|"No "|"Yes"|"Bedrock"|72024564|145639629
+"PGR-CL"|"No "|"Yes"|"Paragravelly clay loam"|72024565|145639630
+"C"|"No "|"Yes"|"Clay"|72024563|145639627
+"CL"|"No "|"No "|"Clay loam"|72024563|145639628
+"C"|"No "|"Yes"|"Clay"|72024755|145640004
+"CL"|"No "|"No "|"Clay loam"|72024755|145640005
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024756|145640006
+"BR"|"No "|"Yes"|"Bedrock"|72024757|145640007
+"VAR"|"No "|"Yes"|"Variable"|72024758|145640008
+"SICL"|"No "|"Yes"|"Silty clay loam"|72025207|145640944
+"CL"|"No "|"No "|"Clay loam"|72025207|145640945
+"C"|"No "|"No "|"Clay"|72025207|145640946
+"L"|"No "|"Yes"|"Loam"|72025209|145640950
+"CL"|"No "|"Yes"|"Clay loam"|72025208|145640947
+"SICL"|"No "|"No "|"Silty clay loam"|72025208|145640948
+"C"|"No "|"No "|"Clay"|72025208|145640949
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024760|145640011
+"L"|"No "|"No "|"Loam"|72024759|145640009
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024759|145640010
+"C"|"No "|"Yes"|"Clay"|72024350|145639180
+"SIC"|"No "|"No "|"Silty clay"|72024350|145639181
+"C"|"No "|"Yes"|"Clay"|72024351|145639182
+"SIC"|"No "|"No "|"Silty clay"|72024351|145639183
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72024352|145639184
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72024353|145639185
+"CL"|"No "|"Yes"|"Clay loam"|72024354|145639186
+"SIC"|"No "|"No "|"Silty clay"|72024762|145640013
+"C"|"No "|"Yes"|"Clay"|72024762|145640014
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024763|145640015
+"CL"|"No "|"Yes"|"Clay loam"|72024761|145640012
+"FSL"|"No "|"No "|"Fine sandy loam"|72025010|145640505
+"L"|"No "|"No "|"Loam"|72025010|145640506
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025010|145640507
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025009|145640504
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72024954|145640417
+"FSL"|"No "|"No "|"Fine sandy loam"|72024954|145640418
+"L"|"No "|"No "|"Loam"|72024954|145640419
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024955|145640420
+"VAR"|"No "|"Yes"|"Variable"|72024956|145640421
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025112|145640744
+"FSL"|"No "|"No "|"Fine sandy loam"|72025114|145640748
+"L"|"No "|"No "|"Loam"|72025114|145640749
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025114|145640750
+"L"|"No "|"No "|"Loam"|72025115|145640751
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72025115|145640752
+"CL"|"No "|"No "|"Clay loam"|72025115|145640753
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025113|145640745
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025113|145640746
+"L"|"No "|"No "|"Loam"|72025113|145640747
+"SICL"|"No "|"No "|"Silty clay loam"|72024768|145640022
+"CL"|"No "|"Yes"|"Clay loam"|72024768|145640023
+"SCL"|"No "|"No "|"Sandy clay loam"|72024769|145640024
+"C"|"No "|"No "|"Clay"|72024769|145640025
+"CL"|"No "|"Yes"|"Clay loam"|72024769|145640026
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72024766|145640020
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72024767|145640021
+"SIC"|"No "|"No "|"Silty clay"|72024770|145640027
+"C"|"No "|"Yes"|"Clay"|72024770|145640028
+"C"|"No "|"Yes"|"Clay"|72025148|145640828
+"SIC"|"No "|"No "|"Silty clay"|72025148|145640829
+"SR- FSL SICL"|"Yes"|"No "|"Stratified fine sandy loam to silty clay loam"|72025146|145640823
+"CL"|"No "|"Yes"|"Clay loam"|72025146|145640824
+"FSL"|"No "|"No "|"Fine sandy loam"|72025145|145640821
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72025145|145640822
+"CL"|"No "|"Yes"|"Clay loam"|72025147|145640825
+"SICL"|"No "|"No "|"Silty clay loam"|72025147|145640826
+"L"|"No "|"No "|"Loam"|72025147|145640827
+"CL"|"No "|"Yes"|"Clay loam"|72025151|145640833
+"SCL"|"No "|"No "|"Sandy clay loam"|72025151|145640834
+"L"|"No "|"No "|"Loam"|72025151|145640835
+"CL"|"No "|"Yes"|"Clay loam"|72025155|145640843
+"C"|"No "|"No "|"Clay"|72025155|145640844
+"SIC"|"No "|"No "|"Silty clay"|72025153|145640839
+"C"|"No "|"Yes"|"Clay"|72025153|145640840
+"CL"|"No "|"Yes"|"Clay loam"|72025152|145640836
+"SCL"|"No "|"No "|"Sandy clay loam"|72025152|145640837
+"L"|"No "|"No "|"Loam"|72025152|145640838
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025150|145640831
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025150|145640832
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025149|145640830
+"CL"|"No "|"Yes"|"Clay loam"|72025154|145640841
+"C"|"No "|"No "|"Clay"|72025154|145640842
+"SCL"|"No "|"No "|"Sandy clay loam"|72025052|145640618
+"CL"|"No "|"No "|"Clay loam"|72025052|145640619
+"L"|"No "|"Yes"|"Loam"|72025052|145640620
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72025050|145640614
+"C"|"No "|"Yes"|"Clay"|72025053|145640621
+"CL"|"No "|"No "|"Clay loam"|72025053|145640622
+"SCL"|"No "|"No "|"Sandy clay loam"|72025053|145640623
+"L"|"No "|"Yes"|"Loam"|72025051|145640615
+"SCL"|"No "|"No "|"Sandy clay loam"|72025051|145640616
+"CL"|"No "|"No "|"Clay loam"|72025051|145640617
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72025049|145640613
+"C"|"No "|"Yes"|"Clay"|72025054|145640624
+"SIC"|"No "|"No "|"Silty clay"|72025054|145640625
+"CL"|"No "|"No "|"Clay loam"|72025059|145640634
+"C"|"No "|"Yes"|"Clay"|72025059|145640635
+"SIC"|"No "|"No "|"Silty clay"|72025059|145640636
+"CL"|"No "|"No "|"Clay loam"|72025058|145640631
+"SIL"|"No "|"No "|"Silt loam"|72025058|145640632
+"SICL"|"No "|"Yes"|"Silty clay loam"|72025058|145640633
+"SIL"|"No "|"Yes"|"Silt loam"|72025056|145640627
+"SIL"|"No "|"No "|"Silt loam"|72025057|145640628
+"SICL"|"No "|"No "|"Silty clay loam"|72025057|145640629
+"CL"|"No "|"Yes"|"Clay loam"|72025057|145640630
+"SIL"|"No "|"Yes"|"Silt loam"|72025055|145640626
+"SICL"|"No "|"No "|"Silty clay loam"|72025062|145640639
+"CL"|"No "|"Yes"|"Clay loam"|72025062|145640640
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72025060|145640637
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72025061|145640638
+"SIC"|"No "|"No "|"Silty clay"|72025064|145640644
+"C"|"No "|"Yes"|"Clay"|72025064|145640645
+"C"|"No "|"No "|"Clay"|72025063|145640641
+"SCL"|"No "|"No "|"Sandy clay loam"|72025063|145640642
+"CL"|"No "|"Yes"|"Clay loam"|72025063|145640643
+"C"|"No "|"No "|"Clay"|72025070|145640657
+"SR- CL VFSL"|"Yes"|"Yes"|"Stratified clay loam to very fine sandy loam"|72025070|145640658
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025065|145640646
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72025066|145640647
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72025066|145640648
+"CL"|"No "|"Yes"|"Clay loam"|72025068|145640652
+"SCL"|"No "|"No "|"Sandy clay loam"|72025068|145640653
+"L"|"No "|"No "|"Loam"|72025068|145640654
+"SIC"|"No "|"No "|"Silty clay"|72025069|145640655
+"C"|"No "|"Yes"|"Clay"|72025069|145640656
+"L"|"No "|"No "|"Loam"|72025067|145640649
+"CL"|"No "|"Yes"|"Clay loam"|72025067|145640650
+"SCL"|"No "|"No "|"Sandy clay loam"|72025067|145640651
+"CL"|"No "|"Yes"|"Clay loam"|72025071|145640659
+"C"|"No "|"No "|"Clay"|72025071|145640660
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024720|145639935
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024721|145639936
+"L"|"No "|"No "|"Loam"|72024721|145639937
+"SL"|"No "|"No "|"Sandy loam"|72024721|145639938
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72024722|145639939
+"L"|"No "|"No "|"Loam"|72024722|145639940
+"SL"|"No "|"No "|"Sandy loam"|72024722|145639941
+"CL"|"No "|"Yes"|"Clay loam"|72052003|145700392
+"L"|"No "|"No "|"Loam"|72052003|145700393
+"SICL"|"No "|"No "|"Silty clay loam"|72052003|145700394
+"L"|"No "|"Yes"|"Loam"|72052005|145700398
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051558|145699465
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051560|145699468
+"FSL"|"No "|"No "|"Fine sandy loam"|72051560|145699469
+"CL"|"No "|"No "|"Clay loam"|72051560|145699470
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051559|145699466
+"FSL"|"No "|"No "|"Fine sandy loam"|72051559|145699467
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051561|145699471
+"FSL"|"No "|"No "|"Fine sandy loam"|72051822|145699994
+"L"|"No "|"Yes"|"Loam"|72051822|145699995
+"L"|"No "|"Yes"|"Loam"|72051823|145699996
+"L"|"No "|"No "|"Loam"|72051824|145699997
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051824|145699998
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051824|145699999
+"L"|"No "|"Yes"|"Loam"|72051825|145700000
+"S"|"No "|"Yes"|"Sand"|72051840|145700034
+"LFS"|"No "|"No "|"Loamy fine sand"|72051841|145700035
+"S"|"No "|"Yes"|"Sand"|72051841|145700036
+"MK-FSL"|"No "|"No "|"Mucky fine sandy loam"|72051841|145700037
+"MK-SL"|"No "|"Yes"|"Mucky sandy loam"|72051842|145700038
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051530|145699408
+"L"|"No "|"No "|"Loam"|72051530|145699409
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051531|145699410
+"L"|"No "|"No "|"Loam"|72051531|145699411
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051532|145699412
+"CL"|"No "|"Yes"|"Clay loam"|72051843|145700039
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051844|145700040
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051845|145700041
+"CL"|"No "|"Yes"|"Clay loam"|72052043|145700480
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052045|145700482
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052044|145700481
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051435|145699199
+"FSL"|"No "|"No "|"Fine sandy loam"|72051436|145699200
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051436|145699201
+"CL"|"No "|"No "|"Clay loam"|72051436|145699202
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051437|145699203
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051434|145699198
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051439|145699205
+"CL"|"No "|"Yes"|"Clay loam"|72051440|145699206
+"C"|"No "|"No "|"Clay"|72051440|145699207
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72051438|145699204
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052047|145700484
+"CL"|"No "|"No "|"Clay loam"|72052049|145700488
+"C"|"No "|"Yes"|"Clay"|72052049|145700489
+"SCL"|"No "|"No "|"Sandy clay loam"|72052048|145700485
+"C"|"No "|"Yes"|"Clay"|72052048|145700486
+"CL"|"No "|"No "|"Clay loam"|72052048|145700487
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72052046|145700483
+"C"|"No "|"Yes"|"Clay"|72051554|145699456
+"CL"|"No "|"No "|"Clay loam"|72051554|145699457
+"C"|"No "|"Yes"|"Clay"|72051553|145699453
+"SCL"|"No "|"No "|"Sandy clay loam"|72051553|145699454
+"CL"|"No "|"No "|"Clay loam"|72051553|145699455
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051552|145699452
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72051551|145699451
+"CL"|"No "|"Yes"|"Clay loam"|72052091|145700570
+"CL"|"No "|"No "|"Clay loam"|72052090|145700568
+"C"|"No "|"Yes"|"Clay"|72052090|145700569
+"CL"|"No "|"No "|"Clay loam"|72052089|145700565
+"C"|"No "|"Yes"|"Clay"|72052089|145700566
+"SCL"|"No "|"No "|"Sandy clay loam"|72052089|145700567
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052088|145700564
+"C"|"No "|"Yes"|"Clay"|72051526|145699400
+"SIC"|"No "|"No "|"Silty clay"|72051526|145699401
+"CL"|"No "|"No "|"Clay loam"|72051526|145699402
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051528|145699404
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051527|145699403
+"C"|"No "|"Yes"|"Clay"|72051524|145699394
+"SIC"|"No "|"No "|"Silty clay"|72051524|145699395
+"CL"|"No "|"No "|"Clay loam"|72051524|145699396
+"C"|"No "|"Yes"|"Clay"|72051525|145699397
+"SIC"|"No "|"No "|"Silty clay"|72051525|145699398
+"CL"|"No "|"No "|"Clay loam"|72051525|145699399
+"SICL"|"No "|"No "|"Silty clay loam"|72051529|145699405
+"CL"|"No "|"Yes"|"Clay loam"|72051529|145699406
+"L"|"No "|"No "|"Loam"|72051529|145699407
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051707|145699773
+"FSL"|"No "|"No "|"Fine sandy loam"|72051707|145699774
+"L"|"No "|"Yes"|"Loam"|72051707|145699775
+"C"|"No "|"Yes"|"Clay"|72051709|145699777
+"CL"|"No "|"No "|"Clay loam"|72051709|145699778
+"SCL"|"No "|"No "|"Sandy clay loam"|72051710|145699779
+"L"|"No "|"No "|"Loam"|72051710|145699780
+"CL"|"No "|"Yes"|"Clay loam"|72051710|145699781
+"L"|"No "|"Yes"|"Loam"|72051712|145699785
+"SCL"|"No "|"No "|"Sandy clay loam"|72051711|145699782
+"CL"|"No "|"No "|"Clay loam"|72051711|145699783
+"L"|"No "|"Yes"|"Loam"|72051711|145699784
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051714|145699787
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051715|145699788
+"FSL"|"No "|"No "|"Fine sandy loam"|72051716|145699789
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051716|145699790
+"CL"|"No "|"No "|"Clay loam"|72051716|145699791
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051713|145699786
+"FS"|"No "|"Yes"|"Fine sand"|72051466|145699262
+"FS"|"No "|"Yes"|"Fine sand"|72051467|145699263
+"FS"|"No "|"Yes"|"Fine sand"|72052092|145700571
+"S"|"No "|"No "|"Sand"|72052092|145700572
+"FS"|"No "|"Yes"|"Fine sand"|72052093|145700573
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052095|145700575
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052094|145700574
+"CL"|"No "|"No "|"Clay loam"|72052096|145700576
+"FSL"|"No "|"No "|"Fine sandy loam"|72052096|145700577
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052096|145700578
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052097|145700579
+"CL"|"No "|"No "|"Clay loam"|72052097|145700580
+"FSL"|"No "|"No "|"Fine sandy loam"|72052097|145700581
+"FS"|"No "|"Yes"|"Fine sand"|72051720|145699798
+"S"|"No "|"No "|"Sand"|72051720|145699799
+"FS"|"No "|"Yes"|"Fine sand"|72051721|145699800
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051723|145699802
+"CL"|"No "|"No "|"Clay loam"|72051724|145699803
+"FSL"|"No "|"No "|"Fine sandy loam"|72051724|145699804
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051724|145699805
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051722|145699801
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051725|145699806
+"CL"|"No "|"No "|"Clay loam"|72051725|145699807
+"FSL"|"No "|"No "|"Fine sandy loam"|72051725|145699808
+"SCL"|"No "|"No "|"Sandy clay loam"|72052053|145700497
+"CL"|"No "|"Yes"|"Clay loam"|72052053|145700498
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052054|145700499
+"L"|"No "|"No "|"Loam"|72052054|145700500
+"SCL"|"No "|"No "|"Sandy clay loam"|72052054|145700501
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052052|145700494
+"CL"|"No "|"No "|"Clay loam"|72052052|145700495
+"FSL"|"No "|"No "|"Fine sandy loam"|72052052|145700496
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052055|145700502
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052099|145700584
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052098|145700582
+"L"|"No "|"No "|"Loam"|72052098|145700583
+"CL"|"No "|"Yes"|"Clay loam"|72052056|145700503
+"L"|"No "|"Yes"|"Loam"|72052059|145700509
+"C"|"No "|"Yes"|"Clay"|72052058|145700507
+"SIC"|"No "|"No "|"Silty clay"|72052058|145700508
+"C"|"No "|"Yes"|"Clay"|72051705|145699768
+"CL"|"No "|"No "|"Clay loam"|72051705|145699769
+"L"|"No "|"Yes"|"Loam"|72051708|145699776
+"SCL"|"No "|"No "|"Sandy clay loam"|72051706|145699770
+"CL"|"No "|"Yes"|"Clay loam"|72051706|145699771
+"L"|"No "|"No "|"Loam"|72051706|145699772
+"SIL"|"No "|"Yes"|"Silt loam"|72051701|145699758
+"SIL"|"No "|"Yes"|"Silt loam"|72051700|145699757
+"C"|"No "|"Yes"|"Clay"|72051704|145699765
+"CL"|"No "|"No "|"Clay loam"|72051704|145699766
+"SIC"|"No "|"No "|"Silty clay"|72051704|145699767
+"SIL"|"No "|"No "|"Silt loam"|72051703|145699762
+"CL"|"No "|"No "|"Clay loam"|72051703|145699763
+"SICL"|"No "|"Yes"|"Silty clay loam"|72051703|145699764
+"SIL"|"No "|"No "|"Silt loam"|72051702|145699759
+"SICL"|"No "|"No "|"Silty clay loam"|72051702|145699760
+"CL"|"No "|"Yes"|"Clay loam"|72051702|145699761
+"SIL"|"No "|"No "|"Silt loam"|72051697|145699748
+"SICL"|"No "|"No "|"Silty clay loam"|72051697|145699749
+"CL"|"No "|"Yes"|"Clay loam"|72051697|145699750
+"SIL"|"No "|"No "|"Silt loam"|72051698|145699751
+"CL"|"No "|"No "|"Clay loam"|72051698|145699752
+"SICL"|"No "|"Yes"|"Silty clay loam"|72051698|145699753
+"SIL"|"No "|"Yes"|"Silt loam"|72051695|145699746
+"C"|"No "|"Yes"|"Clay"|72051699|145699754
+"CL"|"No "|"No "|"Clay loam"|72051699|145699755
+"SIC"|"No "|"No "|"Silty clay"|72051699|145699756
+"SIL"|"No "|"Yes"|"Silt loam"|72051696|145699747
+"CL"|"No "|"No "|"Clay loam"|72051693|145699742
+"L"|"No "|"Yes"|"Loam"|72051693|145699743
+"SCL"|"No "|"No "|"Sandy clay loam"|72051693|145699744
+"CL"|"No "|"No "|"Clay loam"|72051691|145699737
+"C"|"No "|"Yes"|"Clay"|72051691|145699738
+"L"|"No "|"Yes"|"Loam"|72051694|145699745
+"CL"|"No "|"Yes"|"Clay loam"|72051692|145699739
+"SCL"|"No "|"No "|"Sandy clay loam"|72051692|145699740
+"L"|"No "|"No "|"Loam"|72051692|145699741
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051773|145699903
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051774|145699904
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051772|145699901
+"FSL"|"No "|"No "|"Fine sandy loam"|72051772|145699902
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051771|145699899
+"FSL"|"No "|"No "|"Fine sandy loam"|72051771|145699900
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051770|145699898
+"CL"|"No "|"Yes"|"Clay loam"|72051766|145699889
+"SCL"|"No "|"No "|"Sandy clay loam"|72051766|145699890
+"L"|"No "|"No "|"Loam"|72051766|145699891
+"L"|"No "|"Yes"|"Loam"|72051765|145699888
+"L"|"No "|"Yes"|"Loam"|72051767|145699892
+"CL"|"No "|"No "|"Clay loam"|72051767|145699893
+"SCL"|"No "|"No "|"Sandy clay loam"|72051767|145699894
+"L"|"No "|"Yes"|"Loam"|72051769|145699897
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051768|145699895
+"LFS"|"No "|"No "|"Loamy fine sand"|72051768|145699896
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051763|145699883
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051763|145699884
+"L"|"No "|"No "|"Loam"|72051763|145699885
+"L"|"No "|"Yes"|"Loam"|72051764|145699886
+"SCL"|"No "|"No "|"Sandy clay loam"|72051764|145699887
+"L"|"No "|"Yes"|"Loam"|72051762|145699881
+"FSL"|"No "|"No "|"Fine sandy loam"|72051762|145699882
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051761|145699880
+"C"|"No "|"No "|"Clay"|72051641|145699624
+"SC"|"No "|"No "|"Sandy clay"|72051641|145699625
+"CL"|"No "|"No "|"Clay loam"|72051641|145699626
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051641|145699627
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051640|145699623
+"SCL"|"No "|"No "|"Sandy clay loam"|72051639|145699620
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051639|145699621
+"SL"|"No "|"No "|"Sandy loam"|72051639|145699622
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051636|145699615
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051638|145699618
+"FSL"|"No "|"No "|"Fine sandy loam"|72051638|145699619
+"LFS"|"No "|"No "|"Loamy fine sand"|72051637|145699616
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051637|145699617
+"CL"|"No "|"Yes"|"Clay loam"|72051630|145699601
+"CL"|"No "|"Yes"|"Clay loam"|72051629|145699599
+"C"|"No "|"No "|"Clay"|72051629|145699600
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051631|145699602
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051631|145699603
+"L"|"No "|"No "|"Loam"|72051631|145699604
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051628|145699596
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051628|145699597
+"L"|"No "|"No "|"Loam"|72051628|145699598
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051627|145699593
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051627|145699594
+"L"|"No "|"No "|"Loam"|72051627|145699595
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052285|145700956
+"SIL"|"No "|"No "|"Silt loam"|72052285|145700957
+"SIC"|"No "|"Yes"|"Silty clay"|72052288|145700963
+"C"|"No "|"No "|"Clay"|72052288|145700964
+"SIL"|"No "|"Yes"|"Silt loam"|72052284|145700955
+"CL"|"No "|"No "|"Clay loam"|72052286|145700958
+"L"|"No "|"Yes"|"Loam"|72052286|145700959
+"L"|"No "|"No "|"Loam"|72052287|145700960
+"CL"|"No "|"No "|"Clay loam"|72052287|145700961
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052287|145700962
+"CL"|"No "|"No "|"Clay loam"|72052283|145700952
+"FSL"|"No "|"No "|"Fine sandy loam"|72052283|145700953
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052283|145700954
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052281|145700948
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052280|145700947
+"CL"|"No "|"No "|"Clay loam"|72052282|145700949
+"FSL"|"No "|"No "|"Fine sandy loam"|72052282|145700950
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052282|145700951
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052037|145700467
+"SCL"|"No "|"No "|"Sandy clay loam"|72052039|145700469
+"CL"|"No "|"No "|"Clay loam"|72052039|145700470
+"L"|"No "|"Yes"|"Loam"|72052039|145700471
+"SCL"|"No "|"No "|"Sandy clay loam"|72052041|145700475
+"CL"|"No "|"No "|"Clay loam"|72052041|145700476
+"C"|"No "|"Yes"|"Clay"|72052041|145700477
+"SIC"|"No "|"No "|"Silty clay"|72052042|145700478
+"C"|"No "|"Yes"|"Clay"|72052042|145700479
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052038|145700468
+"CL"|"No "|"No "|"Clay loam"|72052040|145700472
+"L"|"No "|"Yes"|"Loam"|72052040|145700473
+"SCL"|"No "|"No "|"Sandy clay loam"|72052040|145700474
+"C"|"No "|"Yes"|"Clay"|72052036|145700465
+"SIC"|"No "|"No "|"Silty clay"|72052036|145700466
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052032|145700458
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052033|145700459
+"SICL"|"No "|"No "|"Silty clay loam"|72052034|145700460
+"CL"|"No "|"Yes"|"Clay loam"|72052034|145700461
+"CL"|"No "|"Yes"|"Clay loam"|72052035|145700462
+"C"|"No "|"No "|"Clay"|72052035|145700463
+"SCL"|"No "|"No "|"Sandy clay loam"|72052035|145700464
+"L"|"No "|"Yes"|"Loam"|72052027|145700445
+"CL"|"No "|"No "|"Clay loam"|72052027|145700446
+"SICL"|"No "|"No "|"Silty clay loam"|72052027|145700447
+"SIL"|"No "|"No "|"Silt loam"|72052027|145700448
+"SIC"|"No "|"No "|"Silty clay"|72052031|145700455
+"CL"|"No "|"Yes"|"Clay loam"|72052031|145700456
+"C"|"No "|"No "|"Clay"|72052031|145700457
+"L"|"No "|"No "|"Loam"|72052030|145700451
+"CL"|"No "|"No "|"Clay loam"|72052030|145700452
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052030|145700453
+"SIL"|"No "|"No "|"Silt loam"|72052030|145700454
+"SIL"|"No "|"Yes"|"Silt loam"|72052028|145700449
+"SIL"|"No "|"Yes"|"Silt loam"|72052029|145700450
+"L"|"No "|"No "|"Loam"|72052025|145700439
+"SCL"|"No "|"No "|"Sandy clay loam"|72052025|145700440
+"CL"|"No "|"Yes"|"Clay loam"|72052025|145700441
+"C"|"No "|"Yes"|"Clay"|72052026|145700442
+"SIC"|"No "|"No "|"Silty clay"|72052026|145700443
+"CL"|"No "|"No "|"Clay loam"|72052026|145700444
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052024|145700438
+"CL"|"No "|"Yes"|"Clay loam"|72052006|145700399
+"C"|"No "|"No "|"Clay"|72052006|145700400
+"CL"|"No "|"Yes"|"Clay loam"|72052004|145700395
+"L"|"No "|"No "|"Loam"|72052004|145700396
+"SICL"|"No "|"No "|"Silty clay loam"|72052004|145700397
+"CL"|"No "|"Yes"|"Clay loam"|72051587|145699518
+"C"|"No "|"No "|"Clay"|72051587|145699519
+"L"|"No "|"Yes"|"Loam"|72051586|145699517
+"L"|"No "|"No "|"Loam"|72051585|145699514
+"CL"|"No "|"Yes"|"Clay loam"|72051585|145699515
+"SICL"|"No "|"No "|"Silty clay loam"|72051585|145699516
+"CL"|"No "|"Yes"|"Clay loam"|72051550|145699450
+"C"|"No "|"Yes"|"Clay"|72051549|145699447
+"CL"|"No "|"No "|"Clay loam"|72051549|145699448
+"SC"|"No "|"No "|"Sandy clay"|72051549|145699449
+"CL"|"No "|"Yes"|"Clay loam"|72051548|145699446
+"CL"|"No "|"Yes"|"Clay loam"|72052023|145700437
+"C"|"No "|"No "|"Clay"|72052022|145700434
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052022|145700435
+"CL"|"No "|"No "|"Clay loam"|72052022|145700436
+"CL"|"No "|"No "|"Clay loam"|72052021|145700431
+"C"|"No "|"Yes"|"Clay"|72052021|145700432
+"SC"|"No "|"No "|"Sandy clay"|72052021|145700433
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72052020|145700430
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051544|145699438
+"CL"|"No "|"No "|"Clay loam"|72051546|145699442
+"C"|"No "|"No "|"Clay"|72051546|145699443
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051546|145699444
+"SC"|"No "|"No "|"Sandy clay"|72051545|145699439
+"C"|"No "|"Yes"|"Clay"|72051545|145699440
+"CL"|"No "|"No "|"Clay loam"|72051545|145699441
+"CL"|"No "|"Yes"|"Clay loam"|72051547|145699445
+"C"|"No "|"Yes"|"Clay"|72051973|145700312
+"SC"|"No "|"No "|"Sandy clay"|72051973|145700313
+"CL"|"No "|"No "|"Clay loam"|72051973|145700314
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051971|145700309
+"CL"|"No "|"No "|"Clay loam"|72051971|145700310
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051972|145700311
+"SCL"|"No "|"No "|"Sandy clay loam"|72051974|145700315
+"C"|"No "|"Yes"|"Clay"|72051974|145700316
+"CL"|"No "|"No "|"Clay loam"|72051974|145700317
+"SC"|"No "|"No "|"Sandy clay"|72051974|145700318
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051970|145700308
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051975|145700319
+"CL"|"No "|"No "|"Clay loam"|72051975|145700320
+"SC"|"No "|"No "|"Sandy clay"|72051975|145700321
+"C"|"No "|"No "|"Clay"|72051975|145700322
+"L"|"No "|"Yes"|"Loam"|72052018|145700426
+"SC"|"No "|"No "|"Sandy clay"|72052019|145700427
+"C"|"No "|"No "|"Clay"|72052019|145700428
+"CL"|"No "|"Yes"|"Clay loam"|72052019|145700429
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052017|145700425
+"FS"|"No "|"Yes"|"Fine sand"|72051854|145700058
+"FS"|"No "|"Yes"|"Fine sand"|72051853|145700057
+"FS"|"No "|"Yes"|"Fine sand"|72051855|145700059
+"L"|"No "|"Yes"|"Loam"|72052102|145700589
+"FSL"|"No "|"No "|"Fine sandy loam"|72052102|145700590
+"SCL"|"No "|"No "|"Sandy clay loam"|72052102|145700591
+"L"|"No "|"Yes"|"Loam"|72052101|145700586
+"SCL"|"No "|"No "|"Sandy clay loam"|72052101|145700587
+"FSL"|"No "|"No "|"Fine sandy loam"|72052101|145700588
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052100|145700585
+"FSL"|"No "|"No "|"Fine sandy loam"|72051684|145699722
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051684|145699723
+"L"|"No "|"Yes"|"Loam"|72051684|145699724
+"CL"|"No "|"No "|"Clay loam"|72051685|145699725
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051685|145699726
+"L"|"No "|"No "|"Loam"|72051685|145699727
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051683|145699721
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051682|145699719
+"L"|"No "|"No "|"Loam"|72051682|145699720
+"L"|"No "|"Yes"|"Loam"|72051681|145699718
+"SIC"|"No "|"No "|"Silty clay"|72051964|145700296
+"C"|"No "|"Yes"|"Clay"|72051964|145700297
+"SIC"|"No "|"No "|"Silty clay"|72051963|145700294
+"C"|"No "|"Yes"|"Clay"|72051963|145700295
+"SIC"|"No "|"No "|"Silty clay"|72051962|145700292
+"C"|"No "|"Yes"|"Clay"|72051962|145700293
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051960|145700288
+"SICL"|"No "|"No "|"Silty clay loam"|72051960|145700289
+"CL"|"No "|"No "|"Clay loam"|72051960|145700290
+"C"|"No "|"Yes"|"Clay"|72051961|145700291
+"L"|"No "|"Yes"|"Loam"|72051977|145700324
+"SICL"|"No "|"No "|"Silty clay loam"|72051977|145700325
+"CL"|"No "|"No "|"Clay loam"|72051977|145700326
+"L"|"No "|"Yes"|"Loam"|72051976|145700323
+"C"|"No "|"No "|"Clay"|72051978|145700327
+"CL"|"No "|"No "|"Clay loam"|72051978|145700328
+"SIC"|"No "|"Yes"|"Silty clay"|72051978|145700329
+"SICL"|"No "|"No "|"Silty clay loam"|72051679|145699712
+"CL"|"No "|"No "|"Clay loam"|72051679|145699713
+"C"|"No "|"Yes"|"Clay"|72051679|145699714
+"L"|"No "|"No "|"Loam"|72051680|145699715
+"C"|"No "|"Yes"|"Clay"|72051680|145699716
+"CL"|"No "|"No "|"Clay loam"|72051680|145699717
+"SIL"|"No "|"Yes"|"Silt loam"|72051677|145699709
+"CL"|"No "|"Yes"|"Clay loam"|72051678|145699710
+"SICL"|"No "|"No "|"Silty clay loam"|72051678|145699711
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052149|145700681
+"FSL"|"No "|"No "|"Fine sandy loam"|72052149|145700682
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052150|145700683
+"FS"|"No "|"No "|"Fine sand"|72052150|145700684
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052151|145700685
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052068|145700527
+"FSL"|"No "|"No "|"Fine sandy loam"|72052068|145700528
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052069|145700529
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72052067|145700525
+"FS"|"No "|"No "|"Fine sand"|72052067|145700526
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051491|145699315
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051492|145699316
+"C"|"No "|"Yes"|"Clay"|72051489|145699308
+"SCL"|"No "|"No "|"Sandy clay loam"|72051489|145699309
+"SC"|"No "|"No "|"Sandy clay"|72051489|145699310
+"CL"|"No "|"No "|"Clay loam"|72051489|145699311
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72051488|145699307
+"GR-FSL"|"No "|"Yes"|"Gravelly fine sandy loam"|72051487|145699306
+"CL"|"No "|"Yes"|"Clay loam"|72051490|145699312
+"FSL"|"No "|"No "|"Fine sandy loam"|72051490|145699313
+"SCL"|"No "|"No "|"Sandy clay loam"|72051490|145699314
+"ST-FSL"|"No "|"Yes"|"Stony fine sandy loam"|72051676|145699708
+"C"|"No "|"Yes"|"Clay"|72051674|145699705
+"SCL"|"No "|"No "|"Sandy clay loam"|72051674|145699706
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051675|145699707
+"C"|"No "|"Yes"|"Clay"|72051718|145699793
+"SCL"|"No "|"No "|"Sandy clay loam"|72051718|145699794
+"CL"|"No "|"No "|"Clay loam"|72051718|145699795
+"SC"|"No "|"No "|"Sandy clay"|72051718|145699796
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051717|145699792
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051719|145699797
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051885|145700140
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051885|145700141
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051883|145700134
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051883|145700135
+"C"|"No "|"Yes"|"Clay"|72051886|145700142
+"SC"|"No "|"No "|"Sandy clay"|72051886|145700143
+"CL"|"No "|"No "|"Clay loam"|72051886|145700144
+"SCL"|"No "|"No "|"Sandy clay loam"|72051886|145700145
+"C"|"No "|"Yes"|"Clay"|72051884|145700136
+"SCL"|"No "|"No "|"Sandy clay loam"|72051884|145700137
+"SC"|"No "|"No "|"Sandy clay"|72051884|145700138
+"CL"|"No "|"No "|"Clay loam"|72051884|145700139
+"SC"|"No "|"No "|"Sandy clay"|72051896|145700168
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051896|145700169
+"CL"|"No "|"No "|"Clay loam"|72051896|145700170
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051891|145700156
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051895|145700165
+"FSL"|"No "|"No "|"Fine sandy loam"|72051895|145700166
+"CL"|"No "|"No "|"Clay loam"|72051895|145700167
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051894|145700162
+"CL"|"No "|"No "|"Clay loam"|72051894|145700163
+"FSL"|"No "|"No "|"Fine sandy loam"|72051894|145700164
+"FSL"|"No "|"No "|"Fine sandy loam"|72051893|145700159
+"CL"|"No "|"No "|"Clay loam"|72051893|145700160
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051893|145700161
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051892|145700157
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051892|145700158
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051543|145699435
+"FS"|"No "|"No "|"Fine sand"|72051543|145699436
+"FSL"|"No "|"No "|"Fine sandy loam"|72051543|145699437
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051541|145699432
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051542|145699433
+"FS"|"No "|"No "|"Fine sand"|72051542|145699434
+"FS"|"No "|"No "|"Fine sand"|72051557|145699462
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051557|145699463
+"FSL"|"No "|"No "|"Fine sandy loam"|72051557|145699464
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051555|145699458
+"FS"|"No "|"No "|"Fine sand"|72051555|145699459
+"FS"|"No "|"No "|"Fine sand"|72051556|145699460
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051556|145699461
+"FSL"|"No "|"No "|"Fine sandy loam"|72052014|145700416
+"L"|"No "|"No "|"Loam"|72052014|145700417
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052014|145700418
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052013|145700415
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052016|145700422
+"FSL"|"No "|"No "|"Fine sandy loam"|72052016|145700423
+"L"|"No "|"No "|"Loam"|72052016|145700424
+"L"|"No "|"No "|"Loam"|72052015|145700419
+"CL"|"No "|"No "|"Clay loam"|72052015|145700420
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052015|145700421
+"L"|"No "|"No "|"Loam"|72051540|145699429
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051540|145699430
+"FSL"|"No "|"No "|"Fine sandy loam"|72051540|145699431
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051539|145699426
+"CL"|"No "|"No "|"Clay loam"|72051539|145699427
+"L"|"No "|"No "|"Loam"|72051539|145699428
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051537|145699422
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051538|145699423
+"L"|"No "|"No "|"Loam"|72051538|145699424
+"FSL"|"No "|"No "|"Fine sandy loam"|72051538|145699425
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051856|145700060
+"FSL"|"No "|"No "|"Fine sandy loam"|72051857|145700061
+"L"|"No "|"No "|"Loam"|72051857|145700062
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051857|145700063
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051477|145699283
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051476|145699280
+"FSL"|"No "|"No "|"Fine sandy loam"|72051476|145699281
+"L"|"No "|"No "|"Loam"|72051476|145699282
+"CL"|"No "|"No "|"Clay loam"|72052057|145700504
+"SCL"|"No "|"No "|"Sandy clay loam"|72052057|145700505
+"C"|"No "|"Yes"|"Clay"|72052057|145700506
+"C"|"No "|"Yes"|"Clay"|72052063|145700517
+"SIC"|"No "|"No "|"Silty clay"|72052063|145700518
+"CL"|"No "|"Yes"|"Clay loam"|72052064|145700519
+"C"|"No "|"No "|"Clay"|72052064|145700520
+"CL"|"No "|"Yes"|"Clay loam"|72052066|145700523
+"C"|"No "|"No "|"Clay"|72052066|145700524
+"SCL"|"No "|"No "|"Sandy clay loam"|72052061|145700511
+"L"|"No "|"No "|"Loam"|72052061|145700512
+"CL"|"No "|"Yes"|"Clay loam"|72052061|145700513
+"SCL"|"No "|"No "|"Sandy clay loam"|72052062|145700514
+"L"|"No "|"No "|"Loam"|72052062|145700515
+"CL"|"No "|"Yes"|"Clay loam"|72052062|145700516
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052060|145700510
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72052065|145700521
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052065|145700522
+"SIC"|"No "|"No "|"Silty clay"|72051877|145700123
+"C"|"No "|"Yes"|"Clay"|72051877|145700124
+"L"|"No "|"No "|"Loam"|72051876|145700120
+"SICL"|"No "|"No "|"Silty clay loam"|72051876|145700121
+"CL"|"No "|"Yes"|"Clay loam"|72051876|145700122
+"L"|"No "|"Yes"|"Loam"|72051878|145700125
+"CL"|"No "|"Yes"|"Clay loam"|72051875|145700119
+"CL"|"No "|"No "|"Clay loam"|72051881|145700128
+"FSL"|"No "|"No "|"Fine sandy loam"|72051881|145700129
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051881|145700130
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051880|145700127
+"LFS"|"No "|"Yes"|"Loamy fine sand"|72051879|145700126
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051882|145700131
+"CL"|"No "|"No "|"Clay loam"|72051882|145700132
+"FSL"|"No "|"No "|"Fine sandy loam"|72051882|145700133
+"CL"|"No "|"Yes"|"Clay loam"|72051832|145700014
+"C"|"No "|"No "|"Clay"|72051832|145700015
+"CL"|"No "|"Yes"|"Clay loam"|72051827|145700002
+"SCL"|"No "|"No "|"Sandy clay loam"|72051827|145700003
+"L"|"No "|"No "|"Loam"|72051827|145700004
+"C"|"No "|"Yes"|"Clay"|72051829|145700008
+"SIC"|"No "|"No "|"Silty clay"|72051829|145700009
+"C"|"No "|"No "|"Clay"|72051830|145700010
+"CL"|"No "|"Yes"|"Clay loam"|72051830|145700011
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051826|145700001
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051831|145700012
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051831|145700013
+"CL"|"No "|"Yes"|"Clay loam"|72051828|145700005
+"SCL"|"No "|"No "|"Sandy clay loam"|72051828|145700006
+"L"|"No "|"No "|"Loam"|72051828|145700007
+"L"|"No "|"Yes"|"Loam"|72051834|145700019
+"FSL"|"No "|"No "|"Fine sandy loam"|72051834|145700020
+"SCL"|"No "|"No "|"Sandy clay loam"|72051834|145700021
+"CL"|"No "|"No "|"Clay loam"|72051834|145700022
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051836|145700024
+"L"|"No "|"No "|"Loam"|72051836|145700025
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051836|145700026
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051833|145700016
+"L"|"No "|"No "|"Loam"|72051833|145700017
+"CL"|"No "|"No "|"Clay loam"|72051833|145700018
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051835|145700023
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72051837|145700027
+"FSL"|"No "|"No "|"Fine sandy loam"|72051837|145700028
+"SL"|"No "|"No "|"Sandy loam"|72051837|145700029
+"C"|"No "|"Yes"|"Clay"|72051838|145700030
+"CL"|"No "|"No "|"Clay loam"|72051838|145700031
+"SC"|"No "|"No "|"Sandy clay"|72051838|145700032
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051839|145700033
+"CL"|"No "|"Yes"|"Clay loam"|72052215|145700816
+"SICL"|"No "|"No "|"Silty clay loam"|72052215|145700817
+"L"|"No "|"No "|"Loam"|72052215|145700818
+"C"|"No "|"Yes"|"Clay"|72052216|145700819
+"SIC"|"No "|"No "|"Silty clay"|72052216|145700820
+"FSL"|"No "|"No "|"Fine sandy loam"|72052213|145700812
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052213|145700813
+"SR- FSL SICL"|"Yes"|"No "|"Stratified fine sandy loam to silty clay loam"|72052214|145700814
+"CL"|"No "|"Yes"|"Clay loam"|72052214|145700815
+"CL"|"No "|"Yes"|"Clay loam"|72052223|145700834
+"C"|"No "|"No "|"Clay"|72052223|145700835
+"CL"|"No "|"Yes"|"Clay loam"|72052219|145700824
+"SCL"|"No "|"No "|"Sandy clay loam"|72052219|145700825
+"L"|"No "|"No "|"Loam"|72052219|145700826
+"CL"|"No "|"Yes"|"Clay loam"|72052222|145700832
+"C"|"No "|"No "|"Clay"|72052222|145700833
+"SIC"|"No "|"No "|"Silty clay"|72052221|145700830
+"C"|"No "|"Yes"|"Clay"|72052221|145700831
+"CL"|"No "|"Yes"|"Clay loam"|72052220|145700827
+"SCL"|"No "|"No "|"Sandy clay loam"|72052220|145700828
+"L"|"No "|"No "|"Loam"|72052220|145700829
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052217|145700821
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72052218|145700822
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052218|145700823
+"SICL"|"No "|"No "|"Silty clay loam"|72051688|145699730
+"CL"|"No "|"Yes"|"Clay loam"|72051688|145699731
+"SIC"|"No "|"No "|"Silty clay"|72051690|145699735
+"C"|"No "|"Yes"|"Clay"|72051690|145699736
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051686|145699728
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72051687|145699729
+"SCL"|"No "|"No "|"Sandy clay loam"|72051689|145699732
+"C"|"No "|"No "|"Clay"|72051689|145699733
+"CL"|"No "|"Yes"|"Clay loam"|72051689|145699734
+"CL"|"No "|"Yes"|"Clay loam"|72051850|145700051
+"C"|"No "|"No "|"Clay"|72051850|145700052
+"CL"|"No "|"Yes"|"Clay loam"|72051848|145700045
+"SCL"|"No "|"No "|"Sandy clay loam"|72051848|145700046
+"L"|"No "|"No "|"Loam"|72051848|145700047
+"CL"|"Yes"|"Yes"|"Clay loam"|72051852|145700055
+"C"|"No "|"No "|"Clay"|72051852|145700056
+"SIC"|"No "|"No "|"Silty clay"|72051851|145700053
+"C"|"No "|"Yes"|"Clay"|72051851|145700054
+"CL"|"No "|"Yes"|"Clay loam"|72051849|145700048
+"L"|"No "|"No "|"Loam"|72051849|145700049
+"SCL"|"No "|"No "|"Sandy clay loam"|72051849|145700050
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051847|145700043
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72051847|145700044
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051846|145700042
+"SCL"|"No "|"No "|"Sandy clay loam"|72052227|145700841
+"CL"|"No "|"Yes"|"Clay loam"|72052227|145700842
+"L"|"No "|"No "|"Loam"|72052227|145700843
+"L"|"No "|"Yes"|"Loam"|72052224|145700836
+"L"|"No "|"Yes"|"Loam"|72052225|145700837
+"C"|"No "|"Yes"|"Clay"|72052228|145700844
+"CL"|"No "|"No "|"Clay loam"|72052228|145700845
+"SCL"|"No "|"No "|"Sandy clay loam"|72052226|145700838
+"CL"|"No "|"No "|"Clay loam"|72052226|145700839
+"L"|"No "|"Yes"|"Loam"|72052226|145700840
+"SIL"|"No "|"Yes"|"Silt loam"|72052230|145700847
+"C"|"No "|"Yes"|"Clay"|72052233|145700854
+"SIC"|"No "|"No "|"Silty clay"|72052233|145700855
+"CL"|"No "|"No "|"Clay loam"|72052233|145700856
+"SIL"|"No "|"Yes"|"Silt loam"|72052229|145700846
+"SIL"|"No "|"No "|"Silt loam"|72052232|145700851
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052232|145700852
+"CL"|"No "|"No "|"Clay loam"|72052232|145700853
+"SICL"|"No "|"No "|"Silty clay loam"|72052231|145700848
+"CL"|"No "|"Yes"|"Clay loam"|72052231|145700849
+"SIL"|"No "|"No "|"Silt loam"|72052231|145700850
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72052234|145700857
+"L"|"No "|"Yes"|"Loam"|72052234|145700858
+"FSL"|"No "|"No "|"Fine sandy loam"|72052234|145700859
+"L"|"No "|"Yes"|"Loam"|72052235|145700860
+"L"|"No "|"No "|"Loam"|72052237|145700864
+"SCL"|"No "|"No "|"Sandy clay loam"|72052237|145700865
+"CL"|"No "|"Yes"|"Clay loam"|72052237|145700866
+"C"|"No "|"Yes"|"Clay"|72052238|145700867
+"CL"|"No "|"No "|"Clay loam"|72052238|145700868
+"CL"|"No "|"Yes"|"Clay loam"|72052236|145700861
+"L"|"No "|"No "|"Loam"|72052236|145700862
+"SCL"|"No "|"No "|"Sandy clay loam"|72052236|145700863
+"SCL"|"No "|"No "|"Sandy clay loam"|72052165|145700711
+"CL"|"No "|"No "|"Clay loam"|72052165|145700712
+"L"|"No "|"Yes"|"Loam"|72052165|145700713
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052163|145700707
+"C"|"No "|"Yes"|"Clay"|72052167|145700717
+"SIC"|"No "|"No "|"Silty clay"|72052167|145700718
+"C"|"No "|"Yes"|"Clay"|72052166|145700714
+"CL"|"No "|"No "|"Clay loam"|72052166|145700715
+"SCL"|"No "|"No "|"Sandy clay loam"|72052166|145700716
+"L"|"No "|"Yes"|"Loam"|72052164|145700708
+"SCL"|"No "|"No "|"Sandy clay loam"|72052164|145700709
+"CL"|"No "|"No "|"Clay loam"|72052164|145700710
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052162|145700706
+"C"|"No "|"No "|"Clay"|72052171|145700723
+"SCL"|"No "|"No "|"Sandy clay loam"|72052171|145700724
+"CL"|"No "|"Yes"|"Clay loam"|72052171|145700725
+"SICL"|"No "|"No "|"Silty clay loam"|72052170|145700721
+"CL"|"No "|"Yes"|"Clay loam"|72052170|145700722
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052169|145700720
+"SIC"|"No "|"No "|"Silty clay"|72052172|145700726
+"C"|"No "|"Yes"|"Clay"|72052172|145700727
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052168|145700719
+"SIL"|"No "|"Yes"|"Silt loam"|72052174|145700729
+"SIL"|"No "|"Yes"|"Silt loam"|72052173|145700728
+"SIL"|"No "|"No "|"Silt loam"|72052175|145700730
+"SICL"|"No "|"No "|"Silty clay loam"|72052175|145700731
+"CL"|"No "|"Yes"|"Clay loam"|72052175|145700732
+"CL"|"No "|"No "|"Clay loam"|72052177|145700736
+"C"|"No "|"Yes"|"Clay"|72052177|145700737
+"SIC"|"No "|"No "|"Silty clay"|72052177|145700738
+"CL"|"No "|"No "|"Clay loam"|72052176|145700733
+"SIL"|"No "|"No "|"Silt loam"|72052176|145700734
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052176|145700735
+"CL"|"No "|"Yes"|"Clay loam"|72052181|145700745
+"SCL"|"No "|"No "|"Sandy clay loam"|72052181|145700746
+"L"|"No "|"No "|"Loam"|72052181|145700747
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72052179|145700740
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052179|145700741
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052178|145700739
+"C"|"No "|"No "|"Clay"|72052183|145700750
+"SR- CL VFSL"|"Yes"|"Yes"|"Stratified clay loam to very fine sandy loam"|72052183|145700751
+"L"|"No "|"No "|"Loam"|72052180|145700742
+"CL"|"No "|"Yes"|"Clay loam"|72052180|145700743
+"SCL"|"No "|"No "|"Sandy clay loam"|72052180|145700744
+"CL"|"No "|"Yes"|"Clay loam"|72052184|145700752
+"C"|"No "|"No "|"Clay"|72052184|145700753
+"SIC"|"No "|"No "|"Silty clay"|72052182|145700748
+"C"|"No "|"Yes"|"Clay"|72052182|145700749
+"SCL"|"No "|"No "|"Sandy clay loam"|72052199|145700782
+"L"|"No "|"Yes"|"Loam"|72052199|145700783
+"CL"|"No "|"No "|"Clay loam"|72052199|145700784
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052197|145700778
+"C"|"No "|"Yes"|"Clay"|72052201|145700788
+"SIC"|"No "|"No "|"Silty clay"|72052201|145700789
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052196|145700777
+"L"|"No "|"Yes"|"Loam"|72052198|145700779
+"SCL"|"No "|"No "|"Sandy clay loam"|72052198|145700780
+"CL"|"No "|"No "|"Clay loam"|72052198|145700781
+"SCL"|"No "|"No "|"Sandy clay loam"|72052200|145700785
+"C"|"No "|"Yes"|"Clay"|72052200|145700786
+"CL"|"No "|"No "|"Clay loam"|72052200|145700787
+"SCL"|"No "|"No "|"Sandy clay loam"|72052205|145700794
+"CL"|"No "|"Yes"|"Clay loam"|72052205|145700795
+"C"|"No "|"No "|"Clay"|72052205|145700796
+"SICL"|"No "|"No "|"Silty clay loam"|72052204|145700792
+"CL"|"No "|"Yes"|"Clay loam"|72052204|145700793
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052202|145700790
+"SIC"|"No "|"No "|"Silty clay"|72052206|145700797
+"C"|"No "|"Yes"|"Clay"|72052206|145700798
+"VFSL"|"No "|"Yes"|"Very fine sandy loam"|72052203|145700791
+"SIL"|"No "|"Yes"|"Silt loam"|72052208|145700800
+"SIL"|"No "|"Yes"|"Silt loam"|72052207|145700799
+"SIL"|"No "|"No "|"Silt loam"|72052209|145700801
+"SICL"|"No "|"No "|"Silty clay loam"|72052209|145700802
+"CL"|"No "|"Yes"|"Clay loam"|72052209|145700803
+"SIC"|"No "|"No "|"Silty clay"|72052212|145700809
+"C"|"No "|"No "|"Clay"|72052212|145700810
+"CL"|"No "|"Yes"|"Clay loam"|72052212|145700811
+"CL"|"No "|"No "|"Clay loam"|72052210|145700804
+"SICL"|"No "|"No "|"Silty clay loam"|72052210|145700805
+"SIL"|"No "|"Yes"|"Silt loam"|72052210|145700806
+"SICL"|"No "|"Yes"|"Silty clay loam"|72052211|145700807
+"CL"|"No "|"No "|"Clay loam"|72052211|145700808
+"C"|"No "|"No "|"Clay"|72052144|145700666
+"SC"|"No "|"No "|"Sandy clay"|72052144|145700667
+"CL"|"No "|"No "|"Clay loam"|72052144|145700668
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052144|145700669
+"SCL"|"No "|"No "|"Sandy clay loam"|72052142|145700662
+"FSL"|"No "|"No "|"Fine sandy loam"|72052142|145700663
+"SL"|"No "|"Yes"|"Sandy loam"|72052142|145700664
+"FSL"|"No "|"No "|"Fine sandy loam"|72052141|145700660
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052141|145700661
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052143|145700665
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052140|145700658
+"LFS"|"No "|"No "|"Loamy fine sand"|72052140|145700659
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052139|145700657
+"L"|"No "|"No "|"Loam"|72052145|145700670
+"SCL"|"No "|"Yes"|"Sandy clay loam"|72052145|145700671
+"CL"|"No "|"No "|"Clay loam"|72052145|145700672
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052147|145700677
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72052148|145700678
+"VFSL"|"No "|"No "|"Very fine sandy loam"|72052148|145700679
+"L"|"No "|"No "|"Loam"|72052148|145700680
+"SCL"|"No "|"No "|"Sandy clay loam"|72052146|145700673
+"CL"|"No "|"No "|"Clay loam"|72052146|145700674
+"FSL"|"No "|"No "|"Fine sandy loam"|72052146|145700675
+"L"|"No "|"Yes"|"Loam"|72052146|145700676
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051657|145699665
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051658|145699666
+"L"|"No "|"No "|"Loam"|72051658|145699667
+"SL"|"No "|"No "|"Sandy loam"|72051658|145699668
+"FSL"|"No "|"Yes"|"Fine sandy loam"|72051659|145699669
+"L"|"No "|"No "|"Loam"|72051659|145699670
+"SL"|"No "|"No "|"Sandy loam"|72051659|145699671

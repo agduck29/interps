@@ -1,0 +1,1138 @@
+"fragvol_l"|"fragvol_r"|"fragvol_h"|"fragkind"|"fragsize_l"|"fragsize_r"|"fragsize_h"|"fragshp"|"fraground"|"fraghard"|"chkey"|"chfragskey"
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025080|124134843
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025082|124134845
+0|1|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025083|124134846
+0|1|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025083|124134847
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025081|124134844
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025084|124134848
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025087|124134851
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025085|124134849
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025086|124134850
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025089|124134853
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025090|124134854
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025088|124134852
+0|2|11|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024691|124134149
+0|3|17|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024691|124134150
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024694|124134155
+0|4|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024694|124134156
+0|3|17|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024692|124134151
+0|2|11|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024692|124134152
+0|3|17|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024693|124134153
+0|2|11|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024693|124134154
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024689|124134145
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024689|124134146
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024690|124134147
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024690|124134148
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025008|124134733
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025008|124134734
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025006|124134729
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025006|124134730
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025007|124134731
+0|1|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025007|124134732
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025102|124134878
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72025102|124134879
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025103|124134880
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72025103|124134881
+0|5|9|""|5|40|75|""|""|""|72025178|124135019
+0|6|11|""|2|4|5|""|""|""|72025178|124135020
+0|1|2|""|75|162|250|""|""|""|72025178|124135021
+0|7|14|""|2|4|5|""|""|""|72025180|124135025
+0|5|9|""|5|40|75|""|""|""|72025180|124135026
+0|1|1|""|75|162|250|""|""|""|72025180|124135027
+0|5|9|""|5|40|75|""|""|""|72025181|124135028
+0|7|13|""|2|4|5|""|""|""|72025181|124135029
+0|1|1|""|75|162|250|""|""|""|72025181|124135030
+0|6|11|""|2|4|5|""|""|""|72025179|124135022
+0|5|9|""|5|40|75|""|""|""|72025179|124135023
+0|1|1|""|75|162|250|""|""|""|72025179|124135024
+0|7|14|""|2|4|5|""|""|""|72024967|124134644
+0|1|1|""|75|162|250|""|""|""|72024967|124134645
+0|5|9|""|5|40|75|""|""|""|72024967|124134646
+0|5|9|""|5|40|75|""|""|""|72024965|124134638
+0|1|2|""|75|162|250|""|""|""|72024965|124134639
+0|6|11|""|2|4|5|""|""|""|72024965|124134640
+0|1|1|""|250|625|1000|""|""|""|72024968|124134647
+0|11|22|""|2|4|5|""|""|""|72024968|124134648
+6|15|23|""|5|40|75|""|""|""|72024968|124134649
+0|2|3|""|75|162|250|""|""|""|72024968|124134650
+0|1|1|""|75|162|250|""|""|""|72024966|124134641
+0|5|9|""|5|40|75|""|""|""|72024966|124134642
+0|6|11|""|2|4|5|""|""|""|72024966|124134643
+0|3|6|""|5|40|75|""|""|""|72024972|124134660
+0|5|9|""|2|4|5|""|""|""|72024972|124134661
+0|2|3|""|75|162|250|""|""|""|72024972|124134662
+0|1|1|""|250|625|1000|""|""|""|72024972|124134663
+0|6|11|""|2|4|5|""|""|""|72024970|124134654
+0|5|9|""|5|40|75|""|""|""|72024970|124134655
+0|2|3|""|75|162|250|""|""|""|72024970|124134656
+0|5|9|""|5|40|75|""|""|""|72024971|124134657
+0|7|14|""|2|4|5|""|""|""|72024971|124134658
+0|2|3|""|75|162|250|""|""|""|72024971|124134659
+0|6|11|""|2|4|5|""|""|""|72024969|124134651
+0|2|3|""|75|162|250|""|""|""|72024969|124134652
+0|5|9|""|5|40|75|""|""|""|72024969|124134653
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025124|124134916
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72025124|124134917
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025124|124134918
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025126|124134921
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72025126|124134922
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025126|124134923
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025125|124134919
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025125|124134920
+0|5|9|""|2|4|5|""|""|""|72024731|124134226
+0|2|3|""|5|40|75|""|""|""|72024731|124134227
+0|2|3|""|5|40|75|""|""|""|72024727|124134216
+0|5|9|""|2|4|5|""|""|""|72024727|124134217
+0|3|6|""|2|4|5|""|""|""|72024728|124134218
+0|2|3|""|5|40|75|""|""|""|72024728|124134219
+0|10|20|""|2|4|5|""|""|""|72024729|124134220
+0|3|6|""|5|40|75|""|""|""|72024729|124134221
+0|1|2|""|75|162|250|""|""|""|72024729|124134222
+0|2|3|""|5|40|75|""|""|""|72024730|124134223
+0|7|14|""|2|4|5|""|""|""|72024730|124134224
+0|1|2|""|75|162|250|""|""|""|72024730|124134225
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024904|124134536
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024904|124134537
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024905|124134538
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024905|124134539
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024902|124134530
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024902|124134531
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72024902|124134532
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024903|124134533
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024903|124134534
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72024903|124134535
+0|2|3|""|2|4|5|""|""|""|72024973|124134664
+0|1|1|""|75|162|250|""|""|""|72024973|124134665
+0|2|3|""|5|40|75|""|""|""|72024973|124134666
+0|2|3|""|5|40|75|""|""|""|72024974|124134667
+0|2|3|""|2|4|5|""|""|""|72024974|124134668
+0|1|1|""|75|162|250|""|""|""|72024974|124134669
+0|2|3|""|2|4|5|""|""|""|72024975|124134670
+0|2|3|""|5|40|75|""|""|""|72024975|124134671
+0|2|3|""|5|40|75|""|""|""|72024976|124134672
+0|2|3|""|2|4|5|""|""|""|72024976|124134673
+0|2|3|""|5|40|75|""|""|""|72024978|124134674
+0|1|1|""|75|162|250|""|""|""|72024978|124134675
+0|2|3|""|2|4|5|""|""|""|72024978|124134676
+0|2|3|""|2|4|5|""|""|""|72024979|124134677
+0|2|3|""|5|40|75|""|""|""|72024979|124134678
+0|1|1|""|75|162|250|""|""|""|72024979|124134679
+0|2|3|""|2|4|5|""|""|""|72024980|124134680
+0|2|3|""|5|40|75|""|""|""|72024980|124134681
+0|2|3|""|5|40|75|""|""|""|72024981|124134682
+0|2|3|""|2|4|5|""|""|""|72024981|124134683
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|72024964|124134636
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Indurated"|72024964|124134637
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|72024962|124134632
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Indurated"|72024962|124134633
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|72024963|124134634
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Indurated"|72024963|124134635
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|72024960|124134628
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Indurated"|72024960|124134629
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|72024961|124134630
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Indurated"|72024961|124134631
+0|1|1|""|2|4|5|""|""|""|72025182|124135031
+0|1|1|""|5|40|75|""|""|""|72025182|124135032
+0|1|1|""|2|4|5|""|""|""|72025183|124135033
+0|1|1|""|5|40|75|""|""|""|72025183|124135034
+0|1|1|""|5|40|75|""|""|""|72025184|124135035
+0|1|1|""|2|4|5|""|""|""|72025184|124135036
+0|1|1|""|5|40|75|""|""|""|72025185|124135037
+0|1|1|""|2|4|5|""|""|""|72025185|124135038
+0|1|2|""|2|4|5|""|""|""|72024984|124134687
+0|1|1|""|5|40|75|""|""|""|72024984|124134688
+0|1|2|""|5|40|75|""|""|""|72024983|124134684
+0|5|9|""|2|4|5|""|""|""|72024983|124134685
+0|1|2|""|75|162|250|""|""|""|72024983|124134686
+0|1|1|""|5|40|75|""|""|""|72024985|124134689
+0|1|2|""|2|4|5|""|""|""|72024985|124134690
+0|1|2|""|5|40|75|""|""|""|72024937|124134586
+0|1|2|""|75|162|250|""|""|""|72024937|124134587
+0|5|9|""|2|4|5|""|""|""|72024937|124134588
+0|1|1|""|5|40|75|""|""|""|72024938|124134589
+0|1|2|""|2|4|5|""|""|""|72024938|124134590
+0|1|2|""|2|4|5|""|""|""|72024939|124134591
+0|1|1|""|5|40|75|""|""|""|72024939|124134592
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024698|124134166
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024698|124134167
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024698|124134168
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024696|124134160
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72024696|124134161
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024696|124134162
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024699|124134169
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024699|124134170
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024699|124134171
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024695|124134157
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024695|124134158
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024695|124134159
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024697|124134163
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024697|124134164
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024697|124134165
+0|1|1|""|75|162|250|""|""|""|72025188|124135045
+0|3|6|""|2|4|5|""|""|""|72025188|124135046
+0|2|3|""|5|40|75|""|""|""|72025188|124135047
+0|3|6|""|2|4|5|""|""|""|72025186|124135039
+0|1|1|""|75|162|250|""|""|""|72025186|124135040
+0|2|3|""|5|40|75|""|""|""|72025186|124135041
+0|1|1|""|75|162|250|""|""|""|72025187|124135042
+0|3|6|""|2|4|5|""|""|""|72025187|124135043
+0|2|3|""|5|40|75|""|""|""|72025187|124135044
+4|15|26|""|5|40|75|""|""|""|72025189|124135048
+0|13|26|""|2|4|5|""|""|""|72025189|124135049
+0|2|3|""|75|162|250|""|""|""|72025189|124135050
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024516|124133869
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024516|124133870
+0|10|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024519|124133876
+0|3|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024519|124133877
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72024519|124133878
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024515|124133867
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024515|124133868
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024517|124133871
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024517|124133872
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72024518|124133873
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72024518|124133874
+0|7|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72024518|124133875
+0|2|3|""|2|4|5|""|""|""|72024747|124134253
+0|1|1|""|75|162|250|""|""|""|72024747|124134254
+0|2|3|""|5|40|75|""|""|""|72024747|124134255
+0|3|6|""|2|4|5|""|""|""|72024745|124134247
+0|1|1|""|75|162|250|""|""|""|72024745|124134248
+0|2|3|""|5|40|75|""|""|""|72024745|124134249
+0|1|1|""|75|162|250|""|""|""|72024746|124134250
+0|3|6|""|2|4|5|""|""|""|72024746|124134251
+0|2|3|""|5|40|75|""|""|""|72024746|124134252
+0|1|1|""|75|162|250|""|""|""|72024744|124134244
+0|2|3|""|5|40|75|""|""|""|72024744|124134245
+0|3|6|""|2|4|5|""|""|""|72024744|124134246
+0|2|3|""|5|40|75|""|""|""|72024742|124134238
+0|1|1|""|75|162|250|""|""|""|72024742|124134239
+0|4|7|""|2|4|5|""|""|""|72024742|124134240
+0|3|6|""|2|4|5|""|""|""|72024740|124134232
+0|2|3|""|5|40|75|""|""|""|72024740|124134233
+0|1|1|""|75|162|250|""|""|""|72024740|124134234
+0|1|1|""|75|162|250|""|""|""|72024741|124134235
+0|2|3|""|5|40|75|""|""|""|72024741|124134236
+0|3|6|""|2|4|5|""|""|""|72024741|124134237
+0|2|3|""|75|162|250|""|""|""|72024743|124134241
+0|8|16|""|2|4|5|""|""|""|72024743|124134242
+12|19|26|""|5|40|75|""|""|""|72024743|124134243
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024723|124134212
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024724|124134213
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024725|124134214
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024726|124134215
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72025019|124134745
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025019|124134746
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72025021|124134747
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72025021|124134748
+0|1|1|""|5|40|75|""|""|""|72024751|124134258
+0|1|2|""|2|4|5|""|""|""|72024751|124134259
+0|1|2|""|2|4|5|""|""|""|72024750|124134256
+0|1|1|""|5|40|75|""|""|""|72024750|124134257
+0|3|6|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024520|124133879
+0|3|6|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024520|124133880
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024521|124133881
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024521|124133882
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024522|124133883
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024522|124133884
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024523|124133885
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024523|124133886
+0|2|3|""|2|4|5|""|""|""|72025191|124135053
+0|2|3|""|5|40|75|""|""|""|72025191|124135054
+0|3|6|""|2|4|5|""|""|""|72025192|124135055
+0|3|6|""|5|40|75|""|""|""|72025192|124135056
+0|2|3|""|5|40|75|""|""|""|72025193|124135057
+0|2|3|""|2|4|5|""|""|""|72025193|124135058
+0|2|3|""|5|40|75|""|""|""|72025190|124135051
+0|2|3|""|2|4|5|""|""|""|72025190|124135052
+0|2|3|""|5|40|75|""|""|""|72024940|124134593
+0|3|6|""|2|4|5|""|""|""|72024940|124134594
+0|2|3|""|75|162|250|""|""|""|72024940|124134595
+0|2|3|""|2|4|5|""|""|""|72025195|124135059
+0|2|3|""|5|40|75|""|""|""|72025195|124135060
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025108|124134891
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025108|124134892
+0|10|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025111|124134898
+0|3|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025111|124134899
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72025111|124134900
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025109|124134893
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025109|124134894
+0|7|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025110|124134895
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025110|124134896
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72025110|124134897
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025107|124134889
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025107|124134890
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024495|124133845
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024495|124133846
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024497|124133847
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024500|124133850
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024498|124133848
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024499|124133849
+0|1|1|""|5|40|75|""|""|""|72024944|124134600
+0|1|2|""|2|4|5|""|""|""|72024944|124134601
+0|1|2|""|2|4|5|""|""|""|72024942|124134596
+0|1|1|""|5|40|75|""|""|""|72024942|124134597
+0|1|1|""|5|40|75|""|""|""|72024943|124134598
+0|1|2|""|2|4|5|""|""|""|72024943|124134599
+0|3|6|""|5|40|75|""|""|""|72024998|124134711
+0|7|14|""|2|4|5|""|""|""|72024998|124134712
+0|3|6|""|5|40|75|""|""|""|72024999|124134713
+0|5|10|""|2|4|5|""|""|""|72024999|124134714
+0|7|14|""|2|4|5|""|""|""|72024997|124134709
+0|3|6|""|5|40|75|""|""|""|72024997|124134710
+0|3|6|""|5|40|75|""|""|""|72025003|124134722
+0|7|14|""|2|4|5|""|""|""|72025003|124134723
+0|3|6|""|5|40|75|""|""|""|72025004|124134724
+0|7|14|""|2|4|5|""|""|""|72025004|124134725
+11|14|17|""|5|40|75|""|""|""|72025005|124134726
+0|4|8|""|2|4|5|""|""|""|72025005|124134727
+1|2|3|""|75|162|250|""|""|""|72025005|124134728
+0|7|14|""|2|4|5|""|""|""|72024958|124134624
+0|3|6|""|5|40|75|""|""|""|72024958|124134625
+0|3|6|""|5|40|75|""|""|""|72024959|124134626
+0|5|9|""|2|4|5|""|""|""|72024959|124134627
+0|7|14|""|2|4|5|""|""|""|72024957|124134622
+0|3|6|""|5|40|75|""|""|""|72024957|124134623
+0|3|6|""|5|40|75|""|""|""|72025204|124135068
+0|7|14|""|2|4|5|""|""|""|72025204|124135069
+0|7|14|""|2|4|5|""|""|""|72025205|124135070
+0|3|6|""|5|40|75|""|""|""|72025205|124135071
+0|3|6|""|5|40|75|""|""|""|72025206|124135072
+0|5|9|""|2|4|5|""|""|""|72025206|124135073
+11|14|17|""|5|40|75|""|""|""|72025002|124134719
+1|2|3|""|75|162|250|""|""|""|72025002|124134720
+0|4|8|""|2|4|5|""|""|""|72025002|124134721
+0|3|6|""|5|40|75|""|""|""|72025000|124134715
+0|7|14|""|2|4|5|""|""|""|72025000|124134716
+0|3|6|""|5|40|75|""|""|""|72025001|124134717
+0|7|14|""|2|4|5|""|""|""|72025001|124134718
+0|5|10|""|2|4|5|""|""|""|72024988|124134695
+0|3|6|""|5|40|75|""|""|""|72024988|124134696
+0|3|6|""|5|40|75|""|""|""|72024987|124134693
+0|7|14|""|2|4|5|""|""|""|72024987|124134694
+0|3|6|""|5|40|75|""|""|""|72024986|124134691
+0|7|14|""|2|4|5|""|""|""|72024986|124134692
+0|2|3|""|2|4|5|""|""|""|72024991|124134699
+0|1|1|""|5|40|75|""|""|""|72024991|124134700
+0|1|1|""|5|40|75|""|""|""|72024990|124134697
+0|2|3|""|2|4|5|""|""|""|72024990|124134698
+0|1|1|""|5|40|75|""|""|""|72024992|124134701
+0|2|3|""|2|4|5|""|""|""|72024992|124134702
+0|1|1|""|5|40|75|""|""|""|72024993|124134703
+0|2|3|""|2|4|5|""|""|""|72024993|124134704
+0|1|1|""|5|40|75|""|""|""|72024995|124134707
+0|2|3|""|2|4|5|""|""|""|72024995|124134708
+0|2|3|""|2|4|5|""|""|""|72024994|124134705
+0|1|1|""|5|40|75|""|""|""|72024994|124134706
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Moderately coherent"|72025104|124134882
+0|2|3|"Iron-manganese concretions"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025104|124134883
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Moderately coherent"|72025105|124134884
+0|2|3|"Iron-manganese concretions"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025105|124134885
+0|10|20|"Iron-manganese concretions"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025106|124134886
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Moderately coherent"|72025106|124134887
+0|1|2|"Glauconitic sandstone fragments"|75|162|250|"Nonflat"|"Subangular"|"Weakly coherent"|72025106|124134888
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024535|124133906
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024535|124133907
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024536|124133908
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024536|124133909
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024533|124133902
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024533|124133903
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024534|124133904
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024534|124133905
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024532|124133900
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024532|124133901
+0|1|2|""|5|40|75|""|""|""|72024946|124134604
+0|2|3|""|2|4|5|""|""|""|72024946|124134605
+0|3|6|""|2|4|5|""|""|""|72024947|124134606
+0|2|3|""|5|40|75|""|""|""|72024947|124134607
+0|1|2|""|5|40|75|""|""|""|72024945|124134602
+0|2|3|""|2|4|5|""|""|""|72024945|124134603
+0|5|9|""|2|4|5|""|""|""|72025198|124135061
+0|5|9|""|2|4|5|""|""|""|72025199|124135062
+0|5|9|""|2|4|5|""|""|""|72025200|124135063
+0|2|5|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025175|124135013
+0|2|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025175|124135014
+0|2|5|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025176|124135015
+0|2|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025176|124135016
+0|2|5|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025177|124135017
+0|2|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025177|124135018
+0|0|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025224|124135099
+0|0|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025224|124135100
+0|0|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025225|124135101
+0|0|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025225|124135102
+0|0|14|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025221|124135093
+0|0|14|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025221|124135094
+0|0|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025223|124135097
+0|0|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025223|124135098
+0|0|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025222|124135095
+0|0|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025222|124135096
+0|0|14|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025220|124135091
+0|0|14|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025220|124135092
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025128|124134926
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025128|124134927
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025127|124134924
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025127|124134925
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025130|124134932
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025130|124134933
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025129|124134928
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025129|124134929
+0|1|2|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72025129|124134930
+0|1|1|"Ironstone nodules"|250|425|600|"Nonflat"|"Subangular"|"Very strongly coherent"|72025129|124134931
+0|7|13|""|2|4|5|""|""|""|72024949|124134608
+0|2|3|""|5|40|75|""|""|""|72024949|124134609
+0|2|3|""|5|40|75|""|""|""|72024950|124134610
+0|2|3|""|2|4|5|""|""|""|72024950|124134611
+0|1|2|""|75|162|250|""|""|""|72024951|124134612
+0|5|9|""|2|4|5|""|""|""|72024951|124134613
+0|3|6|""|5|40|75|""|""|""|72024951|124134614
+0|1|1|""|250|625|1000|""|""|""|72024951|124134615
+0|2|3|""|2|4|5|""|""|""|72024952|124134616
+0|2|3|""|5|40|75|""|""|""|72024952|124134617
+0|1|2|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024330|124133598
+0|1|2|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024331|124133599
+0|1|2|""|2|4|5|""|""|""|72024637|124134067
+0|2|3|""|2|4|5|""|""|""|72024638|124134068
+0|7|14|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025097|124134865
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025097|124134866
+0|7|14|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025096|124134863
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025096|124134864
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025098|124134867
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025098|124134868
+11|14|17|""|5|40|75|""|""|""|72024753|124134262
+0|4|8|""|2|4|5|""|""|""|72024753|124134263
+1|2|3|""|75|162|250|""|""|""|72024753|124134264
+0|7|14|""|2|4|5|""|""|""|72024752|124134260
+0|3|6|""|5|40|75|""|""|""|72024752|124134261
+0|3|6|""|2|4|5|""|""|""|72025202|124135066
+0|3|6|""|5|40|75|""|""|""|72025202|124135067
+0|7|14|""|2|4|5|""|""|""|72025201|124135064
+0|3|6|""|5|40|75|""|""|""|72025201|124135065
+8|20|36|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024561|124133940
+0|10|28|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024561|124133941
+0|10|20|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024562|124133942
+8|18|28|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024562|124133943
+3|9|15|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024565|124133946
+0|8|15|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024565|124133947
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72024563|124133944
+3|6|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72024563|124133945
+0|7|14|""|2|4|5|""|""|""|72024755|124134265
+0|3|6|""|5|40|75|""|""|""|72024755|124134266
+0|3|6|""|5|40|75|""|""|""|72024756|124134267
+0|3|6|""|2|4|5|""|""|""|72024756|124134268
+0|10|20|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025207|124135074
+0|3|5|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025207|124135075
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025209|124135078
+0|5|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025208|124135076
+0|5|10|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Rounded"|"Strongly coherent"|72025208|124135077
+0|1|1|""|5|40|75|""|""|""|72024760|124134271
+0|1|1|""|2|4|5|""|""|""|72024760|124134272
+0|1|1|""|5|40|75|""|""|""|72024759|124134269
+0|1|1|""|2|4|5|""|""|""|72024759|124134270
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024350|124133625
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024351|124133626
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024352|124133627
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024352|124133628
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72024352|124133629
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024353|124133630
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024353|124133631
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72024353|124133632
+0|6|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024354|124133633
+0|5|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024354|124133634
+0|3|6|""|2|4|5|""|""|""|72024762|124134275
+0|2|3|""|5|40|75|""|""|""|72024763|124134276
+0|1|1|""|75|162|250|""|""|""|72024763|124134277
+0|3|6|""|2|4|5|""|""|""|72024763|124134278
+0|5|9|""|5|40|75|""|""|""|72024761|124134273
+0|6|11|""|2|4|5|""|""|""|72024761|124134274
+0|1|1|""|5|40|75|""|""|""|72024954|124134618
+0|2|3|""|2|4|5|""|""|""|72024954|124134619
+0|1|1|""|5|40|75|""|""|""|72024955|124134620
+0|2|3|""|2|4|5|""|""|""|72024955|124134621
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025112|124134901
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025114|124134903
+0|1|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72025115|124134904
+0|1|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025115|124134905
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72025113|124134902
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024768|124134283
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024768|124134284
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024769|124134285
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024766|124134279
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024766|124134280
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024767|124134281
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72024767|124134282
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72024770|124134286
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025148|124134967
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025146|124134964
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025146|124134965
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025145|124134962
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025145|124134963
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025147|124134966
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025151|124134972
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025151|124134973
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025155|124134980
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025155|124134981
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025153|124134976
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025153|124134977
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025152|124134974
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025152|124134975
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025150|124134970
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025150|124134971
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025149|124134968
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025149|124134969
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025154|124134978
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025154|124134979
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025052|124134806
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025052|124134807
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025050|124134802
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025050|124134803
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025053|124134808
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025051|124134804
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025051|124134805
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025049|124134800
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025049|124134801
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025054|124134809
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025059|124134810
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025059|124134811
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025062|124134816
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025062|124134817
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025060|124134812
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025060|124134813
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025061|124134814
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72025061|124134815
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025064|124134819
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72025063|124134818
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025070|124134830
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025070|124134831
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025065|124134820
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025065|124134821
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025066|124134822
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025066|124134823
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025068|124134826
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025068|124134827
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025069|124134828
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025069|124134829
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025067|124134824
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025067|124134825
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025071|124134832
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72025071|124134833
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024720|124134206
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024720|124134207
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024721|124134208
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024721|124134209
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024722|124134210
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72024722|124134211
+0|2|3|""|2|4|5|""|""|""|72051538|124167805
+0|2|3|""|2|4|5|""|""|""|72051537|124167804
+0|1|1|""|5|40|75|""|""|""|72051539|124167806
+0|1|1|""|2|4|5|""|""|""|72051539|124167807
+0|2|3|""|2|4|5|""|""|""|72051540|124167808
+0|1|1|""|5|40|75|""|""|""|72052015|124168533
+0|1|1|""|2|4|5|""|""|""|72052015|124168534
+0|2|3|""|2|4|5|""|""|""|72052016|124168535
+0|2|3|""|2|4|5|""|""|""|72052013|124168531
+0|2|3|""|2|4|5|""|""|""|72052014|124168532
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051556|124167844
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051555|124167843
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051557|124167845
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72051892|124168334
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051892|124168335
+0|3|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72051893|124168336
+0|4|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051893|124168337
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72051894|124168338
+5|7|10|"Plinthite nodules"|2|4|5|"Nonflat"|"Subrounded"|"Moderately coherent"|72051894|124168339
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051894|124168340
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72051895|124168341
+5|7|9|"Plinthite nodules"|2|4|5|"Nonflat"|"Subangular"|"Moderately coherent"|72051895|124168342
+0|1|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051895|124168343
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72051891|124168332
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051891|124168333
+0|2|3|"Ironstone nodules"|5|40|75|""|"Subangular"|"Strongly coherent"|72051896|124168344
+0|3|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72051896|124168345
+0|5|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051884|124168318
+0|7|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051884|124168319
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72051884|124168320
+0|6|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051886|124168324
+0|5|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051886|124168325
+0|1|2|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72051886|124168326
+0|7|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051883|124168315
+0|5|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051883|124168316
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72051883|124168317
+0|7|7|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051885|124168321
+0|5|6|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051885|124168322
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Very strongly coherent"|72051885|124168323
+0|1|2|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Strongly coherent"|72051719|124168092
+0|6|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051719|124168093
+0|5|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051719|124168094
+0|5|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051717|124168086
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051717|124168087
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Strongly coherent"|72051717|124168088
+0|7|14|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051718|124168089
+0|5|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051718|124168090
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subrounded"|"Strongly coherent"|72051718|124168091
+0|5|9|""|5|40|75|""|""|""|72051675|124168025
+0|6|11|""|2|4|5|""|""|""|72051675|124168026
+0|2|3|""|75|162|250|""|""|""|72051675|124168027
+0|2|3|""|75|162|250|""|""|""|72051674|124168022
+0|5|9|""|5|40|75|""|""|""|72051674|124168023
+0|7|14|""|2|4|5|""|""|""|72051674|124168024
+0|2|3|""|75|162|250|""|""|""|72051676|124168028
+0|1|1|""|250|625|1000|""|""|""|72051676|124168029
+0|5|9|""|2|4|5|""|""|""|72051676|124168030
+0|3|6|""|5|40|75|""|""|""|72051676|124168031
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051490|124167740
+0|6|8|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051490|124167741
+0|5|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051490|124167742
+10|13|21|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051487|124167729
+0|2|2|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051487|124167730
+0|1|1|"Ironstone nodules"|250|500|600|"Nonflat"|"Angular"|"Indurated"|72051487|124167731
+5|9|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051487|124167732
+10|13|21|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051488|124167733
+0|2|2|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051488|124167734
+0|1|1|"Ironstone nodules"|250|500|600|"Nonflat"|"Angular"|"Indurated"|72051488|124167735
+5|9|10|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051488|124167736
+0|7|8|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051489|124167737
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051489|124167738
+0|5|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051489|124167739
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051492|124167746
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051492|124167747
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051492|124167748
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Angular"|"Indurated"|72051491|124167743
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Indurated"|72051491|124167744
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Indurated"|72051491|124167745
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052067|124168635
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72052067|124168636
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052067|124168637
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052069|124168640
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72052069|124168641
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052069|124168642
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052068|124168638
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052068|124168639
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052151|124168803
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052151|124168804
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72052151|124168805
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052150|124168800
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052150|124168801
+0|0|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Subangular"|"Strongly coherent"|72052150|124168802
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Strongly coherent"|72052149|124168798
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Strongly coherent"|72052149|124168799
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051978|124168491
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051976|124168489
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051977|124168490
+0|1|2|""|2|4|5|""|""|""|72051681|124168032
+0|1|2|""|2|4|5|""|""|""|72051682|124168033
+0|2|3|""|2|4|5|""|""|""|72051683|124168034
+0|2|3|""|5|40|75|""|""|""|72051683|124168035
+0|2|3|""|2|4|5|""|""|""|72051685|124168038
+0|2|3|""|5|40|75|""|""|""|72051685|124168039
+0|2|3|""|5|40|75|""|""|""|72051684|124168036
+0|2|3|""|2|4|5|""|""|""|72051684|124168037
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72052100|124168708
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72052100|124168709
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72052101|124168710
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72052101|124168711
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72052102|124168712
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72052102|124168713
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051855|124168276
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051855|124168277
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051853|124168272
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051853|124168273
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051854|124168274
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051854|124168275
+0|2|3|""|5|40|75|""|""|""|72052017|124168536
+0|2|3|""|2|4|5|""|""|""|72052017|124168537
+0|2|3|""|5|40|75|""|""|""|72052019|124168540
+0|2|3|""|2|4|5|""|""|""|72052019|124168541
+0|2|3|""|2|4|5|""|""|""|72052018|124168538
+0|2|3|""|5|40|75|""|""|""|72052018|124168539
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Very strongly coherent"|72051970|124168477
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Rounded"|"Very strongly coherent"|72051970|124168478
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Very strongly coherent"|72051974|124168486
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Very strongly coherent"|72051974|124168487
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Very strongly coherent"|72051974|124168488
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Very strongly coherent"|72051972|124168481
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Rounded"|"Very strongly coherent"|72051972|124168482
+0|5|7|"Ironstone nodules"|2|4|5|"Flat"|"Angular"|"Very strongly coherent"|72051971|124168479
+0|5|7|"Ironstone nodules"|5|40|75|"Flat"|"Angular"|"Very strongly coherent"|72051971|124168480
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Rounded"|"Very strongly coherent"|72051973|124168483
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Angular"|"Very strongly coherent"|72051973|124168484
+0|1|1|"Ironstone nodules"|75|162|250|"Nonflat"|"Angular"|"Very strongly coherent"|72051973|124168485
+0|3|6|""|2|4|5|""|""|""|72051547|124167818
+0|1|1|""|75|162|250|""|""|""|72051547|124167819
+0|2|3|""|5|40|75|""|""|""|72051547|124167820
+0|3|6|""|2|4|5|""|""|""|72051545|124167812
+0|2|3|""|5|40|75|""|""|""|72051545|124167813
+0|1|1|""|75|162|250|""|""|""|72051545|124167814
+0|2|3|""|5|40|75|""|""|""|72051546|124167815
+0|3|6|""|2|4|5|""|""|""|72051546|124167816
+0|1|1|""|75|162|250|""|""|""|72051546|124167817
+0|2|3|""|5|40|75|""|""|""|72051544|124167809
+0|2|3|""|2|4|5|""|""|""|72051544|124167810
+0|1|1|""|75|162|250|""|""|""|72051544|124167811
+0|13|26|""|2|4|5|""|""|""|72052020|124168542
+4|15|26|""|5|40|75|""|""|""|72052020|124168543
+0|2|3|""|75|162|250|""|""|""|72052020|124168544
+0|2|3|""|5|40|75|""|""|""|72052021|124168545
+0|3|6|""|2|4|5|""|""|""|72052021|124168546
+0|1|1|""|75|162|250|""|""|""|72052021|124168547
+0|3|6|""|2|4|5|""|""|""|72052022|124168548
+0|1|1|""|75|162|250|""|""|""|72052022|124168549
+0|2|3|""|5|40|75|""|""|""|72052022|124168550
+0|1|1|""|75|162|250|""|""|""|72052023|124168551
+0|3|6|""|2|4|5|""|""|""|72052023|124168552
+0|2|3|""|5|40|75|""|""|""|72052023|124168553
+0|3|6|""|2|4|5|""|""|""|72051548|124167821
+0|1|1|""|75|162|250|""|""|""|72051548|124167822
+0|2|3|""|5|40|75|""|""|""|72051548|124167823
+0|1|1|""|75|162|250|""|""|""|72051549|124167824
+0|4|7|""|2|4|5|""|""|""|72051549|124167825
+0|2|3|""|5|40|75|""|""|""|72051549|124167826
+0|3|6|""|2|4|5|""|""|""|72051550|124167827
+0|1|1|""|75|162|250|""|""|""|72051550|124167828
+0|2|3|""|5|40|75|""|""|""|72051550|124167829
+0|2|3|""|2|4|5|""|""|""|72051585|124167879
+0|2|3|""|2|4|5|""|""|""|72051586|124167880
+0|2|3|""|2|4|5|""|""|""|72051587|124167881
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052004|124168516
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052006|124168518
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052003|124168515
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052005|124168517
+0|1|1|""|5|40|75|""|""|""|72052024|124168554
+0|1|2|""|2|4|5|""|""|""|72052024|124168555
+0|2|3|""|2|4|5|""|""|""|72052026|124168558
+0|1|1|""|5|40|75|""|""|""|72052026|124168559
+0|2|3|""|2|4|5|""|""|""|72052025|124168556
+0|1|1|""|5|40|75|""|""|""|72052025|124168557
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052035|124168566
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052034|124168564
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052034|124168565
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052033|124168562
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052033|124168563
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052032|124168560
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052032|124168561
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052036|124168567
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052040|124168574
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052040|124168575
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052038|124168570
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052038|124168571
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052042|124168577
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052041|124168576
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052039|124168572
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052039|124168573
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052037|124168568
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052037|124168569
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051558|124167846
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051558|124167847
+0|3|6|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051560|124167850
+0|3|6|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051560|124167851
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051559|124167848
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051559|124167849
+0|2|3|"Iron-manganese nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051561|124167852
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051561|124167853
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052282|124169019
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052282|124169020
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052280|124169015
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052280|124169016
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052281|124169017
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052281|124169018
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052283|124169021
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052283|124169022
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052287|124169025
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052286|124169023
+0|0|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052286|124169024
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052288|124169026
+0|2|3|""|2|4|5|""|""|""|72051822|124168220
+0|2|3|""|2|4|5|""|""|""|72051823|124168221
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051637|124167953
+0|0|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051637|124167954
+0|0|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051637|124167955
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051636|124167950
+0|0|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051636|124167951
+0|0|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051636|124167952
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051641|124167956
+0|4|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051641|124167957
+0|1|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051641|124167958
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051761|124168151
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051762|124168152
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051764|124168154
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051763|124168153
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051768|124168155
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051768|124168156
+0|1|1|""|5|40|75|""|""|""|72051840|124168243
+0|2|3|""|2|4|5|""|""|""|72051840|124168244
+0|1|1|""|5|40|75|""|""|""|72051841|124168245
+0|2|3|""|2|4|5|""|""|""|72051841|124168246
+0|2|3|""|2|4|5|""|""|""|72051842|124168247
+0|1|1|""|5|40|75|""|""|""|72051842|124168248
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051530|124167797
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051531|124167798
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051532|124167799
+0|2|3|""|75|162|250|""|""|""|72051843|124168249
+0|2|3|""|2|4|5|""|""|""|72051843|124168250
+0|1|1|""|5|40|75|""|""|""|72051843|124168251
+0|2|3|""|2|4|5|""|""|""|72051844|124168252
+0|1|1|""|5|40|75|""|""|""|72051844|124168253
+0|1|1|""|75|162|250|""|""|""|72051844|124168254
+0|2|3|""|2|4|5|""|""|""|72051845|124168255
+0|2|3|""|75|162|250|""|""|""|72051845|124168256
+0|1|1|""|5|40|75|""|""|""|72051845|124168257
+0|2|3|""|2|4|5|""|""|""|72052043|124168578
+0|2|3|""|75|162|250|""|""|""|72052043|124168579
+0|1|1|""|5|40|75|""|""|""|72052043|124168580
+0|2|3|""|75|162|250|""|""|""|72052045|124168584
+0|2|3|""|2|4|5|""|""|""|72052045|124168585
+0|1|1|""|5|40|75|""|""|""|72052045|124168586
+0|1|1|""|75|162|250|""|""|""|72052044|124168581
+0|2|3|""|2|4|5|""|""|""|72052044|124168582
+0|1|1|""|5|40|75|""|""|""|72052044|124168583
+0|2|3|""|2|4|5|""|""|""|72051435|124167664
+0|2|3|""|5|40|75|""|""|""|72051435|124167665
+0|2|3|""|2|4|5|""|""|""|72051436|124167666
+0|2|3|""|5|40|75|""|""|""|72051436|124167667
+0|5|9|""|2|4|5|""|""|""|72051437|124167668
+0|3|6|""|5|40|75|""|""|""|72051437|124167669
+0|1|2|""|75|162|250|""|""|""|72051437|124167670
+0|1|1|""|250|625|1000|""|""|""|72051437|124167671
+0|7|13|""|2|4|5|""|""|""|72051434|124167662
+0|2|3|""|5|40|75|""|""|""|72051434|124167663
+0|7|14|""|2|4|5|""|""|""|72051439|124167676
+0|3|6|""|5|40|75|""|""|""|72051439|124167677
+0|2|4|""|75|162|250|""|""|""|72051439|124167678
+0|6|12|""|2|4|5|""|""|""|72051440|124167679
+0|6|12|""|5|40|75|""|""|""|72051440|124167680
+0|1|1|""|75|162|250|""|""|""|72051440|124167681
+0|9|17|""|2|4|5|""|""|""|72051438|124167672
+3|7|11|""|5|40|75|""|""|""|72051438|124167673
+0|2|3|""|75|162|250|""|""|""|72051438|124167674
+0|1|1|""|250|625|1000|""|""|""|72051438|124167675
+0|2|4|""|75|162|250|""|""|""|72052047|124168591
+0|3|6|""|5|40|75|""|""|""|72052047|124168592
+0|7|14|""|2|4|5|""|""|""|72052047|124168593
+0|9|17|""|2|4|5|""|""|""|72052049|124168597
+0|1|1|""|75|162|250|""|""|""|72052049|124168598
+0|9|17|""|5|40|75|""|""|""|72052049|124168599
+0|2|3|""|5|40|75|""|""|""|72052048|124168594
+0|2|4|""|75|162|250|""|""|""|72052048|124168595
+0|3|6|""|2|4|5|""|""|""|72052048|124168596
+0|1|1|""|250|625|1000|""|""|""|72052046|124168587
+0|9|17|""|2|4|5|""|""|""|72052046|124168588
+3|7|11|""|5|40|75|""|""|""|72052046|124168589
+0|2|3|""|75|162|250|""|""|""|72052046|124168590
+0|9|17|""|5|40|75|""|""|""|72051554|124167840
+0|9|17|""|2|4|5|""|""|""|72051554|124167841
+0|1|1|""|75|162|250|""|""|""|72051554|124167842
+0|3|6|""|2|4|5|""|""|""|72051553|124167837
+0|2|3|""|5|40|75|""|""|""|72051553|124167838
+0|2|4|""|75|162|250|""|""|""|72051553|124167839
+0|7|14|""|2|4|5|""|""|""|72051552|124167834
+0|3|6|""|5|40|75|""|""|""|72051552|124167835
+0|2|4|""|75|162|250|""|""|""|72051552|124167836
+0|2|3|""|75|162|250|""|""|""|72051551|124167830
+0|9|17|""|2|4|5|""|""|""|72051551|124167831
+0|1|1|""|250|625|1000|""|""|""|72051551|124167832
+3|7|11|""|5|40|75|""|""|""|72051551|124167833
+0|2|3|""|5|40|75|""|""|""|72052091|124168690
+0|5|9|""|2|4|5|""|""|""|72052091|124168691
+0|1|1|""|250|625|1000|""|""|""|72052091|124168692
+0|1|2|""|75|162|250|""|""|""|72052091|124168693
+0|2|4|""|75|162|250|""|""|""|72052090|124168687
+0|9|17|""|2|4|5|""|""|""|72052090|124168688
+0|9|17|""|5|40|75|""|""|""|72052090|124168689
+0|3|6|""|2|4|5|""|""|""|72052089|124168684
+0|2|4|""|75|162|250|""|""|""|72052089|124168685
+0|2|3|""|5|40|75|""|""|""|72052089|124168686
+0|7|14|""|2|4|5|""|""|""|72052088|124168681
+0|2|4|""|75|162|250|""|""|""|72052088|124168682
+0|3|6|""|5|40|75|""|""|""|72052088|124168683
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051770|124168157
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051770|124168158
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051771|124168159
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051771|124168160
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051772|124168161
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051772|124168162
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051774|124168165
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051774|124168166
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Strongly coherent"|72051773|124168163
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Strongly coherent"|72051773|124168164
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051526|124167789
+0|3|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051526|124167790
+0|6|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051528|124167793
+0|3|5|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051528|124167794
+0|6|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051527|124167791
+0|3|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051527|124167792
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051524|124167785
+0|4|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051524|124167786
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051525|124167787
+0|3|5|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051525|124167788
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051529|124167795
+0|5|9|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051529|124167796
+0|2|3|""|2|4|5|""|""|""|72051692|124168050
+0|1|2|""|5|40|75|""|""|""|72051692|124168051
+0|1|2|""|5|40|75|""|""|""|72051694|124168054
+0|2|3|""|2|4|5|""|""|""|72051694|124168055
+0|1|2|""|5|40|75|""|""|""|72051691|124168048
+0|2|3|""|2|4|5|""|""|""|72051691|124168049
+0|1|2|""|5|40|75|""|""|""|72051693|124168052
+0|2|3|""|2|4|5|""|""|""|72051693|124168053
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051699|124168056
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051699|124168057
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051704|124168058
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051704|124168059
+0|2|3|""|5|40|75|""|""|""|72051706|124168062
+0|2|3|""|2|4|5|""|""|""|72051706|124168063
+0|2|3|""|2|4|5|""|""|""|72051708|124168066
+0|2|3|""|5|40|75|""|""|""|72051708|124168067
+0|2|3|""|2|4|5|""|""|""|72051705|124168060
+0|2|3|""|5|40|75|""|""|""|72051705|124168061
+0|2|3|""|5|40|75|""|""|""|72051707|124168064
+0|2|3|""|2|4|5|""|""|""|72051707|124168065
+0|1|2|""|5|40|75|""|""|""|72051709|124168068
+0|2|3|""|2|4|5|""|""|""|72051709|124168069
+0|2|3|""|2|4|5|""|""|""|72051710|124168070
+0|1|2|""|5|40|75|""|""|""|72051710|124168071
+0|1|2|""|5|40|75|""|""|""|72051712|124168074
+0|2|3|""|2|4|5|""|""|""|72051712|124168075
+0|2|3|""|2|4|5|""|""|""|72051711|124168072
+0|1|2|""|5|40|75|""|""|""|72051711|124168073
+0|2|3|""|2|4|5|""|""|""|72051714|124168078
+0|2|3|""|5|40|75|""|""|""|72051714|124168079
+0|5|9|""|2|4|5|""|""|""|72051715|124168080
+0|1|2|""|75|162|250|""|""|""|72051715|124168081
+0|1|1|""|250|625|1000|""|""|""|72051715|124168082
+0|3|6|""|5|40|75|""|""|""|72051715|124168083
+0|2|3|""|5|40|75|""|""|""|72051716|124168084
+0|2|3|""|2|4|5|""|""|""|72051716|124168085
+0|2|3|""|5|40|75|""|""|""|72051713|124168076
+0|7|13|""|2|4|5|""|""|""|72051713|124168077
+0|1|2|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051466|124167697
+0|1|2|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051467|124167698
+0|2|3|""|2|4|5|""|""|""|72052092|124168694
+0|1|2|""|2|4|5|""|""|""|72052093|124168695
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052095|124168698
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052095|124168699
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052094|124168696
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052094|124168697
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052096|124168700
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052096|124168701
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052097|124168702
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052097|124168703
+0|2|3|""|2|4|5|""|""|""|72051720|124168095
+0|1|2|""|2|4|5|""|""|""|72051721|124168096
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051723|124168099
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051723|124168100
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051724|124168101
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051724|124168102
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051722|124168097
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051722|124168098
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051725|124168103
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051725|124168104
+0|3|6|""|75|162|250|""|""|""|72052053|124168604
+0|2|3|""|5|40|75|""|""|""|72052053|124168605
+0|5|9|""|2|4|5|""|""|""|72052053|124168606
+0|2|3|""|250|625|1000|""|""|""|72052053|124168607
+0|1|1|""|5|40|75|""|""|""|72052054|124168608
+0|3|6|""|75|162|250|""|""|""|72052054|124168609
+0|5|9|""|2|4|5|""|""|""|72052054|124168610
+0|5|9|""|2|4|5|""|""|""|72052052|124168600
+0|2|3|""|250|625|1000|""|""|""|72052052|124168601
+0|3|6|""|75|162|250|""|""|""|72052052|124168602
+0|2|3|""|5|40|75|""|""|""|72052052|124168603
+0|3|6|""|75|162|250|""|""|""|72052055|124168611
+0|1|1|""|5|40|75|""|""|""|72052055|124168612
+0|5|9|""|2|4|5|""|""|""|72052055|124168613
+0|1|1|""|5|40|75|""|""|""|72052099|124168706
+0|1|1|""|2|4|5|""|""|""|72052099|124168707
+0|1|1|""|2|4|5|""|""|""|72052098|124168704
+0|1|1|""|5|40|75|""|""|""|72052098|124168705
+0|5|9|""|5|40|75|""|""|""|72052056|124168614
+0|6|11|""|2|4|5|""|""|""|72052056|124168615
+0|2|3|""|5|40|75|""|""|""|72052059|124168618
+0|3|6|""|2|4|5|""|""|""|72052059|124168619
+0|1|1|""|75|162|250|""|""|""|72052059|124168620
+0|3|6|""|2|4|5|""|""|""|72052058|124168617
+0|6|11|""|2|4|5|""|""|""|72052057|124168616
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052063|124168627
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052063|124168628
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052064|124168629
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052064|124168630
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052066|124168633
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052066|124168634
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052061|124168623
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052061|124168624
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052062|124168625
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052062|124168626
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052060|124168621
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052060|124168622
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052065|124168631
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052065|124168632
+0|2|3|""|2|4|5|""|""|""|72051877|124168304
+0|2|3|""|2|4|5|""|""|""|72051876|124168303
+0|1|1|""|2|4|5|""|""|""|72051878|124168305
+0|1|1|""|5|40|75|""|""|""|72051878|124168306
+0|2|3|""|5|40|75|""|""|""|72051875|124168301
+0|2|3|""|2|4|5|""|""|""|72051875|124168302
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051881|124168311
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051881|124168312
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051880|124168309
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051880|124168310
+0|7|13|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051879|124168307
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051879|124168308
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051882|124168313
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051882|124168314
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051832|124168234
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051832|124168235
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051827|124168224
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051827|124168225
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051829|124168228
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051829|124168229
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051830|124168230
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051830|124168231
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051826|124168222
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051826|124168223
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051831|124168232
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051831|124168233
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051828|124168226
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051828|124168227
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051834|124168238
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051836|124168240
+0|0|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051833|124168236
+0|0|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051833|124168237
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051835|124168239
+0|5|9|""|2|4|5|""|""|""|72051839|124168241
+0|1|1|""|5|40|75|""|""|""|72051839|124168242
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052215|124168902
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052216|124168903
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052213|124168898
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052213|124168899
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052214|124168900
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052214|124168901
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052223|124168916
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052223|124168917
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052219|124168908
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052219|124168909
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052222|124168914
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052222|124168915
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052221|124168912
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052221|124168913
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052220|124168910
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052220|124168911
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052217|124168904
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052217|124168905
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052218|124168906
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052218|124168907
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051688|124168044
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051688|124168045
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051690|124168047
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051686|124168040
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051686|124168041
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051687|124168042
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72051687|124168043
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72051689|124168046
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051850|124168266
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051850|124168267
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051848|124168262
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051848|124168263
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051852|124168270
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051852|124168271
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051851|124168268
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051851|124168269
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051849|124168264
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051849|124168265
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051847|124168260
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051847|124168261
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051846|124168258
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051846|124168259
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052227|124168924
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052227|124168925
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052224|124168918
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052224|124168919
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052225|124168920
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052225|124168921
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052228|124168926
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052228|124168927
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052226|124168922
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052226|124168923
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052233|124168928
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052233|124168929
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052234|124168930
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052234|124168931
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052235|124168932
+0|2|3|"Iron-manganese nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052235|124168933
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052237|124168936
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052237|124168937
+0|1|2|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052238|124168938
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052238|124168939
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052236|124168934
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052236|124168935
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052165|124168832
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052165|124168833
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052163|124168828
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052163|124168829
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052167|124168835
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052166|124168834
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052164|124168830
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052164|124168831
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052162|124168826
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052162|124168827
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052171|124168842
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052170|124168840
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052170|124168841
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052169|124168838
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052169|124168839
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052172|124168843
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052168|124168836
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052168|124168837
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052177|124168844
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052177|124168845
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052181|124168852
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052181|124168853
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052179|124168848
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052179|124168849
+0|1|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052178|124168846
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052178|124168847
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052183|124168856
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052183|124168857
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052180|124168850
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052180|124168851
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052184|124168858
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052184|124168859
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052182|124168854
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052182|124168855
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052199|124168884
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052199|124168885
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052197|124168880
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052197|124168881
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052201|124168887
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052196|124168878
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052196|124168879
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052198|124168882
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052198|124168883
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052200|124168886
+0|0|11|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052205|124168894
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052204|124168892
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052204|124168893
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052202|124168888
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052202|124168889
+0|0|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052206|124168895
+0|1|1|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052203|124168890
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052203|124168891
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052212|124168896
+0|1|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052212|124168897
+0|2|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052144|124168790
+0|4|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052144|124168791
+0|1|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052144|124168792
+0|0|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052140|124168787
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052140|124168788
+0|0|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052140|124168789
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052139|124168784
+0|0|5|"Ironstone nodules"|5|10|20|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052139|124168785
+0|0|2|"Ironstone nodules"|20|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72052139|124168786
+0|0|2|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052145|124168793
+0|0|1|"Ironstone nodules"|5|40|75|"Nonflat"|"Subangular"|"Very strongly coherent"|72052145|124168794
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052147|124168796
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052148|124168797
+0|0|3|"Ironstone nodules"|2|4|5|"Nonflat"|"Subangular"|"Very strongly coherent"|72052146|124168795
+0|3|6|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051657|124167985
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051657|124167986
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051658|124167987
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051658|124167988
+0|5|9|"Ironstone nodules"|2|4|5|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051659|124167989
+0|2|3|"Ironstone nodules"|5|40|75|"Nonflat"|"Subrounded"|"Very strongly coherent"|72051659|124167990

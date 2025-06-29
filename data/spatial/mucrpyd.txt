@@ -1,0 +1,346 @@
+"cropname"|"yldunits"|"nonirryield_l"|"nonirryield_r"|"nonirryield_h"|"irryield_l"|"irryield_r"|"irryield_h"|"mukey"|"mucrpyldkey"
+"Bahiagrass"|"AUM"||8|||||575618|16489234
+"Common bermudagrass"|"AUM"||7|||||575618|16489233
+"Improved bermudagrass"|"AUM"||10|||||575618|16489230
+"Small grains grazeout"|"AUM"||6|||||575618|16489228
+"Grain sorghum"|"Bu"||70|||||575618|16489229
+"Peanuts"|"Lbs"||2500|||||575618|16489232
+"Watermelons"|"Tons"||11|||||575618|16489231
+"Bahiagrass"|"AUM"||9|||||575623|16489239
+"Common bermudagrass"|"AUM"||8|||||575623|16489242
+"Improved bermudagrass"|"AUM"||9|||||575623|16489240
+"Small grains grazeout"|"AUM"||6|||||575623|16489241
+"Corn"|"Bu"||90|||||575623|16489238
+"Bahiagrass"|"AUM"||2|||||575624|16489304
+"Common bermudagrass"|"AUM"||2|||||575624|16489305
+"Improved bermudagrass"|"AUM"||3|||||575624|16489306
+"Weeping lovegrass"|"AUM"||2|||||575624|16489307
+"Bahiagrass"|"AUM"||2|||||575625|16489169
+"Common bermudagrass"|"AUM"||1|||||575625|16489170
+"Improved bermudagrass"|"AUM"||2|||||575625|16489171
+"Weeping lovegrass"|"AUM"||2|||||575625|16489172
+"Bahiagrass"|"AUM"||8.5|||||575628|16489010
+"Common bermudagrass"|"AUM"||7.5|||||575628|16489011
+"Improved bermudagrass"|"AUM"||8|||||575628|16489014
+"Oats"|"Bu"||60|||||575628|16489015
+"Corn"|"Bu"||70|||||575628|16489012
+"Cotton lint"|"Lbs"||500|||||575628|16489013
+"Improved bermudagrass"|"AUM"||3|||||575630|16489174
+"Small grains grazeout"|"AUM"||3|||||575630|16489177
+"Weeping lovegrass"|"AUM"||2|||||575630|16489179
+"Corn"|"Bu"||55|||||575630|16489173
+"Peanuts"|"Lbs"||1000|||||575630|16489175
+"Dry peas"|"Lbs"||900|||||575630|16489176
+"Watermelons"|"Tons"||11|||||575630|16489178
+"Improved bermudagrass"|"AUM"||2|||||575631|16489180
+"Weeping lovegrass"|"AUM"||2|||||575631|16489181
+"Bahiagrass"|"AUM"||5|||||575632|16489167
+"Improved bermudagrass"|"AUM"||50|||||575632|16489165
+"Small grains grazeout"|"AUM"||5|||||575632|16489166
+"Corn"|"Bu"||50|||||575632|16489168
+"Bahiagrass"|"AUM"||5|||||575633|16489308
+"Improved bermudagrass"|"AUM"||6|||||575633|16489309
+"Improved bermudagrass"|"AUM"||6|||||575634|16489183
+"Tall fescue"|"AUM"||9|||||575634|16489184
+"Fescue"|"AUM"||6|||||575634|16489182
+"Improved bermudagrass"|"AUM"||6|||||575635|16489137
+"Tall fescue"|"AUM"||9|||||575635|16489138
+"Fescue"|"AUM"||6|||||575635|16489136
+"Bahiagrass"|"AUM"||4|||||575637|16488987
+"Common bermudagrass"|"AUM"||3|||||575637|16488988
+"Improved bermudagrass"|"AUM"||5|||||575637|16488990
+"Small grains grazeout"|"AUM"||4|||||575637|16488992
+"Green peas"|"Bu"||55|||||575637|16488991
+"Soybeans"|"Bu"||25|||||575637|16488993
+"Corn"|"Bu"||75|||||575637|16488989
+"Bahiagrass"|"AUM"||3|||||575638|16489310
+"Common bermudagrass"|"AUM"||2|||||575638|16489311
+"Improved bermudagrass"|"AUM"||4|||||575638|16489313
+"Small grains grazeout"|"AUM"||3|||||575638|16489314
+"Corn"|"Bu"||50|||||575638|16489312
+"Bahiagrass"|"AUM"||4|||||575640|16489020
+"Common bermudagrass"|"AUM"||3|||||575640|16489021
+"Improved bermudagrass"|"AUM"||5|||||575640|16489023
+"Small grains grazeout"|"AUM"||4|||||575640|16489025
+"Green peas"|"Bu"||55|||||575640|16489024
+"Soybeans"|"Bu"||25|||||575640|16489026
+"Corn"|"Bu"||75|||||575640|16489022
+"Bahiagrass"|"AUM"||5|||||575641|16489016
+"Common bermudagrass"|"AUM"||5|||||575641|16489017
+"Improved bermudagrass"|"AUM"||6|||||575641|16489018
+"Weeping lovegrass"|"AUM"||4|||||575641|16489019
+"Bahiagrass"|"AUM"||5|||||575644|16489027
+"Improved bermudagrass"|"AUM"||50|||||575644|16489029
+"Small grains grazeout"|"AUM"||5|||||575644|16489030
+"Corn"|"Bu"||50|||||575644|16489028
+"Bahiagrass"|"AUM"||3|||||575646|16489315
+"Improved bermudagrass"|"AUM"||4|||||575646|16489317
+"Small grains grazeout"|"AUM"||3|||||575646|16489319
+"Weeping lovegrass"|"AUM"||4|||||575646|16489321
+"Corn"|"Bu"||80|||||575646|16489316
+"Peanuts"|"Lbs"||1500|||||575646|16489318
+"Watermelons"|"Tons"||10|||||575646|16489320
+"Bahiagrass"|"AUM"||8|||||575647|16489139
+"Tall fescue"|"AUM"||8|||||575647|16489140
+"Warm season grasses"|"AUM"||6|||||575647|16489141
+"Bahiagrass"|"AUM"||9|||||575648|16488816
+"Improved bermudagrass"|"AUM"||10.5|||||575648|16488817
+"Tall fescue"|"AUM"||10.5|||||575648|16488819
+"Soybeans"|"Bu"||30|||||575648|16488818
+"Bahiagrass"|"AUM"||4|||||575649|16489322
+"Common bermudagrass"|"AUM"||4|||||575649|16489323
+"Bahiagrass"|"AUM"||8.5|||||575650|16489245
+"Common bermudagrass"|"AUM"||7.5|||||575650|16489246
+"Improved bermudagrass"|"AUM"||8|||||575650|16489249
+"Oats"|"Bu"||60|||||575650|16489250
+"Corn"|"Bu"||70|||||575650|16489247
+"Cotton lint"|"Lbs"||500|||||575650|16489248
+"Bahiagrass"|"AUM"||3|||||575652|16489142
+"Common bermudagrass"|"AUM"||5|||||575652|16489143
+"Improved bermudagrass"|"AUM"||4|||||575652|16489144
+"Improved bermudagrass"|"AUM"||8|||||575653|16489191
+"Oats"|"Bu"||60|||||575653|16489192
+"Corn"|"Bu"||60|||||575653|16489189
+"Cotton lint"|"Lbs"||400|||||575653|16489190
+"Improved bermudagrass"|"AUM"||8|||||575654|16489199
+"Oats"|"Bu"||60|||||575654|16489200
+"Corn"|"Bu"||60|||||575654|16489197
+"Cotton lint"|"Lbs"||400|||||575654|16489198
+"Improved bermudagrass"|"AUM"||8|||||575655|16489163
+"Oats"|"Bu"||60|||||575655|16489164
+"Corn"|"Bu"||60|||||575655|16489161
+"Cotton lint"|"Lbs"||400|||||575655|16489162
+"Improved bermudagrass"|"AUM"||8|||||575656|16489335
+"Oats"|"Bu"||60|||||575656|16489336
+"Corn"|"Bu"||60|||||575656|16489333
+"Cotton lint"|"Lbs"||400|||||575656|16489334
+"Improved bermudagrass"|"AUM"||8|||||575657|16489195
+"Oats"|"Bu"||60|||||575657|16489196
+"Corn"|"Bu"||60|||||575657|16489193
+"Cotton lint"|"Lbs"||400|||||575657|16489194
+"Improved bermudagrass"|"AUM"||8|||||575658|16489187
+"Oats"|"Bu"||60|||||575658|16489188
+"Corn"|"Bu"||60|||||575658|16489185
+"Cotton lint"|"Lbs"||400|||||575658|16489186
+"Bahiagrass"|"AUM"||3|||||575662|16489243
+"Small grains grazeout"|"AUM"||3|||||575662|16489244
+"Bahiagrass"|"AUM"||4|||||575665|16489145
+"Common bermudagrass"|"AUM"||3|||||575665|16489146
+"Improved bermudagrass"|"AUM"||4|||||575665|16489147
+"Small grains grazeout"|"AUM"||3|||||575665|16489148
+"Weeping lovegrass"|"AUM"||4|||||575665|16489149
+"Bahiagrass"|"AUM"||9.5|||||575666|16489324
+"Common bermudagrass"|"AUM"||5.5|||||575666|16489325
+"Improved bermudagrass"|"AUM"||12|||||575666|16489328
+"Wheat"|"Bu"||45|||||575666|16489330
+"Soybeans"|"Bu"||25|||||575666|16489329
+"Corn"|"Bu"||65|||||575666|16489326
+"Cotton lint"|"Lbs"||600|||||575666|16489327
+"Bahiagrass"|"AUM"||2|||||575670|16489150
+"Common bermudagrass"|"AUM"||2|||||575670|16489151
+"Improved bermudagrass"|"AUM"||3|||||575670|16489152
+"Weeping lovegrass"|"AUM"||3|||||575670|16489153
+"Weeping lovegrass"|"AUM"||2|||||575673|16488968
+"Bahiagrass"|"AUM"||3|||||575675|16489031
+"Improved bermudagrass"|"AUM"||4|||||575675|16489032
+"Bahiagrass"|"AUM"||3|||||575676|16489331
+"Improved bermudagrass"|"AUM"||4|||||575676|16489332
+"Bahiagrass"|"AUM"||3|||||575678|16489033
+"Improved bermudagrass"|"AUM"||4|||||575678|16489034
+"Bahiagrass"|"AUM"||9|||||575679|16489337
+"Bahiagrass"|"AUM"||7|||||575680|16489035
+"Improved bermudagrass"|"AUM"||9|||||575680|16489037
+"Small grains grazeout"|"AUM"||5|||||575680|16489039
+"Oats"|"Bu"||60|||||575680|16489038
+"Corn"|"Bu"||65|||||575680|16489036
+"Bahiagrass"|"AUM"||3|||||575682|16489040
+"Common bermudagrass"|"AUM"||3|||||575682|16489041
+"Improved bermudagrass"|"AUM"||3|||||575682|16489042
+"Bahiagrass"|"AUM"||6|||||575683|16489202
+"Common bermudagrass"|"AUM"||5|||||575683|16489203
+"Improved bermudagrass"|"AUM"||9|||||575683|16489201
+"Bahiagrass"|"AUM"||7|||||575684|16489154
+"Common bermudagrass"|"AUM"||6|||||575684|16489155
+"Improved bermudagrass"|"AUM"||10|||||575684|16489157
+"Small grains grazeout"|"AUM"||6|||||575684|16489159
+"Corn"|"Bu"||95|||||575684|16489156
+"Peanuts"|"Lbs"||2500|||||575684|16489158
+"Watermelons"|"Tons"||12|||||575684|16489160
+"Bahiagrass"|"AUM"||8|||||575685|16489254
+"Common bermudagrass"|"AUM"||7|||||575685|16489251
+"Improved bermudagrass"|"AUM"||10|||||575685|16489255
+"Small grains grazeout"|"AUM"||6|||||575685|16489253
+"Grain sorghum"|"Bu"||70|||||575685|16489257
+"Peanuts"|"Lbs"||2500|||||575685|16489252
+"Watermelons"|"Tons"||11|||||575685|16489256
+"Bahiagrass"|"AUM"||5.5|||||3009431|16489277
+"Common bermudagrass"|"AUM"||5.5|||||3009431|16489278
+"Improved bermudagrass"|"AUM"||6.5|||||3009431|16489279
+"Bahiagrass"|"AUM"||9|||||3009432|16489217
+"Common bermudagrass"|"AUM"||7|||||3009432|16489218
+"Improved bermudagrass"|"AUM"||10|||||3009432|16489221
+"Tall fescue"|"AUM"||6|||||3009432|16489223
+"Grain sorghum"|"Bu"||65|||||3009432|16489220
+"Green peas"|"Bu"||60|||||3009432|16489222
+"Corn"|"Bu"||85|||||3009432|16489219
+"Bahiagrass"|"AUM"||7|||||3009457|16489006
+"Common bermudagrass"|"AUM"||6|||||3009457|16489007
+"Improved bermudagrass"|"AUM"||8|||||3009457|16489008
+"Tall fescue"|"AUM"||7|||||3009457|16489009
+"Bahiagrass"|"AUM"||6|||||578201|16493393
+"Common bermudagrass"|"AUM"||5|||||578201|16493394
+"Improved bermudagrass"|"AUM"||9|||||578201|16493392
+"Bahiagrass"|"AUM"||8|||||578202|16493232
+"Common bermudagrass"|"AUM"||7|||||578202|16493235
+"Improved bermudagrass"|"AUM"||10|||||578202|16493237
+"Small grains grazeout"|"AUM"||6|||||578202|16493231
+"Grain sorghum"|"Bu"||70|||||578202|16493234
+"Peanuts"|"Lbs"||2500|||||578202|16493236
+"Watermelons"|"Tons"||11|||||578202|16493233
+"Bahiagrass"|"AUM"||7|||||578203|16493453
+"Improved bermudagrass"|"AUM"||9|||||578203|16493454
+"Bahiagrass"|"AUM"||6.5|||||578205|16493241
+"Common bermudagrass"|"AUM"||7|||||578205|16493242
+"Improved bermudagrass"|"AUM"||11|||||578205|16493240
+"Weeping lovegrass"|"AUM"||6|||||578205|16493243
+"Soybeans"|"Bu"||27|||||578205|16493244
+"Corn"|"Bu"||80|||||578205|16493239
+"Watermelons"|"Tons"||12|||||578205|16493238
+"Bahiagrass"|"AUM"||2|||||578211|16493221
+"Common bermudagrass"|"AUM"||2|||||578211|16493222
+"Improved bermudagrass"|"AUM"||3|||||578211|16493223
+"Weeping lovegrass"|"AUM"||2|||||578211|16493224
+"Bahiagrass"|"AUM"||2|||||578214|16493301
+"Small grains grazeout"|"AUM"||3|||||578214|16493299
+"Tall fescue"|"AUM"||2|||||578214|16493300
+"Cotton lint"|"Lbs"||260|||||578214|16493302
+"Bahiagrass"|"AUM"||2|||||578215|16493433
+"Common bermudagrass"|"AUM"||2|||||578215|16493434
+"Improved bermudagrass"|"AUM"||2|||||578215|16493435
+"Bahiagrass"|"AUM"||8|||||578217|16493304
+"Common bermudagrass"|"AUM"||7|||||578217|16493309
+"Improved bermudagrass"|"AUM"||9|||||578217|16493303
+"Small grains grazeout"|"AUM"||4|||||578217|16493305
+"Corn"|"Bu"||90|||||578217|16493307
+"Dry peas"|"Lbs"||1100|||||578217|16493308
+"Watermelons"|"Tons"||11|||||578217|16493306
+"Improved bermudagrass"|"AUM"||6|||||578222|16493432
+"Grain sorghum"|"Bu"||40|||||578222|16493431
+"Corn"|"Bu"||50|||||578222|16493429
+"Cotton lint"|"Lbs"||300|||||578222|16493430
+"Bahiagrass"|"AUM"||2|||||578223|16493247
+"Common bermudagrass"|"AUM"||2|||||578223|16493245
+"Improved bermudagrass"|"AUM"||3|||||578223|16493246
+"Bahiagrass"|"AUM"||3|||||578224|16493457
+"Common bermudagrass"|"AUM"||2|||||578224|16493458
+"Improved bermudagrass"|"AUM"||4|||||578224|16493456
+"Small grains grazeout"|"AUM"||3|||||578224|16493459
+"Corn"|"Bu"||50|||||578224|16493455
+"Bahiagrass"|"AUM"||5|||||578225|16493250
+"Common bermudagrass"|"AUM"||5|||||578225|16493249
+"Improved bermudagrass"|"AUM"||6|||||578225|16493248
+"Weeping lovegrass"|"AUM"||4|||||578225|16493251
+"Bahiagrass"|"AUM"||7|||||578226|16493282
+"Common bermudagrass"|"AUM"||7|||||578226|16493283
+"Improved bermudagrass"|"AUM"||9|||||578226|16493284
+"Small grains grazeout"|"AUM"||6|||||578226|16493285
+"Tall fescue"|"AUM"||9|||||578226|16493286
+"Bahiagrass"|"AUM"||8|||||578228|16493464
+"Common bermudagrass"|"AUM"||7|||||578228|16493465
+"Improved bermudagrass"|"AUM"||10|||||578228|16493460
+"Small grains grazeout"|"AUM"||6|||||578228|16493461
+"Corn"|"Bu"||90|||||578228|16493466
+"Green peas"|"Bu"||65|||||578228|16493462
+"Watermelons"|"Tons"||11|||||578228|16493463
+"Bahiagrass"|"AUM"||5.5|||||578230|16493627
+"Common bermudagrass"|"AUM"||5.5|||||578230|16493628
+"Improved bermudagrass"|"AUM"||6.5|||||578230|16493629
+"Bahiagrass"|"AUM"||2|||||578232|16493379
+"Common bermudagrass"|"AUM"||2|||||578232|16493378
+"Tall fescue"|"AUM"||2|||||578232|16493377
+"Bahiagrass"|"AUM"||4|||||578237|16493387
+"Common bermudagrass"|"AUM"||4|||||578237|16493388
+"Improved bermudagrass"|"AUM"||5|||||578237|16493390
+"Small grains grazeout"|"AUM"||3|||||578237|16493386
+"Corn"|"Bu"||70|||||578237|16493391
+"Green peas"|"Bu"||50|||||578237|16493389
+"Bahiagrass"|"AUM"||2|||||578238|16493467
+"Common bermudagrass"|"AUM"||2|||||578238|16493469
+"Improved bermudagrass"|"AUM"||3|||||578238|16493468
+"Bahiagrass"|"AUM"||4|||||578240|16493215
+"Common bermudagrass"|"AUM"||3|||||578240|16493216
+"Improved bermudagrass"|"AUM"||5|||||578240|16493218
+"Small grains grazeout"|"AUM"||3|||||578240|16493220
+"Oats"|"Bu"||40|||||578240|16493219
+"Corn"|"Bu"||50|||||578240|16493217
+"Bahiagrass"|"AUM"||2|||||578241|16493470
+"Common bermudagrass"|"AUM"||2|||||578241|16493472
+"Improved bermudagrass"|"AUM"||3|||||578241|16493471
+"Bahiagrass"|"AUM"||6|||||578246|16493313
+"Common bermudagrass"|"AUM"||5|||||578246|16493311
+"Improved bermudagrass"|"AUM"||7|||||578246|16493314
+"Small grains grazeout"|"AUM"||4|||||578246|16493312
+"Corn"|"Bu"||85|||||578246|16493310
+"Bahiagrass"|"AUM"||6|||||578247|16493319
+"Common bermudagrass"|"AUM"||5|||||578247|16493315
+"Improved bermudagrass"|"AUM"||7|||||578247|16493317
+"Small grains grazeout"|"AUM"||4|||||578247|16493316
+"Corn"|"Bu"||85|||||578247|16493318
+"Bahiagrass"|"AUM"||2|||||578248|16493321
+"Common bermudagrass"|"AUM"||2|||||578248|16493322
+"Improved bermudagrass"|"AUM"||3|||||578248|16493323
+"Weeping lovegrass"|"AUM"||3|||||578248|16493320
+"Weeping lovegrass"|"AUM"||2|||||578250|16493508
+"Bahiagrass"|"AUM"||4|||||578252|16493481
+"Improved bermudagrass"|"AUM"||5|||||578252|16493478
+"Small grains grazeout"|"AUM"||4|||||578252|16493480
+"Corn"|"Bu"||80|||||578252|16493479
+"Bahiagrass"|"AUM"||7|||||578255|16493512
+"Improved bermudagrass"|"AUM"||9|||||578255|16493509
+"Small grains grazeout"|"AUM"||5|||||578255|16493511
+"Oats"|"Bu"||60|||||578255|16493513
+"Corn"|"Bu"||65|||||578255|16493510
+"Bahiagrass"|"AUM"||4|||||578256|16493485
+"Common bermudagrass"|"AUM"||3|||||578256|16493482
+"Improved bermudagrass"|"AUM"||5|||||578256|16493488
+"Small grains grazeout"|"AUM"||3|||||578256|16493484
+"Grain sorghum"|"Bu"||70|||||578256|16493483
+"Corn"|"Bu"||70|||||578256|16493487
+"Cotton lint"|"Lbs"||300|||||578256|16493486
+"Bahiagrass"|"AUM"||5.5|||||578257|16493397
+"Common bermudagrass"|"AUM"||5.5|||||578257|16493395
+"Improved bermudagrass"|"AUM"||6.5|||||578257|16493396
+"Bahiagrass"|"AUM"||7|||||2811586|16493381
+"Common bermudagrass"|"AUM"||5|||||2811586|16493382
+"Improved bermudagrass"|"AUM"||12|||||2811586|16493383
+"Soybeans"|"Bu"||28|||||2811586|16493385
+"Corn"|"Bu"||55|||||2811586|16493384
+"Cotton lint"|"Lbs"||500|||||2811586|16493380
+"Bahiagrass"|"AUM"||5.5|||||3009438|16493585
+"Common bermudagrass"|"AUM"||5.5|||||3009438|16493586
+"Improved bermudagrass"|"AUM"||6.5|||||3009438|16493587
+"Bahiagrass"|"AUM"||6|||||3009441|16493588
+"Common bermudagrass"|"AUM"||5|||||3009441|16493589
+"Improved bermudagrass"|"AUM"||7|||||3009441|16493591
+"Small grains grazeout"|"AUM"||4|||||3009441|16493592
+"Corn"|"Bu"||85|||||3009441|16493590
+"Bahiagrass"|"AUM"||9|||||3009442|16493557
+"Common bermudagrass"|"AUM"||7|||||3009442|16493558
+"Improved bermudagrass"|"AUM"||10|||||3009442|16493561
+"Tall fescue"|"AUM"||6|||||3009442|16493563
+"Grain sorghum"|"Bu"||65|||||3009442|16493560
+"Corn"|"Bu"||85|||||3009442|16493559
+"Green peas"|"Bu"||60|||||3009442|16493562
+"Bahiagrass"|"AUM"||6|||||3009443|16493583
+"Common bermudagrass"|"AUM"||4.5|||||3009443|16493584
+"Bahiagrass"|"AUM"||8|||||3009444|16493539
+"Common bermudagrass"|"AUM"||7|||||3009444|16493540
+"Improved bermudagrass"|"AUM"||10|||||3009444|16493542
+"Small grains grazeout"|"AUM"||6|||||3009444|16493544
+"Grain sorghum"|"Bu"||70|||||3009444|16493541
+"Peanuts"|"Lbs"||2500|||||3009444|16493543
+"Watermelons"|"Tons"||11|||||3009444|16493545
+"Bahiagrass"|"AUM"||7|||||3009459|16493295
+"Common bermudagrass"|"AUM"||6|||||3009459|16493296
+"Improved bermudagrass"|"AUM"||8|||||3009459|16493297
+"Tall fescue"|"AUM"||7|||||3009459|16493298
