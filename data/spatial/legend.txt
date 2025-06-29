@@ -1,3 +1,0 @@
-"areatypename"|"areasymbol"|"areaname"|"areaacres"|"mlraoffice"|"legenddesc"|"ssastatus"|"mouagncyresp"|"projectscale"|"cordate"|"ssurgoarchived"|"legendsuituse"|"legendcertstat"|"lkey"
-"Non-MLRA Soil Survey Area"|"TX347"|"Nacogdoches County, Texas"|627232|"Temple, TX"|"Official Detailed Soil Map Legend"||"Natural Resources Conservation Service"|24000|||||15063
-"Non-MLRA Soil Survey Area"|"TX401"|"Rusk County, Texas"|600084|"Temple, TX"|"Official Detailed Soil Map Legend"||"Natural Resources Conservation Service"|24000|||||15065

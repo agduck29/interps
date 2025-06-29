@@ -1,4 +1,0 @@
-"sfragcov_l"|"sfragcov_r"|"sfragcov_h"|"distrocks_l"|"distrocks_r"|"distrocks_h"|"sfragkind"|"sfragsize_l"|"sfragsize_r"|"sfragsize_h"|"sfragshp"|"sfraground"|"sfraghard"|"cokey"|"cosurffragskey"
-0|2|6||||"Petroferric fragments"|2|3|4|"Nonflat"|"Subrounded"|"Strongly coherent"|24232282|5328056
-0|3|5||||"Petroferric fragments"|2|3|4|"Nonflat"|"Subrounded"|"Strongly coherent"|24242935|5329836
-0|0|0.01|8|14|20|"Ironstone nodules"|2|37|75|"Nonflat"|"Subrounded"|"Indurated"|24242546|5329824

@@ -1,4 +1,0 @@
-"recdate"|"legendtextkind"|"textcat"|"textsubcat"|"text"|"lkey"|"legtextkey"
-"10/25/2004 00:00:00"|"Certification statements"|"date"|"ssurgo"|"10/25/2004"|15063|79905
-"12/07/2004 00:00:00"|"Certification statements"|"date"|"ssurgo"|"12/07/2004"|15065|79932
-"10/27/2004 00:00:00"|"Certification statements"|"date"|"ssurgo"|"10/27/2004"|15065|79933
