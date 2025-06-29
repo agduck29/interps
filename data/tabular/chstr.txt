@@ -1,0 +1,556 @@
+"structgrade"|"structsize"|"structtype"|"structid"|"structpartsto"|"chstructgrpkey"|"chstructkey"
+"Weak"|"Medium"|"Subangular blocky"|||42386491|51770772
+"Weak"|"Coarse"|"Prismatic"|2|1|42386551|51770855
+"Weak"|"Medium"|"Subangular blocky"|||42386578|51770886
+"Weak"|"Fine"|"Granular"|||42386577|51770885
+"Weak"|"Medium"|"Granular"|||42386579|51770887
+"Weak"|"Coarse"|"Prismatic"|1|2|42385818|51769883
+"Weak"|"Medium"|"Subangular blocky"|2||42385818|51769884
+"Weak"|"Medium"|"Subangular blocky"|||42386580|51770888
+"Weak"|"Medium"|"Prismatic"|1|2|42386552|51770856
+"Moderate"|"Medium"|"Subangular blocky"|2||42386552|51770857
+"Weak"|"Fine"|"Granular"|||42386490|51770771
+"Weak"|"Fine"|"Granular"|||42386550|51770854
+"Weak"|"Fine"|"Granular"|||42386406|51770659
+"Weak"|"Fine"|"Granular"|||42386265|51770464
+"Weak"|"Fine"|"Granular"|||42386202|51770377
+"Weak"|"Medium"|"Subangular blocky"|||42386266|51770465
+"Weak"|"Fine"|"Subangular blocky"|||42386342|51770569
+"Moderate"|"Medium"|"Subangular blocky"|||42386048|51770162
+"Moderate"|"Medium"|"Subangular blocky"|||42386047|51770161
+"Moderate"|"Medium"|"Subangular blocky"|||42386224|51770412
+"Moderate"|"Medium"|"Subangular blocky"|||42386164|51770328
+"Weak"|"Fine"|"Granular"|||42386046|51770160
+"Weak"|"Fine"|"Granular"|||42385827|51769893
+"Weak"|"Fine"|"Granular"|||42386545|51770849
+"Weak"|"Medium"|"Subangular blocky"|||42386472|51770750
+"Weak"|"Fine"|"Granular"|||42386471|51770749
+"Moderate"|"Medium"|"Subangular blocky"|||42386395|51770646
+"Moderate"|"Medium"|"Subangular blocky"|||42386462|51770735
+"Weak"|"Fine"|"Granular"|||42386400|51770653
+"Weak"|"Fine"|"Granular"|||42386399|51770652
+"Moderate"|"Medium"|"Subangular blocky"|||42386401|51770654
+"Weak"|"Fine"|"Subangular blocky"|||42386190|51770364
+"Weak"|"Fine"|"Subangular blocky"|||42386251|51770449
+"Structureless"|""|"Single grain"|||42386189|51770363
+"Structureless"|""|"Single grain"|||42386250|51770448
+"Structureless"|""|"Massive"|||42386581|51770889
+"Moderate"|"Medium"|"Prismatic"|1|2|42386494|51770775
+"Weak"|"Medium"|"Subangular blocky"|2||42386494|51770776
+"Moderate"|"Medium"|"Prismatic"|1|2|42386557|51770862
+"Weak"|"Medium"|"Subangular blocky"|2||42386557|51770863
+"Moderate"|"Medium"|"Granular"|||42386556|51770861
+"Moderate"|"Medium"|"Granular"|||42386582|51770890
+"Weak"|"Fine"|"Granular"|||42386101|51770242
+"Moderate"|"Coarse"|"Subangular blocky"|||42386103|51770244
+"Weak"|"Fine"|"Granular"|||42386287|51770493
+"Moderate"|"Medium"|"Subangular blocky"|||42386102|51770243
+"Structureless"|""|"Massive"|||42386104|51770245
+"Moderate"|"Medium"|"Subangular blocky"|||42386252|51770450
+"Structureless"|""|"Massive"|||42386129|51770282
+"Weak"|"Medium"|"Subangular blocky"|||42386191|51770365
+"Strong"|"Medium"|"Subangular blocky"|||42386192|51770366
+"Moderate"|"Medium"|"Subangular blocky"|||42386253|51770451
+"Weak"|"Medium"|"Granular"|||42386163|51770327
+"Moderate"|"Medium"|"Subangular blocky"|||42386223|51770411
+"Moderate"|"Medium"|"Subangular blocky"|||42386280|51770483
+"Moderate"|"Medium"|"Subangular blocky"|||42386281|51770484
+"Weak"|"Medium"|"Subangular blocky"|||42386477|51770755
+"Weak"|"Medium"|"Angular blocky"|||42386479|51770757
+"Structureless"|""|"Massive"|||42386478|51770756
+"Weak"|"Medium"|"Subangular blocky"|||42386156|51770315
+"Weak"|"Medium"|"Subangular blocky"|||42386217|51770401
+"Weak"|"Medium"|"Granular"|||42386073|51770200
+"Structureless"|""|"Single grain"|||42386074|51770201
+"Moderate"|"Medium"|"Subangular blocky"|||42386473|51770751
+"Structureless"|""|"Massive"|||42386547|51770851
+"Strong"|"Medium"|"Subangular blocky"|||42386546|51770850
+"Moderate"|"Medium"|"Subangular blocky"|||42386487|51770767
+"Weak"|"Medium"|"Subangular blocky"|||42386576|51770884
+"Weak"|"Fine"|"Granular"|||42386197|51770372
+"Structureless"|""|"Massive"|||42386259|51770458
+"Weak"|"Medium"|"Subangular blocky"|||42386260|51770459
+"Moderate"|"Medium"|"Subangular blocky"|||42386258|51770457
+"Weak"|"Medium"|"Subangular blocky"|||42386198|51770373
+"Weak"|"Medium"|"Granular"|||42386298|51770509
+"Weak"|"Coarse"|"Prismatic"|1|2|42386301|51770513
+"Weak"|"Medium"|"Subangular blocky"|2||42386301|51770514
+"Moderate"|"Medium"|"Subangular blocky"|2||42386300|51770512
+"Weak"|"Medium"|"Prismatic"|1|2|42386300|51770511
+"Weak"|"Medium"|"Subangular blocky"|||42386299|51770510
+"Structureless"|""|"Massive"|||42385992|51770096
+"Moderate"|"Fine"|"Subangular blocky"|||42385851|51769926
+"Weak"|"Fine"|"Subangular blocky"|||42385997|51770101
+""|""|"Massive"|||42385998|51770102
+""|""|"Single grain"|||42386126|51770278
+""|""|"Single grain"|||42386353|51770587
+"Weak"|"Medium"|"Subangular blocky"|||42386127|51770279
+"Weak"|"Medium"|"Subangular blocky"|||42386128|51770280
+"Moderate"|"Medium"|"Prismatic"|||42386128|51770281
+"Weak"|"Medium"|"Subangular blocky"|||42386187|51770361
+"Structureless"|""|"Massive"|||42386194|51770368
+"Moderate"|"Medium"|"Subangular blocky"|||42386194|51770369
+"Structureless"|""|"Massive"|||42386255|51770453
+"Weak"|"Medium"|"Platy"|||42386255|51770454
+"Moderate"|"Medium"|"Subangular blocky"|||42386130|51770283
+"Strong"|"Medium"|"Subangular blocky"|||42386131|51770284
+"Weak"|"Fine"|"Subangular blocky"|||42386254|51770452
+"Weak"|"Fine"|"Subangular blocky"|||42386193|51770367
+"Strong"|"Medium"|"Angular blocky"|||42386002|51770109
+"Strong"|"Medium"|"Angular blocky"|||42386003|51770110
+"Weak"|"Medium"|"Granular"|||42386005|51770112
+"Weak"|"Medium"|"Angular blocky"|||42385929|51770017
+"Weak"|"Thin"|"Platy"|||42385780|51769836
+"Weak"|"Fine"|"Subangular blocky"|||42386004|51770111
+"Structureless"|""|"Single grain"|||42385928|51770016
+"Weak"|"Medium"|"Granular"|||42385853|51769928
+"Weak"|"Medium"|"Subangular blocky"|||42385779|51769835
+"Structureless"|""|"Massive"|||42385852|51769927
+"Weak"|"Fine"|"Granular"|||42386279|51770482
+"Weak"|"Very coarse"|"Prismatic"|1||42386161|51770325
+"Structureless"|""|"Single grain"|3||42386161|51770324
+"Weak"|"Coarse"|"Prismatic"|2|3|42386161|51770323
+"Weak"|"Fine"|"Subangular blocky"|||42386236|51770426
+"Moderate"|"Fine"|"Subangular blocky"|2||42386178|51770348
+"Moderate"|"Coarse"|"Prismatic"|1|2|42386178|51770347
+"Moderate"|"Fine"|"Subangular blocky"|||42385781|51769837
+"Structureless"|""|"Massive"|||42385930|51770018
+"Weak"|"Fine"|"Granular"|||42385854|51769929
+"Structureless"|""|"Massive"|||42385855|51769930
+"Weak"|"Medium"|"Subangular blocky"|||42386553|51770858
+"Moderate"|"Medium"|"Subangular blocky"|||42386492|51770773
+"Structureless"|""|"Massive"|||42386483|51770761
+"Structureless"|""|"Massive"|||42386480|51770758
+"Weak"|"Medium"|"Subangular blocky"|||42386481|51770759
+"Moderate"|"Medium"|"Subangular blocky"|||42386482|51770760
+"Weak"|"Coarse"|"Prismatic"|||42385920|51770005
+"Moderate"|"Fine and medium"|"Granular"|||42386141|51770296
+"Moderate"|"Medium"|"Subangular blocky"|||42385919|51770004
+"Moderate"|"Medium"|"Subangular blocky"|||42386256|51770455
+"Weak"|"Medium"|"Subangular blocky"|||42386196|51770371
+"Moderate"|"Medium"|"Granular"|||42386132|51770285
+"Weak"|"Fine"|"Granular"|||42386257|51770456
+"Structureless"|""|"Massive"|||42386195|51770370
+"Moderate"|"Coarse"|"Prismatic"|1|2|42386488|51770768
+"Moderate"|"Fine"|"Subangular blocky"|2||42386488|51770769
+"Weak"|"Fine"|"Subangular blocky"|||42386404|51770657
+"Weak"|"Fine"|"Granular"|||42386548|51770852
+"Weak"|"Coarse"|"Prismatic"|2|1|42386405|51770658
+"Weak"|"Medium"|"Subangular blocky"|||42386549|51770853
+"Weak"|"Medium"|"Subangular blocky"|||42386489|51770770
+"Structureless"|""|"Massive"|||42386555|51770860
+"Weak"|"Medium"|"Platy"|||42386485|51770764
+"Weak"|"Medium"|"Subangular blocky"|||42386485|51770765
+"Weak"|"Medium"|"Subangular blocky"|||42386554|51770859
+"Weak"|"Medium"|"Granular"|||42386493|51770774
+"Moderate"|"Medium"|"Prismatic"|1|2|42386484|51770762
+"Weak"|"Medium"|"Subangular blocky"|2||42386484|51770763
+"Moderate"|"Fine"|"Angular blocky"|||42386378|51770624
+"Structureless"|""|"Massive"|||42386380|51770626
+"Weak"|"Medium"|"Subangular blocky"|||42386444|51770711
+"Weak"|"Medium"|"Subangular blocky"|||42386379|51770625
+"Moderate"|"Coarse"|"Subangular blocky"|2||42386445|51770713
+"Moderate"|"Medium"|"Prismatic"|1|2|42386445|51770712
+"Moderate"|"Medium"|"Prismatic"|||42386568|51770875
+"Moderate"|"Medium"|"Prismatic"|||42386446|51770714
+"Moderate"|"Coarse"|"Subangular blocky"|2||42386529|51770828
+"Moderate"|"Medium"|"Prismatic"|1|2|42386529|51770827
+"Weak"|"Medium"|"Subangular blocky"|||42386447|51770715
+"Weak"|"Medium"|"Granular"|||42386381|51770627
+"Weak"|"Thick"|"Platy"|||42386530|51770829
+"Moderate"|"Medium"|"Subangular blocky"|2||42385839|51769908
+"Moderate"|"Medium"|"Prismatic"|1|2|42385839|51769909
+"Weak"|"Medium"|"Prismatic"|1|2|42385987|51770089
+"Moderate"|"Medium"|"Subangular blocky"|2||42385987|51770090
+"Weak"|"Coarse"|"Prismatic"|||42385838|51769907
+"Moderate"|"Medium"|"Subangular blocky"|2||42386063|51770186
+"Weak"|"Medium"|"Prismatic"|1|2|42386063|51770185
+"Weak"|"Fine"|"Granular"|||42386062|51770184
+"Moderate"|"Coarse"|"Prismatic"|1|2|42385986|51770087
+"Moderate"|"Medium"|"Angular blocky"|2||42385986|51770088
+"Moderate"|"Medium"|"Prismatic"|1|2|42385844|51769916
+"Moderate"|"Fine"|"Subangular blocky"|2||42385844|51769917
+"Moderate"|"Fine"|"Subangular blocky"|2||42385843|51769914
+"Moderate"|"Medium"|"Prismatic"|1|2|42385843|51769915
+"Weak"|"Fine"|"Subangular blocky"|||42385991|51770095
+"Moderate"|"Fine"|"Angular blocky"|||42385990|51770094
+"Weak"|"Fine"|"Granular"|||42386067|51770190
+"Structureless"|""|"Massive"|||42386066|51770189
+"Weak"|"Medium"|"Subangular blocky"|||42386064|51770187
+"Weak"|"Medium"|"Granular"|||42386065|51770188
+"Weak"|"Medium"|"Subangular blocky"|2||42385989|51770093
+"Moderate"|"Medium"|"Prismatic"|1|2|42385989|51770092
+"Weak"|"Medium"|"Platy"|||42385842|51769912
+"Weak"|"Medium"|"Subangular blocky"|||42385842|51769913
+"Weak"|"Thick"|"Platy"|||42385840|51769910
+"Weak"|"Medium"|"Granular"|||42385915|51769998
+"Weak"|"Medium"|"Subangular blocky"|||42385988|51770091
+"Moderate"|"Medium"|"Prismatic"|1|2|42385917|51770001
+"Moderate"|"Coarse"|"Subangular blocky"|2||42385917|51770002
+"Moderate"|"Medium"|"Prismatic"|||42385918|51770003
+"Moderate"|"Coarse"|"Subangular blocky"|2||42385916|51770000
+"Moderate"|"Medium"|"Prismatic"|1|2|42385916|51769999
+"Moderate"|"Medium"|"Prismatic"|||42385841|51769911
+"Moderate"|"Fine"|"Granular"|||42386162|51770326
+"Weak"|"Fine"|"Subangular blocky"|||42386222|51770410
+"Weak"|"Fine"|"Subangular blocky"|||42386090|51770225
+"Moderate"|"Medium"|"Subangular blocky"|||42408129|51797971
+"Weak"|"Fine"|"Subangular blocky"|||42408062|51797877
+"Moderate"|"Coarse"|"Prismatic"|1|2|42408233|51798102
+"Moderate"|"Fine"|"Subangular blocky"|2||42408233|51798103
+"Weak"|"Fine"|"Subangular blocky"|||42408222|51798086
+"Weak"|"Fine"|"Granular"|||42407713|51797444
+"Weak"|"Fine"|"Granular"|||42407653|51797369
+"Weak"|"Fine"|"Granular"|||42408247|51798120
+"Weak"|"Fine"|"Granular"|||42408246|51798119
+"Weak"|"Fine"|"Granular"|||42408184|51798042
+"Weak"|"Fine"|"Granular"|||42407654|51797370
+"Weak"|"Fine"|"Granular"|||42408025|51797834
+"Moderate"|"Medium"|"Subangular blocky"|||42408159|51798011
+"Moderate"|"Medium"|"Subangular blocky"|||42408027|51797836
+"Moderate"|"Medium"|"Subangular blocky"|||42408161|51798013
+"Weak"|"Fine"|"Granular"|||42408092|51797923
+"Moderate"|"Medium"|"Subangular blocky"|||42408094|51797925
+"Moderate"|"Fine"|"Subangular blocky"|1||42408240|51798111
+"Weak"|"Thick"|"Platy"|1||42408174|51798029
+"Weak"|"Fine"|"Subangular blocky"|||42408238|51798109
+"Weak"|"Fine"|"Subangular blocky"|||42408239|51798110
+"Weak"|"Thin"|"Platy"|||42407806|51797557
+"Weak"|"Fine"|"Subangular blocky"|||42407733|51797468
+"Moderate"|"Fine"|"Subangular blocky"|||42407805|51797556
+"Weak"|"Medium"|"Granular"|||42407786|51797535
+"Weak"|"Fine"|"Subangular blocky"|||42407918|51797688
+"Weak"|"Fine"|"Subangular blocky"|||42408104|51797937
+"Weak"|"Fine"|"Subangular blocky"|||42408039|51797850
+"Weak"|"Fine"|"Subangular blocky"|||42408036|51797847
+"Weak"|"Thick"|"Platy"|||42407926|51797697
+"Weak"|"Thick"|"Platy"|||42407919|51797689
+"Weak"|"Fine"|"Granular"|||42408215|51798077
+"Weak"|"Fine"|"Granular"|||42408214|51798076
+"Moderate"|"Medium"|"Subangular blocky"|||42408216|51798078
+"Weak"|"Fine"|"Granular"|||42408210|51798072
+"Structureless"|""|"Single grain"|||42408212|51798074
+"Weak"|"Fine"|"Subangular blocky"|||42408208|51798070
+"Weak"|"Fine"|"Subangular blocky"|||42407860|51797619
+"Weak"|"Medium"|"Angular blocky"|||42407981|51797771
+"Moderate"|"Fine"|"Subangular blocky"|||42407980|51797769
+"Moderate"|"Medium"|"Subangular blocky"|||42407980|51797770
+"Moderate"|"Medium"|"Subangular blocky"|||42407982|51797772
+"Weak"|"Fine"|"Subangular blocky"|||42407908|51797677
+"Structureless"|""|"Massive"|||42407910|51797679
+"Moderate"|"Medium"|"Subangular blocky"|||42407909|51797678
+"Moderate"|"Medium"|"Subangular blocky"|||42407744|51797482
+"Moderate"|"Medium"|"Subangular blocky"|||42407893|51797657
+"Weak"|"Medium"|"Subangular blocky"|||42407861|51797620
+"Weak"|"Medium"|"Subangular blocky"|||42407655|51797371
+"Weak"|"Medium"|"Granular"|||42408213|51798075
+"Weak"|"Medium"|"Subangular blocky"|||42408164|51798017
+"Weak"|"Medium"|"Subangular blocky"|||42408173|51798028
+"Weak"|"Coarse"|"Prismatic"|1|2|42408234|51798104
+"Weak"|"Very coarse"|"Prismatic"|2||42408234|51798105
+"Weak"|"Fine"|"Granular"|||42408181|51798039
+"Weak"|"Fine"|"Granular"|||42408223|51798087
+"Weak"|"Fine"|"Granular"|||42407714|51797445
+"Structureless"|""|"Massive"|1||42408106|51797940
+"Weak"|"Medium"|"Granular"|1|2|42407921|51797691
+"Weak"|"Fine"|"Granular"|2||42407921|51797692
+"Moderate"|"Fine"|"Subangular blocky"|1||42407920|51797690
+"Weak"|"Medium"|"Granular"|1|2|42408105|51797938
+"Weak"|"Fine"|"Granular"|2||42408105|51797939
+"Weak"|"Medium"|"Subangular blocky"|1||42408037|51797848
+"Moderate"|"Medium"|"Subangular blocky"|1||42407922|51797693
+"Weak"|"Fine"|"Granular"|||42407787|51797536
+"Weak"|"Fine"|"Granular"|||42407862|51797621
+"Weak"|"Fine"|"Granular"|||42407656|51797372
+"Weak"|"Medium"|"Subangular blocky"|1|2|42407624|51797334
+"Weak"|"Fine"|"Granular"|2||42407624|51797335
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407906|51797674
+"Moderate"|"Coarse"|"Subangular blocky"|||42407906|51797675
+"Moderate"|"Medium"|"Subangular blocky"|||42407905|51797672
+"Moderate"|"Coarse"|"Subangular blocky"|||42407905|51797673
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407904|51797670
+"Moderate"|"Coarse"|"Subangular blocky"|||42407904|51797671
+"Weak"|"Medium"|"Subangular blocky"|1|2|42407903|51797668
+"Weak"|"Fine"|"Granular"|2||42407903|51797669
+"Weak"|"Fine"|"Granular"|||42407715|51797446
+"Weak"|"Fine"|"Subangular blocky"|||42407717|51797449
+"Weak"|"Fine"|"Subangular blocky"|||42407792|51797541
+"Moderate"|"Medium"|"Subangular blocky"|||42407865|51797625
+"Moderate"|"Medium"|"Subangular blocky"|||42407791|51797540
+"Weak"|"Medium"|"Subangular blocky"|||42407790|51797539
+"Weak"|"Medium"|"Platy"|||42407716|51797447
+"Weak"|"Medium"|"Subangular blocky"|||42407716|51797448
+"Structureless"|""|"Massive"|||42407789|51797538
+"Weak"|"Medium"|"Granular"|||42407788|51797537
+"Weak"|"Medium"|"Subangular blocky"|||42407864|51797624
+"Moderate"|"Medium"|"Prismatic"|1|2|42407863|51797622
+"Weak"|"Medium"|"Subangular blocky"|2||42407863|51797623
+"Moderate"|"Medium"|"Prismatic"|1|2|42407660|51797378
+"Moderate"|"Medium"|"Subangular blocky"|2||42407660|51797379
+"Weak"|"Medium"|"Prismatic"|1|2|42407659|51797376
+"Moderate"|"Medium"|"Subangular blocky"|2||42407659|51797377
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407657|51797373
+"Moderate"|"Medium"|"Angular blocky"|2||42407657|51797374
+"Weak"|"Coarse"|"Prismatic"|||42407658|51797375
+"Weak"|"Medium"|"Prismatic"|1|2|42407866|51797626
+"Moderate"|"Medium"|"Subangular blocky"|2||42407866|51797627
+"Weak"|"Fine"|"Granular"|||42407718|51797450
+"Weak"|"Medium"|"Granular"|||42407689|51797411
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407621|51797330
+"Moderate"|"Medium"|"Subangular blocky"|2||42407621|51797331
+"Weak"|"Medium"|"Prismatic"|1|2|42407620|51797328
+"Moderate"|"Medium"|"Subangular blocky"|2||42407620|51797329
+"Weak"|"Medium"|"Granular"|1|2|42407619|51797326
+"Weak"|"Medium"|"Subangular blocky"|2||42407619|51797327
+"Moderate"|"Medium"|"Subangular blocky"|||42407651|51797367
+"Structureless"|""|"Single grain"|||42407712|51797443
+"Structureless"|""|"Single grain"|||42407650|51797366
+"Structureless"|""|"Massive"|||42407652|51797368
+"Weak"|"Coarse"|"Subangular blocky"|||42407710|51797440
+"Structureless"|""|"Massive"|||42407710|51797441
+"Structureless"|""|"Massive"|||42407858|51797617
+"Weak"|"Fine"|"Granular"|||42407711|51797442
+"Moderate"|"Medium"|"Subangular blocky"|||42407857|51797616
+"Moderate"|"Fine"|"Granular"|||42407859|51797618
+"Moderate"|"Fine"|"Subangular blocky"|||42407911|51797680
+"Moderate"|"Fine"|"Subangular blocky"|||42407913|51797682
+"Weak"|"Medium"|"Subangular blocky"|||42407914|51797683
+"Moderate"|"Medium"|"Subangular blocky"|||42407912|51797681
+"Moderate"|"Medium"|"Subangular blocky"|||42408030|51797839
+"Moderate"|"Fine and medium"|"Granular"|||42407867|51797628
+"Moderate"|"Medium"|"Subangular blocky"|||42407868|51797629
+"Weak"|"Fine"|"Granular"|||42408038|51797849
+"Weak"|"Coarse"|"Prismatic"|||42407928|51797699
+"Weak"|"Fine"|"Granular"|||42407974|51797761
+"Structureless"|""|"Massive"|||42407929|51797700
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407976|51797764
+"Moderate"|"Medium"|"Subangular blocky"|2||42407976|51797765
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407975|51797762
+"Moderate"|"Medium"|"Subangular blocky"|2||42407975|51797763
+"Weak"|"Medium"|"Granular"|||42408003|51797800
+"Weak"|"Medium"|"Prismatic"|1|2|42408005|51797802
+"Moderate"|"Medium"|"Subangular blocky"|2||42408005|51797803
+"Weak"|"Coarse"|"Prismatic"|1|2|42408006|51797804
+"Weak"|"Medium"|"Subangular blocky"|2||42408006|51797805
+"Weak"|"Medium"|"Subangular blocky"|||42408004|51797801
+"Structureless"|""|"Massive"|||42408058|51797873
+"Weak"|"Medium"|"Subangular blocky"|||42408059|51797874
+"Weak"|"Medium"|"Subangular blocky"|||42408127|51797969
+"Weak"|"Fine"|"Granular"|||42408126|51797968
+"Moderate"|"Medium"|"Subangular blocky"|||42408057|51797872
+"Structureless"|""|"Massive"|||42407871|51797633
+"Weak"|"Fine"|"Subangular blocky"|||42407943|51797720
+"Weak"|"Fine"|"Subangular blocky"|||42407944|51797721
+"Weak"|"Fine"|"Subangular blocky"|||42407942|51797719
+"Weak"|"Medium"|"Granular"|||42407795|51797545
+"Weak"|"Medium"|"Granular"|||42407796|51797546
+"Structureless"|""|"Single grain"|||42407807|51797558
+"Weak"|"Fine and medium"|"Granular"|||42407763|51797505
+"Weak"|"Fine and medium"|"Granular"|||42407666|51797387
+"Weak"|"Fine and medium"|"Granular"|||42407872|51797634
+"Weak"|"Fine and medium"|"Granular"|||42407722|51797455
+"Weak"|"Medium"|"Subangular blocky"|||42408118|51797955
+"Weak"|"Medium"|"Subangular blocky"|||42407938|51797713
+"Weak"|"Medium"|"Subangular blocky"|||42407939|51797714
+"Moderate"|"Medium"|"Prismatic"|||42407939|51797715
+""|""|"Single grain"|||42407956|51797739
+""|""|"Single grain"|||42407937|51797712
+"Moderate"|"Medium"|"Subangular blocky"|||42408125|51797967
+"Weak"|"Fine"|"Subangular blocky"|||42408124|51797966
+"Weak"|"Fine"|"Subangular blocky"|||42408000|51797797
+"Moderate"|"Medium"|"Subangular blocky"|||42408001|51797798
+"Moderate"|"Medium"|"Subangular blocky"|||42408056|51797871
+"Structureless"|""|"Massive"|||42408002|51797799
+"Weak"|"Fine"|"Subangular blocky"|||42407797|51797547
+"Weak"|"Fine"|"Subangular blocky"|||42407668|51797390
+"Moderate"|"Medium"|"Prismatic"|1|2|42407667|51797388
+"Moderate"|"Fine"|"Subangular blocky"|2||42407667|51797389
+"Weak"|"Fine"|"Granular"|||42407873|51797635
+"Moderate"|"Fine"|"Subangular blocky"|2||42407723|51797456
+"Moderate"|"Medium"|"Prismatic"|1|2|42407723|51797457
+"Moderate"|"Fine"|"Angular blocky"|||42407874|51797636
+"Moderate"|"Fine"|"Angular blocky"|||42407753|51797494
+"Moderate"|"Fine"|"Subangular blocky"|2||42407752|51797492
+"Moderate"|"Medium"|"Prismatic"|1|2|42407752|51797493
+"Moderate"|"Medium"|"Prismatic"|1|2|42407754|51797495
+"Moderate"|"Fine"|"Subangular blocky"|2||42407754|51797496
+"Weak"|"Fine"|"Granular"|||42407751|51797491
+"Weak"|"Fine"|"Subangular blocky"|||42407824|51797576
+"Weak"|"Fine"|"Subangular blocky"|||42407875|51797637
+"Weak"|"Fine"|"Subangular blocky"|||42407669|51797391
+"Weak"|"Medium"|"Granular"|||42407876|51797638
+"Weak"|"Fine"|"Granular"|||42407808|51797559
+"Weak"|"Coarse"|"Prismatic"|2|3|42407736|51797471
+"Structureless"|""|"Single grain"|3||42407736|51797472
+"Weak"|"Very coarse"|"Prismatic"|1||42407736|51797473
+"Weak"|"Fine"|"Granular"|||42407724|51797458
+"Structureless"|""|"Single grain"|||42407877|51797639
+"Structureless"|""|"Single grain"|||42407725|51797459
+"Moderate"|"Medium"|"Subangular blocky"|||42407798|51797548
+"Structureless"|""|"Massive"|||42407746|51797484
+"Weak"|"Fine"|"Granular"|||42407678|51797400
+"Structureless"|""|"Single grain"|||42407606|51797312
+"Moderate"|"Medium"|"Subangular blocky"|||42407607|51797313
+"Structureless"|""|"Single grain"|||42407679|51797401
+"Structureless"|""|"Massive"|||42407608|51797314
+"Moderate"|"Medium"|"Subangular blocky"|||42407821|51797573
+"Weak"|"Fine"|"Subangular blocky"|||42407603|51797309
+"Weak"|"Fine"|"Granular"|||42407673|51797395
+"Moderate"|"Medium"|"Prismatic"|||42407749|51797489
+"Weak"|"Thick"|"Platy"|||42407750|51797490
+"Moderate"|"Medium"|"Prismatic"|||42407822|51797574
+"Moderate"|"Medium"|"Prismatic"|1|2|42407747|51797485
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407747|51797486
+"Moderate"|"Medium"|"Prismatic"|1|2|42407748|51797487
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407748|51797488
+"Weak"|"Medium"|"Granular"|||42407674|51797396
+"Weak"|"Medium"|"Subangular blocky"|||42407675|51797397
+"Weak"|"Fine"|"Granular"|||42407676|51797398
+"Moderate"|"Medium"|"Subangular blocky"|||42407823|51797575
+"Structureless"|""|"Single grain"|||42407605|51797311
+"Structureless"|""|"Single grain"|||42407604|51797310
+"Structureless"|""|"Massive"|||42407677|51797399
+"Moderate"|"Medium"|"Prismatic"|||42407721|51797454
+"Moderate"|"Medium"|"Prismatic"|1|2|42407661|51797380
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407661|51797381
+"Moderate"|"Medium"|"Prismatic"|||42407663|51797384
+"Weak"|"Thick"|"Platy"|||42407664|51797385
+"Weak"|"Medium"|"Granular"|||42407870|51797632
+"Weak"|"Medium"|"Subangular blocky"|||42407665|51797386
+"Moderate"|"Medium"|"Prismatic"|1|2|42407662|51797382
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407662|51797383
+"Moderate"|"Medium"|"Subangular blocky"|2||42407720|51797452
+"Moderate"|"Medium"|"Prismatic"|1|2|42407720|51797453
+"Weak"|"Fine"|"Subangular blocky"|||42407719|51797451
+"Moderate"|"Medium"|"Subangular blocky"|2||42407869|51797630
+"Weak"|"Medium"|"Prismatic"|1|2|42407869|51797631
+"Weak"|"Medium"|"Granular"|||42407794|51797544
+"Weak"|"Fine"|"Granular"|2||42407793|51797542
+"Weak"|"Medium"|"Granular"|1|2|42407793|51797543
+"Weak"|"Medium"|"Subangular blocky"|||42408195|51798056
+"Moderate"|"Fine"|"Angular blocky"|||42408194|51798055
+"Weak"|"Medium"|"Subangular blocky"|||42408152|51798003
+"Structureless"|""|"Massive"|||42408196|51798057
+"Moderate"|"Medium"|"Prismatic"|||42408024|51797833
+"Moderate"|"Medium"|"Prismatic"|1|2|42408153|51798004
+"Moderate"|"Coarse"|"Subangular blocky"|2||42408153|51798005
+"Weak"|"Thick"|"Platy"|||42408089|51797918
+"Moderate"|"Medium"|"Prismatic"|||42408154|51798006
+"Moderate"|"Medium"|"Prismatic"|1|2|42408088|51797916
+"Moderate"|"Coarse"|"Subangular blocky"|2||42408088|51797917
+"Weak"|"Medium"|"Granular"|||42408197|51798058
+"Weak"|"Medium"|"Subangular blocky"|||42408155|51798007
+"Structureless"|""|"Massive"|||42408183|51798041
+"Moderate"|"Medium"|"Prismatic"|1|2|42408224|51798088
+"Weak"|"Medium"|"Subangular blocky"|2||42408224|51798089
+"Weak"|"Medium"|"Subangular blocky"|||42408182|51798040
+"Weak"|"Medium"|"Granular"|||42408235|51798106
+"Weak"|"Medium"|"Platy"|||42408225|51798090
+"Weak"|"Medium"|"Subangular blocky"|||42408225|51798091
+"Moderate"|"Medium"|"Prismatic"|||42408236|51798107
+"Moderate"|"Medium"|"Prismatic"|1|2|42408226|51798092
+"Moderate"|"Coarse"|"Subangular blocky"|2||42408226|51798093
+"Weak"|"Thick"|"Platy"|||42408229|51798097
+"Moderate"|"Medium"|"Prismatic"|||42408228|51798096
+"Moderate"|"Medium"|"Prismatic"|1|2|42408227|51798094
+"Moderate"|"Coarse"|"Subangular blocky"|2||42408227|51798095
+"Weak"|"Medium"|"Subangular blocky"|||42408186|51798044
+"Weak"|"Medium"|"Granular"|||42408185|51798043
+"Strong"|"Medium"|"Angular blocky"|||42407648|51797363
+"Weak"|"Medium"|"Granular"|||42407854|51797612
+"Weak"|"Fine"|"Granular"|||42407646|51797360
+"Weak"|"Medium"|"Prismatic"|1|2|42407649|51797364
+"Moderate"|"Medium"|"Angular blocky"|2||42407649|51797365
+"Weak"|"Medium"|"Prismatic"|1|2|42407647|51797361
+"Weak"|"Medium"|"Subangular blocky"|2||42407647|51797362
+"Weak"|"Fine"|"Subangular blocky"|||42407709|51797439
+"Moderate"|"Medium"|"Prismatic"|1|2|42407856|51797614
+"Moderate"|"Fine"|"Subangular blocky"|2||42407856|51797615
+"Weak"|"Fine"|"Granular"|||42407783|51797531
+"Moderate"|"Fine"|"Subangular blocky"|2||42407784|51797532
+"Moderate"|"Medium"|"Prismatic"|1|2|42407784|51797533
+"Moderate"|"Fine"|"Angular blocky"|||42407785|51797534
+"Weak"|"Medium"|"Granular"|||42407855|51797613
+"Weak"|"Medium"|"Granular"|||42407707|51797436
+"Strong"|"Medium"|"Subangular blocky"|2||42407782|51797529
+"Moderate"|"Medium"|"Prismatic"|1|2|42407782|51797530
+"Weak"|"Medium"|"Prismatic"|1|2|42407781|51797527
+"Moderate"|"Medium"|"Angular blocky"|2||42407781|51797528
+"Moderate"|"Medium"|"Prismatic"|1|2|42407708|51797437
+"Moderate"|"Medium"|"Subangular blocky"|2||42407708|51797438
+"Moderate"|"Medium"|"Subangular blocky"|2||42407701|51797426
+"Moderate"|"Medium"|"Prismatic"|1|2|42407701|51797427
+"Weak"|"Medium"|"Prismatic"|1|2|42407849|51797605
+"Moderate"|"Medium"|"Subangular blocky"|2||42407849|51797606
+"Moderate"|"Coarse"|"Prismatic"|1|2|42407848|51797603
+"Moderate"|"Medium"|"Angular blocky"|2||42407848|51797604
+"Weak"|"Coarse"|"Prismatic"|||42407700|51797425
+"Moderate"|"Medium"|"Subangular blocky"|2||42407776|51797522
+"Weak"|"Medium"|"Prismatic"|1|2|42407776|51797521
+"Weak"|"Fine"|"Granular"|||42407775|51797520
+"Weak"|"Medium"|"Platy"|||42407704|51797430
+"Weak"|"Medium"|"Subangular blocky"|||42407704|51797431
+"Structureless"|""|"Massive"|||42407779|51797525
+"Weak"|"Medium"|"Granular"|||42407778|51797524
+"Moderate"|"Medium"|"Prismatic"|1|2|42407851|51797608
+"Weak"|"Medium"|"Subangular blocky"|2||42407851|51797609
+"Weak"|"Medium"|"Subangular blocky"|||42407777|51797523
+"Weak"|"Fine"|"Subangular blocky"|||42407853|51797611
+"Weak"|"Fine"|"Granular"|||42407780|51797526
+"Moderate"|"Fine"|"Angular blocky"|||42407852|51797610
+"Moderate"|"Fine"|"Subangular blocky"|2||42407706|51797435
+"Moderate"|"Medium"|"Prismatic"|1|2|42407706|51797434
+"Moderate"|"Fine"|"Subangular blocky"|2||42407705|51797432
+"Moderate"|"Medium"|"Prismatic"|1|2|42407705|51797433
+"Moderate"|"Medium"|"Prismatic"|1|2|42407644|51797357
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407644|51797358
+"Weak"|"Medium"|"Subangular blocky"|||42407850|51797607
+"Weak"|"Medium"|"Granular"|||42407642|51797354
+"Weak"|"Thick"|"Platy"|||42407702|51797428
+"Moderate"|"Medium"|"Prismatic"|1|2|42407643|51797355
+"Moderate"|"Coarse"|"Subangular blocky"|2||42407643|51797356
+"Moderate"|"Medium"|"Prismatic"|||42407703|51797429
+"Moderate"|"Medium"|"Prismatic"|||42407645|51797359
+"Moderate"|"Medium"|"Prismatic"|1|2|42408189|51798047
+"Moderate"|"Medium"|"Subangular blocky"|2||42408189|51798048
+"Weak"|"Medium"|"Prismatic"|1|2|42408085|51797911
+"Moderate"|"Medium"|"Subangular blocky"|2||42408085|51797912
+"Moderate"|"Coarse"|"Prismatic"|1|2|42408084|51797909
+"Moderate"|"Medium"|"Angular blocky"|2||42408084|51797910
+"Weak"|"Fine"|"Granular"|||42408022|51797830
+"Weak"|"Medium"|"Prismatic"|1|2|42408148|51797998
+"Moderate"|"Medium"|"Subangular blocky"|2||42408148|51797999
+"Weak"|"Coarse"|"Prismatic"|||42408149|51798000
+"Weak"|"Medium"|"Platy"|||42408191|51798051
+"Weak"|"Medium"|"Subangular blocky"|||42408191|51798052
+"Structureless"|""|"Massive"|||42408150|51798001
+"Weak"|"Medium"|"Subangular blocky"|||42408192|51798053
+"Moderate"|"Medium"|"Prismatic"|1|2|42408190|51798049
+"Weak"|"Medium"|"Subangular blocky"|2||42408190|51798050
+"Weak"|"Medium"|"Granular"|||42408193|51798054
+"Weak"|"Fine"|"Subangular blocky"|||42408021|51797829
+"Weak"|"Fine"|"Granular"|||42408083|51797908
+"Moderate"|"Fine"|"Angular blocky"|||42408019|51797826
+"Moderate"|"Medium"|"Prismatic"|1|2|42408020|51797827
+"Moderate"|"Fine"|"Subangular blocky"|2||42408020|51797828
+"Moderate"|"Fine"|"Subangular blocky"|2||42408147|51797996
+"Moderate"|"Medium"|"Prismatic"|1|2|42408147|51797997
+"Moderate"|"Medium"|"Prismatic"||1|42408230|51798098
+"Moderate"|"Fine"|"Angular blocky"|1||42408230|51798099
+"Moderate"|"Coarse"|"Prismatic"|1|2|42408248|51798121
+"Moderate"|"Medium"|"Subangular blocky"|2||42408248|51798122
+"Structureless"|""|"Massive"|||42408188|51798046
+"Weak"|"Coarse"|"Prismatic"|||42408251|51798126
+"Moderate"|"Coarse"|"Prismatic"|1|2|42408249|51798123
+"Moderate"|"Medium"|"Subangular blocky"|2||42408249|51798124
+"Weak"|"Fine"|"Granular"|||42408250|51798125
+"Weak"|"Fine"|"Granular"|||42408187|51798045
+"Moderate"|"Medium"|"Subangular blocky"|2||42408087|51797914
+"Weak"|"Medium"|"Prismatic"|1|2|42408087|51797915
+"Weak"|"Medium"|"Granular"|||42408086|51797913
+"Weak"|"Fine"|"Subangular blocky"|||42408151|51798002
+"Moderate"|"Medium"|"Subangular blocky"|2||42408023|51797831
+"Moderate"|"Medium"|"Prismatic"|1|2|42408023|51797832
+"Moderate"|"Fine"|"Granular"|||42407743|51797481
+"Weak"|"Fine"|"Subangular blocky"|||42407892|51797656
+"Weak"|"Fine"|"Subangular blocky"|||42407907|51797676

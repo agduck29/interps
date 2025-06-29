@@ -1,0 +1,383 @@
+"ecoclasstypename"|"ecoclassref"|"ecoclassid"|"ecoclassname"|"cokey"|"coecoclasskey"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232334|9890970
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232335|9890898
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY011TX"|"Deep Sandy Terrace"|24232336|9890964
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232337|9890989
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232338|9890921
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232339|9890996
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232340|9890930
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232341|9891046
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24231846|9891009
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY011TX"|"Deep Sandy Terrace"|24231847|9891033
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232062|9891018
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232063|9890902
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232064|9890972
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232282|9890998
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232283|9890877
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232284|9890949
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232285|9890974
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232352|9891000
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232353|9891025
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232410|9890923
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232411|9891038
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232412|9890967
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232413|9890900
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232247|9890936
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232248|9891051
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232249|9890887
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232250|9891020
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232251|9890905
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232252|9890933
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232369|9891056
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232370|9890878
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232371|9890997
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232372|9891021
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232092|9890932
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232093|9891050
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232094|9890886
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232193|9890924
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232194|9890990
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232195|9891057
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232253|9891004
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232255|9890956
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232256|9890982
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232257|9890962
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232258|9890987
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232244|9890966
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232245|9891039
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232246|9891012
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232414|9890922
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232415|9890942
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232260|9891026
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232261|9891003
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY018TX"|"Clayey Bottomland"|24232262|9890883
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24232263|9891048
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232226|9890961
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY018TX"|"Clayey Bottomland"|24232227|9890894
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232065|9891035
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232066|9891013
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232416|9891036
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232417|9890881
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231952|9890971
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24231953|9891045
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24231954|9890885
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232104|9891060
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232105|9890899
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232107|9891040
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232102|9890931
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232103|9891047
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232089|9890901
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232090|9891016
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232091|9890947
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232298|9890879
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232299|9890948
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232300|9890979
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232108|9891014
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232109|9890968
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24231955|9891049
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24231956|9890884
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24231957|9891001
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232418|9890880
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232419|9890994
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232420|9891019
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24232228|9890963
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232229|9890893
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24231791|9891002
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24231792|9890960
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232422|9891008
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232423|9890937
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232356|9890910
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232357|9890981
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232358|9891041
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY011TX"|"Deep Sandy Terrace"|24231936|9890918
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24231937|9891034
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24231938|9890950
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232230|9890986
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232231|9891052
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232273|9891031
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232274|9890954
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232275|9890976
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232279|9890959
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232280|9890988
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232281|9890920
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232241|9890951
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232242|9891022
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232243|9890919
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232429|9890938
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232430|9891059
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232431|9890897
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232276|9890912
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232277|9891027
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232278|9891005
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232264|9890915
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232265|9890984
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232267|9890892
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24232268|9890943
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232269|9890925
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24232270|9890895
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232272|9891037
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24232122|9891042
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232123|9890876
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232354|9891010
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232355|9890896
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24231963|9891044
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24231964|9890875
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24231965|9890993
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232232|9891043
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232233|9890926
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232424|9890957
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232425|9890980
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232426|9890909
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232408|9890965
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232409|9890991
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232444|9890888
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232445|9891006
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232446|9891030
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232373|9891011
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232374|9890906
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232375|9890927
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24232235|9890903
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24232236|9890969
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24231836|9891023
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24231837|9890907
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24231838|9890978
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232199|9890929
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232200|9890999
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24232030|9890916
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24232031|9891032
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232347|9891029
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232348|9890908
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232110|9890914
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232111|9890985
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232427|9891061
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232428|9890889
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231987|9890891
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231988|9890958
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231989|9890983
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232112|9890995
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232114|9890945
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232115|9891015
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232432|9891007
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24232433|9890890
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY018TX"|"Clayey Bottomland"|24232434|9891053
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232435|9890934
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232116|9890882
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232117|9890952
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232118|9890973
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231857|9890913
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24231858|9891024
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232119|9891054
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232120|9890955
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232121|9890977
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232286|9890992
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232287|9891017
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232288|9890946
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232238|9890941
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232239|9891055
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232359|9891028
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24232360|9890944
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232361|9890874
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY002TX"|"Seasonally Wet Upland"|24232124|9891058
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232125|9890939
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232385|9890917
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232386|9890940
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232319|9890953
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24232320|9890975
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24232321|9890904
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24232322|9890928
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24232087|9890911
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24232088|9890935
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242590|9893770
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242591|9893787
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242905|9893768
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242906|9893789
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242907|9893713
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242646|9893772
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242647|9893842
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242648|9893811
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243041|9893854
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243042|9893810
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24243043|9893739
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242662|9893780
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24242663|9893797
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242664|9893729
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242649|9893766
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY011TX"|"Deep Sandy Terrace"|24242650|9893839
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242931|9893694
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242932|9893866
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242933|9893738
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242934|9893714
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242935|9893838
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242924|9893774
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242925|9893845
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242926|9893721
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242927|9893795
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242800|9893880
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242801|9893754
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242802|9893821
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242777|9893863
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242778|9893710
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242779|9893831
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242601|9893695
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242602|9893767
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242603|9893840
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242604|9893715
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243073|9893832
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243074|9893762
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24243075|9893735
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243076|9893804
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24243147|9893823
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243148|9893707
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243149|9893879
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242780|9893755
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242781|9893830
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242782|9893858
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242783|9893783
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24243002|9893720
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243003|9893790
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243004|9893864
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242991|9893759
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242992|9893884
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY018TX"|"Clayey Bottomland"|24242993|9893801
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242784|9893708
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242785|9893741
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242786|9893869
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243108|9893703
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243109|9893876
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243110|9893736
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242902|9893793
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242903|9893718
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24242904|9893743
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24243044|9893716
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24243045|9893744
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24243046|9893813
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243047|9893699
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242998|9893887
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242999|9893802
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24243000|9893728
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243001|9893851
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242651|9893829
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242652|9893856
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242653|9893785
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242654|9893803
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243048|9893885
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243049|9893798
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243050|9893730
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243051|9893849
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242655|9893874
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242656|9893747
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242657|9893726
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242658|9893847
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24242687|9893733
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242688|9893806
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243035|9893752
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24243036|9893881
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243037|9893709
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243052|9893827
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY002TX"|"Seasonally Wet Upland"|24243053|9893860
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243054|9893786
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243055|9893805
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242665|9893808
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242666|9893833
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242667|9893775
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243229|9893781
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243230|9893850
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24242730|9893776
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242731|9893834
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242732|9893711
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242886|9893816
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24242887|9893846
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242888|9893771
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242735|9893815
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242736|9893745
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242737|9893871
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY011TX"|"Deep Sandy Terrace"|24242832|9893753
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242833|9893820
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242834|9893704
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242892|9893868
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242893|9893761
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242894|9893828
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242638|9893826
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24242639|9893852
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242640|9893778
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242895|9893862
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242896|9893696
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242897|9893817
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243056|9893812
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243057|9893748
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243058|9893875
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242545|9893882
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242546|9893757
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24243059|9893853
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243060|9893734
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243061|9893807
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242659|9893799
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242660|9893727
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242661|9893751
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243099|9893873
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243100|9893706
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243101|9893779
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242835|9893809
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242836|9893837
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242837|9893773
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242635|9893843
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242636|9893719
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242637|9893794
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242789|9893883
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242790|9893756
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242791|9893822
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24242792|9893769
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242793|9893788
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242794|9893712
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242795|9893878
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242796|9893764
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242797|9893732
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242798|9893857
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242799|9893784
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24242581|9893792
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY008TX"|"Northern Deep Sandy Upland"|24242582|9893717
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242583|9893740
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24243102|9893791
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24243103|9893782
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24243104|9893855
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY010TX"|"Very Deep Sandy Upland"|24242803|9893818
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY016TX"|"Sandy Bottomland"|24242804|9893702
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242805|9893777
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243066|9893848
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243067|9893701
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24243068|9893814
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243069|9893841
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24243105|9893872
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24243106|9893746
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243107|9893800
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243070|9893700
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243071|9893758
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243072|9893886
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242921|9893749
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY006TX"|"Northern Sandy Loam Upland"|24242922|9893819
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY013TX"|"Terrace"|24242923|9893724
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242889|9893844
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242890|9893722
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242891|9893750
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243185|9893859
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243186|9893725
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY002TX"|"Seasonally Wet Upland"|24242787|9893742
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242788|9893870
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242898|9893835
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24242899|9893763
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY002TX"|"Seasonally Wet Upland"|24242900|9893731
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24242901|9893861
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243187|9893877
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24243188|9893796
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243189|9893723
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243162|9893836
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243163|9893765
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24243164|9893698
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243165|9893865
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243182|9893737
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243183|9893867
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY001TX"|"Depression"|24243184|9893697
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY003TX"|"Loamy Over Clayey Upland"|24243145|9893824
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY005TX"|"Loamy Upland"|24243146|9893705
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY014TX"|"Creek Bottomland"|24242757|9893825
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F133BY017TX"|"Loamy Bottomland"|24242758|9893760

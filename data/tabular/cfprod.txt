@@ -1,0 +1,569 @@
+"plantsym"|"plantsciname"|"plantcomname"|"siteindexbase"|"siteindex_l"|"siteindex_r"|"siteindex_h"|"fprod_l"|"fprod_r"|"fprod_h"|"cokey"|"cofprodkey"
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24232334|33914290
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24232334|33914291
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||85|||143||24232338|33914292
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24232338|33914293
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24232338|33914294
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24232338|33914295
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24232339|33914296
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||83|||114||24232339|33914297
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24231847|33914131
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||96|||143||24231847|33914132
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||88|||114||24231847|33914133
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24232063|33914160
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24232063|33914161
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232282|33914257
+"PIEL"|"Pinus elliottii"|"slash pine"|""|||||||24232282|33914258
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232282|33914259
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||70|||86||24232282|33914260
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||75|||100||24232353|33914300
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||65|||100||24232353|33914301
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24232410|33914331
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||114||24232410|33914332
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24232247|33914230
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||114||24232247|33914231
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||76|||100||24232250|33914232
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||68|||100||24232250|33914233
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24232371|33914312
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24232371|33914313
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232092|33914174
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232092|33914175
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24232195|33914204
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24232195|33914205
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24232253|33914234
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24232253|33914235
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24232257|33914236
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24232257|33914237
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||77|||100||24232244|33914228
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||66|||100||24232244|33914229
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||75|||100||24232414|33914333
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||102|||157||24232260|33914238
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24232260|33914239
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24232260|33914240
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||102|||157||24232226|33914208
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24232226|33914209
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24232226|33914210
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24232065|33914162
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24232065|33914163
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24232066|33914164
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24232066|33914165
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24232416|33914334
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24232416|33914335
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24231953|33914144
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24231953|33914145
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24232104|33914178
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24232104|33914179
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232102|33914176
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||57|||86||24232102|33914177
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24232091|33914170
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24232091|33914171
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232091|33914172
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232091|33914173
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||0||24232300|33914263
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||0||24232300|33914264
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232300|33914265
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232300|33914266
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232108|33914180
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232108|33914181
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232108|33914182
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232108|33914183
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24231955|33914146
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||70|||86||24231955|33914147
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||88|||129||24231955|33914148
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24231955|33914149
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24231955|33914150
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||88|||129||24232418|33914336
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24232418|33914337
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||70|||86||24232418|33914338
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232418|33914339
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232418|33914340
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24232228|33914211
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||98|||143||24232228|33914212
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|"Broadfoot 1963 (860)"||100|||143||24232228|33914213
+"LITU"|"Liriodendron tulipifera"|"tuliptree"|"Beck 1962 (350)"||95|||100||24232228|33914214
+"PODE3"|"Populus deltoides"|"eastern cottonwood"|"Broadfoot 1960 (710)"||90|||100||24232228|33914215
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|"Broadfoot, Krinard 1959 (330)"||80|||57||24232228|33914216
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24231792|33914123
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|"Broadfoot, Krinard 1959 (330)"||90|||57||24231792|33914124
+"LITU"|"Liriodendron tulipifera"|"tuliptree"|"Beck 1962 (350)"||100|||114||24231792|33914125
+"PODE3"|"Populus deltoides"|"eastern cottonwood"|"Broadfoot 1960 (710)"||105|||143||24231792|33914126
+"PLOC"|"Platanus occidentalis"|"American sycamore"|"Briscoe, Ferrill 1958 (700)"||105|||143||24231792|33914127
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||82|||114||24232422|33914341
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24232422|33914342
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24232422|33914343
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||80|||86||24232422|33914344
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232356|33914304
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232356|33914305
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24231937|33914136
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||80|||86||24231937|33914137
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||82|||114||24231937|33914138
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24231937|33914139
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||85|||143||24231938|33914140
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24231938|33914141
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24231938|33914142
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24231938|33914143
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232230|33914217
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||66|||86||24232230|33914218
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232273|33914249
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||68|||100||24232273|33914250
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232273|33914251
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232273|33914252
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232279|33914255
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232279|33914256
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232241|33914226
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232241|33914227
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232429|33914353
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232429|33914354
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24232276|33914253
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24232276|33914254
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||68|||100||24232264|33914241
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232264|33914242
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232264|33914243
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232264|33914244
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24232268|33914245
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24232268|33914246
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24232270|33914247
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24232270|33914248
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||90|||86||24232354|33914302
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||90|||86||24232354|33914303
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24231963|33914151
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||89|||129||24231963|33914152
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24231963|33914153
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||89|||129||24232232|33914219
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24232232|33914220
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232232|33914221
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24232424|33914345
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||114||24232424|33914346
+"CARYA"|"Carya"|"hickory"|""|||||||24232424|33914347
+"QUST"|"Quercus stellata"|"post oak"|""|||||||24232424|33914348
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232424|33914349
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232424|33914350
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24232409|33914327
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24232409|33914328
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232409|33914329
+"CARYA"|"Carya"|"hickory"|""|||||||24232409|33914330
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24232445|33914359
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24232445|33914360
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24232374|33914314
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24232374|33914315
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24232235|33914222
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24232235|33914223
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||63|||86||24231837|33914128
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"|||||||24231837|33914129
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24231837|33914130
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24232200|33914206
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24232200|33914207
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||63|||86||24232031|33914159
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232348|33914298
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232348|33914299
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232110|33914184
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232110|33914185
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232427|33914351
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232427|33914352
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||60|||43||24231988|33914154
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||57|||86||24231988|33914155
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||65|||86||24231988|33914156
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24231989|33914157
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24231989|33914158
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232112|33914186
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24232112|33914187
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||96|||143||24232434|33914355
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||96|||129||24232434|33914356
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||96|||86||24232434|33914357
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24232434|33914358
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24232116|33914188
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24232116|33914189
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232116|33914190
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232116|33914191
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24231858|33914134
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24231858|33914135
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24232119|33914192
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||78|||114||24232119|33914193
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24232286|33914261
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24232286|33914262
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24232238|33914224
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24232238|33914225
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||85|||143||24232359|33914306
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24232359|33914307
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24232359|33914308
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24232359|33914309
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24232360|33914310
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24232360|33914311
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24232124|33914194
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||92|||143||24232124|33914195
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24232124|33914196
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24232124|33914197
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232124|33914198
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24232125|33914199
+"CARYA"|"Carya"|"hickory"|""|||||||24232125|33914200
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24232125|33914201
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24232125|33914202
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24232125|33914203
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24232385|33914316
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24232385|33914317
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24232385|33914318
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24232385|33914319
+"CARYA"|"Carya"|"hickory"|""|||||||24232385|33914320
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24232386|33914321
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24232386|33914322
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24232386|33914323
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24232386|33914324
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24232386|33914325
+"CARYA"|"Carya"|"hickory"|""|||||||24232386|33914326
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24232319|33914267
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||90|||72||24232319|33914268
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24232319|33914269
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24232319|33914270
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24232319|33914271
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24232320|33914272
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24232320|33914273
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24232320|33914274
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24232320|33914275
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24232320|33914276
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24232320|33914277
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24232320|33914278
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24232321|33914279
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24232321|33914280
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24232321|33914281
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24232321|33914282
+"CARYA"|"Carya"|"hickory"|""|||||||24232321|33914283
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24232322|33914284
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24232322|33914285
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24232322|33914286
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24232322|33914287
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24232322|33914288
+"CARYA"|"Carya"|"hickory"|""|||||||24232322|33914289
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24232088|33914166
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||129||24232088|33914167
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24232088|33914168
+"PODE3"|"Populus deltoides"|"eastern cottonwood"|"Broadfoot 1960 (710)"||105|||143||24232088|33914169
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24242591|33928109
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24242591|33928110
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||87|||143||24242905|33928331
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||143||24242905|33928332
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||94|||143||24242648|33928132
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242648|33928133
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||143||24242648|33928134
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242648|33928135
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||143||24243043|33928385
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||94|||143||24243043|33928386
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243043|33928387
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243043|33928388
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24242664|33928145
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||70|||86||24242664|33928146
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||83|||114||24242664|33928147
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||96|||143||24242650|33928136
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24242650|33928137
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||88|||114||24242650|33928138
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24242935|33928346
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24242935|33928347
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||114||24242924|33928340
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24242924|33928341
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24242800|33928252
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24242800|33928253
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||68|||100||24242778|33928206
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||76|||100||24242778|33928207
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24242602|33928115
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24242602|33928116
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24242604|33928117
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||114||24242604|33928118
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24243075|33928424
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24243075|33928425
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||81|||114||24243147|33928492
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24243147|33928493
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||70|||57||24242780|33928208
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||72|||57||24242780|33928209
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||90|||86||24243002|33928377
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||93|||114||24243002|33928378
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||90|||86||24243002|33928379
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||93|||114||24242993|33928369
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||93|||86||24242993|33928370
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||86|||86||24242993|33928371
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|"Broadfoot, Krinard 1959 (330)"|||||||24242993|33928372
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||95|||143||24242784|33928210
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"|||||||24242784|33928211
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242784|33928212
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242784|33928213
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||90|||129||24242786|33928214
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||129||24242786|33928215
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242786|33928216
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242786|33928217
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||143||24243109|33928450
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243109|33928451
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|"Schnur 1937 (820)"||102|||157||24243109|33928452
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24242902|33928330
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24242999|33928375
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24242999|33928376
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24242653|33928139
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||83|||114||24242653|33928140
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24243048|33928389
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||75|||114||24243048|33928390
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||57|||86||24242658|33928141
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24242658|33928142
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24242688|33928153
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24242688|33928154
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24242688|33928155
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24243037|33928380
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24243037|33928381
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24243037|33928382
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||95|||114||24243052|33928391
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||95|||72||24243052|33928392
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"||100|||186||24243052|33928393
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||86|||143||24243052|33928394
+"CARYA"|"Carya"|"hickory"|""|||||||24243052|33928395
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||91|||129||24243052|33928396
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24243053|33928397
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||92|||143||24243053|33928398
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24243053|33928399
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24243053|33928400
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24243053|33928401
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243054|33928402
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24243054|33928403
+"CARYA"|"Carya"|"hickory"|""|||||||24243054|33928404
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243054|33928405
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243054|33928406
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24243055|33928407
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24243055|33928408
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||90|||72||24243055|33928409
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24243055|33928410
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243055|33928411
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24242666|33928148
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242666|33928149
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"||70|||86||24242666|33928150
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24242666|33928151
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||88|||129||24242666|33928152
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24243229|33928612
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24243229|33928613
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243230|33928614
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24243230|33928615
+"CARYA"|"Carya"|"hickory"|""|||||||24243230|33928616
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24243230|33928617
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243230|33928618
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||90|||57||24242730|33928170
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||93|||114||24242730|33928171
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|"Broadfoot, Krinard 1959 (330)"|||||86||24242730|33928172
+"NYSY"|"Nyssa sylvatica"|"blackgum"|"Applequist 1959 (390)"|||||||24242886|33928286
+"QUAL"|"Quercus alba"|"white oak"|"Schnur 1937 (820)"|||||||24242886|33928287
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242886|33928288
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||100|||157||24242886|33928289
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24242886|33928290
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||93|||114||24242887|33928291
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||90|||57||24242887|33928292
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|"Broadfoot, Krinard 1959 (330)"||90|||57||24242887|33928293
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24242735|33928179
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24242735|33928180
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24242735|33928181
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24242735|33928182
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24242735|33928183
+"CARYA"|"Carya"|"hickory"|""|||||||24242735|33928184
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24242736|33928185
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24242736|33928186
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24242736|33928187
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242736|33928188
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24242737|33928189
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24242737|33928190
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24242737|33928191
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242737|33928192
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24242833|33928257
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||85|||143||24242833|33928258
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24242833|33928259
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242833|33928260
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24242834|33928261
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||82|||114||24242834|33928262
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||80|||86||24242834|33928263
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24242834|33928264
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||80|||72||24242894|33928310
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||80|||72||24242894|33928311
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24242640|33928127
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242640|33928128
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24242640|33928129
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24242640|33928130
+"NYSY"|"Nyssa sylvatica"|"blackgum"|""|||||||24242640|33928131
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24242545|33928095
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24242545|33928096
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||79|||114||24242546|33928097
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||69|||114||24242546|33928098
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||79|||114||24243060|33928412
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||69|||114||24243060|33928413
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||69|||114||24242659|33928143
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||79|||114||24242659|33928144
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||60|||86||24243099|33928441
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||70|||86||24243099|33928442
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||89|||129||24242835|33928265
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||76|||114||24242835|33928266
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242835|33928267
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||||24242635|33928125
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||84|||||24242635|33928126
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24242790|33928228
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242790|33928229
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242790|33928230
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24242791|33928231
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24242791|33928232
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24242791|33928233
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24242791|33928234
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24242791|33928235
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24242791|33928236
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242791|33928237
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24242792|33928238
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24242792|33928239
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24242792|33928240
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24242792|33928241
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24242792|33928242
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24242792|33928243
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242792|33928244
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24242793|33928245
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24242793|33928246
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24242794|33928247
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242794|33928248
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242794|33928249
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24242795|33928250
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24242795|33928251
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||63|||86||24242581|33928099
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242581|33928100
+"PIPA2"|"Pinus palustris"|"longleaf pine"|"USDA 1929 (580)"|||||||24242581|33928101
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||63|||86||24243102|33928443
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24243104|33928444
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24243104|33928445
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||63|||86||24242803|33928254
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24242805|33928255
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24242805|33928256
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24243067|33928414
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||82|||129||24243067|33928415
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||95|||143||24243105|33928446
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243105|33928447
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||143||24243105|33928448
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243105|33928449
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24243071|33928416
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||70|||114||24243071|33928417
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24243072|33928418
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24243072|33928419
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24243072|33928420
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243072|33928421
+"CARYA"|"Carya"|"hickory"|""|||||||24243072|33928422
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24243072|33928423
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||86|||129||24242921|33928333
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242921|33928334
+"CARYA"|"Carya"|"hickory"|""|||||||24242921|33928335
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||77|||129||24242921|33928336
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242921|33928337
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||87|||129||24242922|33928338
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24242922|33928339
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24242889|33928294
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24242889|33928295
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24242889|33928296
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24242889|33928297
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24242889|33928298
+"CARYA"|"Carya"|"hickory"|""|||||||24242889|33928299
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24242890|33928300
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24242890|33928301
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24242890|33928302
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242890|33928303
+"QUAL"|"Quercus alba"|"white oak"|"Schnur 1937 (820)"||74|||114||24242891|33928304
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"|||||||24242891|33928305
+"QUFA"|"Quercus falcata"|"southern red oak"|"Schnur 1937 (820)"||80|||114||24242891|33928306
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242891|33928307
+"CARYA"|"Carya"|"hickory"|""|||||||24242891|33928308
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242891|33928309
+"CARYA"|"Carya"|"hickory"|""|||||||24243185|33928558
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||86|||129||24243185|33928559
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243185|33928560
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||77|||129||24243185|33928561
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243185|33928562
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24243186|33928563
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24243186|33928564
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24243186|33928565
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24243186|33928566
+"CARYA"|"Carya"|"hickory"|""|||||||24243186|33928567
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243186|33928568
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24242787|33928218
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||92|||143||24242787|33928219
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24242787|33928220
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24242787|33928221
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242787|33928222
+"CARYA"|"Carya"|"hickory"|""|||||||24242788|33928223
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24242788|33928224
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24242788|33928225
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242788|33928226
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242788|33928227
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||83|||114||24242898|33928312
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||72|||114||24242898|33928313
+"CARYA"|"Carya"|"hickory"|""|||||||24242899|33928314
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24242899|33928315
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24242899|33928316
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24242899|33928317
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24242899|33928318
+"QUAL"|"Quercus alba"|"white oak"|""|||||||24242900|33928319
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||92|||143||24242900|33928320
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24242900|33928321
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24242900|33928322
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24242900|33928323
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24242901|33928324
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24242901|33928325
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24242901|33928326
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24242901|33928327
+"CARYA"|"Carya"|"hickory"|""|||||||24242901|33928328
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24242901|33928329
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24243187|33928569
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243187|33928570
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243187|33928571
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24243188|33928572
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24243188|33928573
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24243188|33928574
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24243188|33928575
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24243188|33928576
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24243188|33928577
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24243188|33928578
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||90|||129||24243189|33928579
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||80|||129||24243189|33928580
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24243162|33928508
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||90|||72||24243162|33928509
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243162|33928510
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24243162|33928511
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24243162|33928512
+"CARYA"|"Carya"|"hickory"|""|||||||24243163|33928513
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24243163|33928514
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243163|33928515
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243163|33928516
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243163|33928517
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24243164|33928518
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24243164|33928519
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24243164|33928520
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24243164|33928521
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24243164|33928522
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24243164|33928523
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24243164|33928524
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||100|||186||24243165|33928525
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||91|||129||24243165|33928526
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||95|||72||24243165|33928527
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||95|||114||24243165|33928528
+"CARYA"|"Carya"|"hickory"|""|||||||24243165|33928529
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243165|33928530
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||86|||143||24243182|33928541
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot, Krinard 1959 (330)"||90|||72||24243182|33928542
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||157||24243182|33928543
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24243182|33928544
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24243182|33928545
+"CARYA"|"Carya"|"hickory"|""|||||||24243183|33928546
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||93|||143||24243183|33928547
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243183|33928548
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"|||||||24243183|33928549
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243183|33928550
+"PIEL"|"Pinus elliottii"|"slash pine"|"USDA 1929 (550)"||90|||157||24243184|33928551
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||85|||114||24243184|33928552
+"FRPE"|"Fraxinus pennsylvanica"|"green ash"|""|||||||24243184|33928553
+"QUPH"|"Quercus phellos"|"willow oak"|"Broadfoot 1963 (860)"||78|||72||24243184|33928554
+"QUNI"|"Quercus nigra"|"water oak"|""|||||||24243184|33928555
+"QUPA5"|"Quercus pagoda"|"cherrybark oak"|""|||||||24243184|33928556
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24243184|33928557
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|""|||||||24243145|33928484
+"QUFA"|"Quercus falcata"|"southern red oak"|""|||||||24243145|33928485
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||80|||114||24243145|33928486
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||74|||114||24243145|33928487
+"QUFA"|"Quercus falcata"|"southern red oak"|"Broadfoot 1963 (860)"|||||||24243146|33928488
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||94|||143||24243146|33928489
+"PIEC2"|"Pinus echinata"|"shortleaf pine"|"Coile, Schumacher 1953 (530)"||84|||143||24243146|33928490
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"|||||||24243146|33928491
+"LIST2"|"Liquidambar styraciflua"|"sweetgum"|"Broadfoot, Krinard 1959 (330)"||100|||143||24242757|33928198
+"QUNI"|"Quercus nigra"|"water oak"|"Broadfoot 1963 (860)"||100|||100||24242757|33928199
+"PITA"|"Pinus taeda"|"loblolly pine"|"Coile, Schumacher 1953 (690)"||100|||129||24242757|33928200
+"PODE3"|"Populus deltoides"|"eastern cottonwood"|"Broadfoot 1960 (710)"||105|||143||24242757|33928201

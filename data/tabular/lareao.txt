@@ -1,0 +1,13 @@
+"areatypename"|"areasymbol"|"areaname"|"areaovacres"|"lkey"|"lareaovkey"
+"Climate Factor Area (USLE)"|"5"|"Climate Factor"|627232|15063|549683
+"County or Parish"|"TX347"|"Nacogdoches"|627232|15063|549684
+"MLRA"|"133B"|"Western Coastal Plain"|627232|15063|549685
+"Rainfall Factor Area (USLE)"|"400"|"Rainfall Factor"|627232|15063|549686
+"State or Territory"|"TX"|"Texas"|627232|15063|549687
+"Texas Administrative Zones"|"4"|"Texas Zone 4 (Bryan)"|627232|15063|549688
+"Climate Factor Area (USLE)"|"5"|"Climate Factor"|600084|15065|549986
+"County or Parish"|"TX401"|"Rusk"|600084|15065|549987
+"MLRA"|"133B"|"Western Coastal Plain"|600084|15065|549988
+"Rainfall Factor Area (USLE)"|"350"|"Rainfall Factor"|600084|15065|549989
+"State or Territory"|"TX"|"Texas"|600084|15065|549990
+"Texas Administrative Zones"|"4"|"Texas Zone 4 (Bryan)"|600084|15065|549991

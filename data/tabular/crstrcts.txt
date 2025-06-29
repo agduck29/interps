@@ -1,0 +1,79 @@
+"reskind"|"reshard"|"resdept_l"|"resdept_r"|"resdept_h"|"resdepb_l"|"resdepb_r"|"resdepb_h"|"resthk_l"|"resthk_r"|"resthk_h"|"cokey"|"corestrictkey"
+"Densic bedrock"|"noncoherent"|101|132|152|203|203|203|51|71|101|24232064|6832129
+"Densic bedrock"|"noncoherent"|51|86|102|||||||24232410|6832209
+"Densic bedrock"|"noncoherent"|102|117|152|203|203|203|51|86|101|24232411|6832210
+"Densic bedrock"|"noncoherent"|102|140|152|203|203|203|51|63|101|24232413|6832211
+"Densic bedrock"|"noncoherent"|51|79|102|||||||24232247|6832185
+"Densic bedrock"|"noncoherent"|102|140|152|203|203|203|51|63|101|24232249|6832186
+"Densic bedrock"|"noncoherent"|51|71|102|||||||24232250|6832187
+"Densic bedrock"|"noncoherent"|102|140|152|203|203|203|51|63|101|24232252|6832188
+"Densic bedrock"|"noncoherent"|102|142|152|203|203|203|51|61|101|24232372|6832203
+"Densic bedrock"|"noncoherent"|125|173|203|||||||24232092|6832142
+"Densic bedrock"|"noncoherent"|102|117|152|203|203|203|51|86|101|24232194|6832168
+"Densic bedrock"|"noncoherent"|102|117|152|203|203|203|51|86|101|24232258|6832189
+"Densic bedrock"|"noncoherent"|109|129|153|159|203|203|30|74|94|24232244|6832184
+"Densic bedrock"|"noncoherent"|102|109|152|||||||24232414|6832212
+"Densic bedrock"|"noncoherent"|102|145|152|203|203|203|51|58|101|24232415|6832213
+"Densic bedrock"|"noncoherent"|102|119|152|||||||24232416|6832214
+"Densic bedrock"|"noncoherent"||79||||||||24232417|6832215
+"Densic bedrock"|"noncoherent"|127|173|178|203|203|203|25|30|76|24231953|6832109
+"Densic bedrock"|"noncoherent"|102|132|152|||||||24232104|6832152
+"Densic bedrock"|"noncoherent"|102|120|152|||||||24232102|6832150
+"Densic bedrock"|"noncoherent"||79||||||||24232103|6832151
+"Densic bedrock"|"noncoherent"|102|145|152|||||||24232108|6832153
+"Densic bedrock"|"noncoherent"|127|173|178|203|203|203|25|30|76|24232356|6832202
+"Densic bedrock"|"noncoherent"|102|117|152|||||||24232230|6832181
+"Densic bedrock"|"noncoherent"|102|145|152|203|203|203|51|58|101|24232231|6832182
+"Densic bedrock"|"noncoherent"|102|114|152|||||||24232235|6832183
+"Paralithic bedrock"|"Weakly coherent"|51|99|102|203|203|203|101|104|152|24232348|6832201
+"Paralithic bedrock"|"Weakly coherent"|51|127|203|||||||24232110|6832154
+"Paralithic bedrock"|"Weakly coherent"|51|114|203|||||||24232427|6832216
+"Paralithic bedrock"|"Weakly coherent"|41|49|49|91|203|203|154|154|162|24231988|6832110
+"Paralithic bedrock"|"Weakly coherent"|59|76|97|203|203|203|106|127|144|24231989|6832111
+"Paralithic bedrock"|"Weakly coherent"|51|114|137|||||||24232112|6832155
+"Paralithic bedrock"|"Weakly coherent"||36||||||||24232115|6832156
+"Densic bedrock"|"noncoherent"|102|145|152|203|203|203|51|58|101|24231857|6832092
+"Densic bedrock"|"noncoherent"|102|142|152|||||||24232119|6832157
+"Densic bedrock"|"noncoherent"|102|145|152|203|203|203|51|58|101|24232120|6832158
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24232287|6832190
+"Densic bedrock"|"noncoherent"|100|119|136|150|163|203||||24232288|6832191
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24242906|6834784
+"Densic bedrock"|"noncoherent"|100|119|136|150|163|203||||24242907|6834785
+"Densic bedrock"|"noncoherent"|100|119|136|150|163|203||||24243041|6834651
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24243042|6834650
+"Densic bedrock"|"noncoherent"|100|119|136|150|163|203||||24242933|6834666
+"Densic bedrock"|"noncoherent"|51|94|99|203|203|203|104|109|152|24242924|6834780
+"Densic bedrock"|"noncoherent"|80|85|90|203|203|203|113|118|123|24242800|6834782
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24242777|6834713
+"Densic bedrock"|"noncoherent"|51|84|102|||||||24242778|6834712
+"Densic bedrock"|"noncoherent"|102|142|152|203|203|203|51|61|101|24243074|6834781
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24242651|6834715
+"Densic bedrock"|"noncoherent"|102|130|152|||||||24242653|6834714
+"Densic bedrock"|"noncoherent"|102|112|152|||||||24243048|6834716
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24243049|6834717
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24242656|6834720
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24242657|6834719
+"Densic bedrock"|"noncoherent"|102|104|152|||||||24242658|6834718
+"Densic bedrock"|"noncoherent"|104|110|135|203|203|203|68|93|99|24243229|6834783
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24242896|6834721
+"Densic bedrock"|"noncoherent"|102|142|152|203|203|203|51|61|101|24242897|6834722
+"Densic bedrock"|"noncoherent"|102|142|152|203|203|203|51|61|101|24243057|6834724
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24243058|6834723
+"Densic bedrock"|"noncoherent"|102|140|152|||||||24242545|6834687
+"Densic bedrock"|"noncoherent"|102|112|152|||||||24242546|6834668
+"Densic bedrock"|"noncoherent"|102|114|152|||||||24243060|6834727
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24243061|6834728
+"Densic bedrock"|"noncoherent"|102|142|152|||||||24242659|6834725
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24242661|6834726
+"Densic bedrock"|"noncoherent"|102|112|152|||||||24243099|6834729
+"Densic bedrock"|"noncoherent"|102|132|152|203|203|203|51|71|101|24243101|6834730
+"Densic bedrock"|"noncoherent"|102|112|152|||||||24242795|6834731
+"Densic bedrock"|"noncoherent"|51|89|102|203|203|203|101|114|152|24242796|6834732
+"Densic bedrock"|"noncoherent"|102|142|152|203|203|203|51|61|101|24242799|6834733
+"Densic bedrock"|"noncoherent"|104|110|135|203|203|203|68|93|99|24243104|6834734
+"Densic bedrock"|"noncoherent"|104|110|135|203|203|203|68|93|99|24242805|6834739
+"Densic bedrock"|"noncoherent"|102|142|152|||||||24243067|6834735
+"Densic bedrock"|"noncoherent"|102|132|152|||||||24243071|6834736
+"Densic bedrock"|"noncoherent"|102|130|152|||||||24242921|6834737
+"Densic bedrock"|"noncoherent"|104|110|135|203|203|203|68|93|99|24242922|6834738
+"Densic bedrock"|"noncoherent"|102|130|152|203|203|203|51|73|101|24242898|6834793
