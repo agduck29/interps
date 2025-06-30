@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Populate Dropdown and List Entries</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        #filter-controls {
+            margin: 10px;
+        }
+        #unique-entries-list {
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Exploring Soil Interpretation Possibilities</h1>
+
+    <div id="filter-controls">
+        <label for="column-select">Select a Column:</label>
+        <select id="column-select">
+            <option value="">-- Select --</option>
+            <!-- Column headers will be populated by JavaScript -->
+        </select>
+    </div>
+
+    <div id="unique-entries-list">
+        <!-- Unique entries will be listed here -->
+    </div>
+
+    <script>
+        const textFileUrl = "https://raw.githubusercontent.com/agduck29/interps/main/data/tabular/comp.txt";
+
+        var textFileData; // Variable to store the fetched text file data
+
+        async function populateColumnDropdown() {
+            try {
+                // Fetch the text file
+                const response = await fetch(textFileUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                textFileData = await response.text(); // Store the fetched data
+
+                // Get the header row and remove leading/trailing hyphens
+                const headerLine = textFileData.trim().split('\n'); // Split into rows
+                const header = headerLine[0].split('|'); // Split the first row (header) by pipe
+
+                // Populate the dropdown with column headers
+                const columnSelect = document.getElementById('column-select');
+                header.forEach(function(header) {
+                    // Remove leading/trailing hyphens from the header
+                    const cleanHeader = header.replace(/-/g, ''); // Use replace() with regex
+
+                    const option = document.createElement('option');
+                    option.value = cleanHeader; // Use the cleaned header as the value and text
+                    option.textContent = cleanHeader;
+                    columnSelect.appendChild(option);
+                });
+
+            } catch (error) {
+                console.error("Error loading or parsing data:", error);
+            }
+        }
+
+        // Call the function to populate the dropdown
+        populateColumnDropdown();
+
+        // Event listener for the dropdown change
+        document.getElementById('column-select').addEventListener('change', function(e) {
+            const selectedColumn = e.target.value;
+            const uniqueEntriesList = document.getElementById('unique-entries-list');
+            uniqueEntriesList.innerHTML = ''; // Clear the previous list
+
+            if (selectedColumn && textFileData) {
+                // Parse the text file data again to get the rows
+                const rows = textFileData.trim().split('\n');
+                const header = rows[0].split('|'); // Split the first row (header) by pipe
+
+                // Find the index of the selected column (using the cleaned header)
+                const columnIndex = header.indexOf(selectedColumn);
+
+                if (columnIndex === -1) {
+                    uniqueEntriesList.textContent = "Column not found.";
+                    return;
+                }
+
+                // Collect unique entries for the selected column
+                const uniqueEntries = new Set();
+                for (let i = 1; i < rows.length; i++) { // Start from the second row (index 1)
+                    const values = rows[i].split('|'); // Split values by pipe
+                    const entry = values[columnIndex];
+
+                    if (entry) { // Only add non-empty entries
+                        // Remove leading/trailing hyphens from the entry
+                        const cleanEntry = entry.replace(/-/g, '').trim(); // Remove hyphens and trim whitespace
+
+                        uniqueEntries.add(cleanEntry); // Add the cleaned entry
+                    }
+                }
+
+                // Display the unique entries
+                if (uniqueEntries.size > 0) {
+                    const list = document.createElement('ul');
+                    uniqueEntries.forEach(function(entry) {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = entry;
+                        list.appendChild(listItem);
+                    });
+                    uniqueEntriesList.appendChild(list);
+                } else {
+                    uniqueEntriesList.textContent = "No unique entries found for this column.";
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>
